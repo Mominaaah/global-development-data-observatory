@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2025",
+            "value": 45489810283.1132,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2024",
+            "value": 43298911699.9284,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2023",
+            "value": 41049329851.0546,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2022",
+            "value": 41182939519.8161,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2021",
+            "value": 36924841394.2605,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2020",
+            "value": 33433659301.2466,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2019",
+            "value": 34186180699.0255,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2018",
+            "value": 33111525237.149,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2017",
+            "value": 28971588940.364,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2016",
+            "value": 24524109483.5293,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2015",
+            "value": 24360801286.7638,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2014",
+            "value": 22731612922.1906,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2013",
+            "value": 22162204924.5726,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2012",
+            "value": 21703100877.1309,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2011",
+            "value": 21573872420.7008,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2010",
+            "value": 16002656434.4746,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2009",
+            "value": 12854985464.0764,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2008",
+            "value": 12545438605.3959,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2007",
+            "value": 10325618017.379,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2006",
+            "value": 9043715355.8881,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2005",
+            "value": 8130258377.90964,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2004",
+            "value": 7273938314.71988,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2003",
+            "value": 6330473096.54071,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2002",
+            "value": 6050875806.66403,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2001",
+            "value": 6007055042.17687,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2000",
+            "value": 5494252207.90502,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1999",
+            "value": 5033642384.10596,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1998",
+            "value": 4856255044.39064,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1997",
+            "value": 4918691916.53516,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1996",
+            "value": 4521580381.47139,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1995",
+            "value": 4401104417.67068,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1994",
+            "value": 4066775510.20408,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1993",
+            "value": 3660041666.66667,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1992",
+            "value": 3401211581.29176,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1991",
+            "value": 3921476084.89072,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1990",
+            "value": 3627560239.48997,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1989",
+            "value": 3525225786.58691,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1988",
+            "value": 3487009748.35638,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1987",
+            "value": 2957255379.54315,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1986",
+            "value": 2850782044.04306,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1985",
+            "value": 2619913955.51556,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1984",
+            "value": 2581207387.79709,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1983",
+            "value": 2447174803.37791,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1982",
+            "value": 2395423741.79762,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1981",
+            "value": 2275583316.66667,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1980",
+            "value": 1945916583.33333,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1979",
+            "value": 1851250008.33333,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1978",
+            "value": 1604162497.45945,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1977",
+            "value": 1382400000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1976",
+            "value": 1452788984.86265,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1975",
+            "value": 1575789254.46938,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1974",
+            "value": 1217953546.97604,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1973",
+            "value": 972101724.995368,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1972",
+            "value": 1024098400.35619,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1971",
+            "value": 882765471.604938,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1970",
+            "value": 865975308.641975,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1969",
+            "value": 788641965.432099,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1968",
+            "value": 772231386.914829,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1967",
+            "value": 841974025.462659,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1966",
+            "value": 906811943.824649,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1965",
+            "value": 735267082.294264,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1964",
+            "value": 496098775.308642,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1963",
+            "value": 496947904.443033,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1962",
+            "value": 574091101.194382,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1961",
+            "value": 531959561.62226,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1960",
+            "value": 508334413.965087,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

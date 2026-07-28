@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2025",
+            "value": 2319899772425.92,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2024",
+            "value": 2270076189683.46,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2023",
+            "value": 2196593836347.42,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2022",
+            "value": 2200562785046.32,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2021",
+            "value": 2022377950896.78,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2020",
+            "value": 1655686966881.99,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2019",
+            "value": 1743728952156.85,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2018",
+            "value": 1725330736237.69,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2017",
+            "value": 1649269496514.62,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2016",
+            "value": 1527996250640.92,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2015",
+            "value": 1556510380200.23,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2014",
+            "value": 1805751688808.98,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2013",
+            "value": 1846583831414.43,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2012",
+            "value": 1828359477071.97,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2011",
+            "value": 1793335727900.85,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2010",
+            "value": 1617349192091.46,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2009",
+            "value": 1374627766599.6,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2008",
+            "value": 1552993439550.14,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2007",
+            "value": 1468820407783.26,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2006",
+            "value": 1319291255289.14,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2005",
+            "value": 1173118501402.87,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2004",
+            "value": 1026691006917.76,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2003",
+            "value": 895542074084.648,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2002",
+            "value": 760650608551.583,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2001",
+            "value": 738981792355.372,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2000",
+            "value": 744773415931.587,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1999",
+            "value": 678414215521.303,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1998",
+            "value": 633999325918.436,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1997",
+            "value": 654987722085.801,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1996",
+            "value": 630607994132.747,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1995",
+            "value": 605961090061.207,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1994",
+            "value": 579944346807.264,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1993",
+            "value": 579053561739.4,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1992",
+            "value": 594387358318.855,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1991",
+            "value": 612527712315.615,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1990",
+            "value": 596075591360.987,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1989",
+            "value": 567211993243.243,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1988",
+            "value": 509380027626.554,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1987",
+            "value": 433134238310.709,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1986",
+            "value": 379006836991.724,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1985",
+            "value": 366186012449.652,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1984",
+            "value": 356718400123.543,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1983",
+            "value": 341866277182.733,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1982",
+            "value": 314647807408.608,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1981",
+            "value": 307246642755.859,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1980",
+            "value": 274776566028.053,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1979",
+            "value": 243891124295.715,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1978",
+            "value": 219369542386.254,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1977",
+            "value": 212325176304.654,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1976",
+            "value": 207271612576.065,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1975",
+            "value": 174419757176.563,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1974",
+            "value": 160949188139.059,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1973",
+            "value": 131764343565.643,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1972",
+            "value": 113463848873.624,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1971",
+            "value": 99606454743.5136,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1970",
+            "value": 88192257632.3093,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1969",
+            "value": 79405011124.8208,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1968",
+            "value": 72048833006.1602,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1967",
+            "value": 65856924423.9721,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1966",
+            "value": 61252415404.686,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1965",
+            "value": 54649410478.5226,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1964",
+            "value": 49503663836.3665,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1963",
+            "value": 45140337826.9869,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1962",
+            "value": 42336211555.8268,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1961",
+            "value": 41038192837.9035,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1960",
+            "value": 40563768946.9503,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2025",
+            "value": 1535.87781246307,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2024",
+            "value": 1460.28237984149,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2023",
+            "value": 1382.38300895424,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2022",
+            "value": 1385.91066002922,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2021",
+            "value": 1252.75076731986,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2020",
+            "value": 1154.21517578318,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2019",
+            "value": 1203.14294706401,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2018",
+            "value": 1179.19843190389,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2017",
+            "value": 1034.28374906846,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2016",
+            "value": 877.256454696737,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2015",
+            "value": 875.543635474862,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2014",
+            "value": 821.455224911731,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2013",
+            "value": 803.269595420477,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2012",
+            "value": 788.202937148377,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2011",
+            "value": 785.518656222132,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2010",
+            "value": 585.278491984574,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2009",
+            "value": 473.078751198621,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2008",
+            "value": 464.817391891529,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2007",
+            "value": 385.449767660642,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2006",
+            "value": 340.431796437968,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2005",
+            "value": 309.024168339372,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2004",
+            "value": 279.587750044428,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2003",
+            "value": 246.429706587633,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2002",
+            "value": 238.89140296106,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2001",
+            "value": 240.795114544664,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2000",
+            "value": 223.830289183078,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1999",
+            "value": 208.646667913743,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1998",
+            "value": 205.075246306069,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1997",
+            "value": 211.834869589153,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1996",
+            "value": 198.821907435345,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1995",
+            "value": 197.843001330326,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1994",
+            "value": 187.258176246151,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1993",
+            "value": 172.805202579767,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1992",
+            "value": 165.02959412726,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1991",
+            "value": 195.716621410462,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1990",
+            "value": 185.794600449903,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1989",
+            "value": 184.975416457251,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1988",
+            "value": 187.084777621975,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1987",
+            "value": 162.036906898913,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1986",
+            "value": 159.545682806044,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1985",
+            "value": 149.900453418882,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1984",
+            "value": 151.078187115939,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1983",
+            "value": 146.632953086254,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1982",
+            "value": 146.976662933749,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1981",
+            "value": 142.916898807843,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1980",
+            "value": 125.114347478097,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1979",
+            "value": 121.86820974915,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1978",
+            "value": 108.099425052837,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1977",
+            "value": 95.3433557426543,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1976",
+            "value": 102.470373251774,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1975",
+            "value": 113.605645172746,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1974",
+            "value": 89.7637455591626,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1973",
+            "value": 73.2266835267801,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1972",
+            "value": 78.842912842237,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1971",
+            "value": 69.4540704096493,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1970",
+            "value": 69.6334897297304,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1969",
+            "value": 64.8179199463286,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1968",
+            "value": 64.8592419247839,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1967",
+            "value": 72.255603368576,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1966",
+            "value": 79.484178651631,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1965",
+            "value": 65.8050690424137,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1964",
+            "value": 45.320757315163,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1963",
+            "value": 46.3146629740628,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1962",
+            "value": 54.565608932967,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1961",
+            "value": 51.5544820747585,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1960",
+            "value": 50.2125233749587,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

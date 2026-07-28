@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2025",
+            "value": 932.729352775179,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2024",
+            "value": 1133.88279681256,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2023",
+            "value": 1055.81091593061,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2022",
+            "value": 982.103161502198,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2021",
+            "value": 893.009835441784,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2020",
+            "value": 829.790982552951,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2019",
+            "value": 793.473247218996,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2018",
+            "value": 739.702022272086,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2017",
+            "value": 696.348429076216,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2016",
+            "value": 641.651523286233,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2015",
+            "value": 597.912113218663,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2014",
+            "value": 549.986577082588,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2013",
+            "value": 484.039833104062,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2012",
+            "value": 452.101031885754,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2011",
+            "value": 343.024942351887,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2010",
+            "value": 330.619412798644,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2009",
+            "value": 368.574712267445,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2008",
+            "value": 316.410475118075,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2007",
+            "value": 237.146255996319,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2006",
+            "value": 189.345737521418,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2005",
+            "value": 158.243458082465,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2004",
+            "value": 133.169812538096,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2003",
+            "value": 116.800491132777,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2002",
+            "value": 109.593813612988,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2001",
+            "value": 118.457204255261,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2000",
+            "value": 122.269202606069,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1999",
+            "value": 120.734631499865,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1998",
+            "value": 126.465095781244,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1997",
+            "value": 143.369531498844,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1996",
+            "value": 147.327458851964,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1995",
+            "value": 136.523619088963,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1994",
+            "value": 127.685923459033,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1993",
+            "value": 168.520401400989,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1992",
+            "value": 207.406400863847,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1991",
+            "value": 277.565910365091,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1990",
+            "value": 262.108971053707,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1989",
+            "value": 256.386475306315,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1988",
+            "value": 253.248262470167,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1987",
+            "value": 254.121329421554,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1986",
+            "value": 245.977228769295,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1985",
+            "value": 243.897382584019,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1984",
+            "value": 214.228860396002,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1983",
+            "value": 232.683474421159,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1982",
+            "value": 215.25098547162,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1981",
+            "value": 212.657517980298,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1980",
+            "value": 203.685394440965,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1979",
+            "value": 192.357117273999,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1978",
+            "value": 178.302480574913,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1977",
+            "value": 170.40414371556,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1976",
+            "value": 151.95618662171,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1975",
+            "value": 144.280537635495,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1974",
+            "value": 147.855722504485,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1973",
+            "value": 134.935511021947,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1972",
+            "value": 119.839997124757,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1971",
+            "value": 112.736674296624,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1970",
+            "value": 109.430466337285,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1969",
+            "value": 102.280177675035,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1968",
+            "value": 99.4743651000667,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1967",
+            "value": 96.0864747436757,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1966",
+            "value": 93.1549467874985,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1965",
+            "value": 88.8500294110243,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1964",
+            "value": 83.8368648270969,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1963",
+            "value": 79.1726343703284,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1962",
+            "value": 77.7901849782504,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1961",
+            "value": 76.7301966411733,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1960",
+            "value": 75.3396090705961,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2025",
+            "value": 1206.30450825002,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2024",
+            "value": 1077.91278438613,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2023",
+            "value": 1002.30913917142,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2022",
+            "value": 963.067314117178,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2021",
+            "value": 882.791717542504,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2020",
+            "value": 845.766463890124,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2019",
+            "value": 822.171150036357,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2018",
+            "value": 792.16570022814,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2017",
+            "value": 765.218332297361,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2016",
+            "value": 752.696571725656,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2015",
+            "value": 862.934610355811,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2014",
+            "value": 896.054795546394,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2013",
+            "value": 818.285427416713,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2012",
+            "value": 795.222867553127,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2011",
+            "value": 835.620060555838,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2010",
+            "value": 823.488144282,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2009",
+            "value": 798.947089938247,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2008",
+            "value": 472.842681495852,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2007",
+            "value": 401.389130865581,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2006",
+            "value": 346.518255310647,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2005",
+            "value": 330.405402707025,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2004",
+            "value": 292.38185796262,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2003",
+            "value": 250.71543664681,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2002",
+            "value": 241.984688408335,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2001",
+            "value": 236.021188853993,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2000",
+            "value": 258.050338731086,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1999",
+            "value": 257.921949601357,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1998",
+            "value": 292.453037058835,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1997",
+            "value": 286.846637912964,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1996",
+            "value": 284.698259285733,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1995",
+            "value": 278.520835668767,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1994",
+            "value": 198.441987998795,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1993",
+            "value": 165.616476211716,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1992",
+            "value": 152.113542415537,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1991",
+            "value": 182.955897348348,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1990",
+            "value": 244.987168126806,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1989",
+            "value": 310.186025249445,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1988",
+            "value": 395.187660960924,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1987",
+            "value": 392.97074320479,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1986",
+            "value": 253.643058810817,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1985",
+            "value": 234.276502777526,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1984",
+            "value": 247.516937638636,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1983",
+            "value": 157.527216922525,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1982",
+            "value": 156.952422909331,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1981",
+            "value": 98.6467550654109,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1980",
+            "value": 93.7506991135184,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1979",
+            "value": 164.513012181127,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1978",
+            "value": 190.690145097606,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1977",
+            "value": 237.584889064205,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1976",
+            "value": 203.309813650809,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1975",
+            "value": 201.237292844799,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1974",
+            "value": 183.71757196626,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1973",
+            "value": 152.709417587824,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1972",
+            "value": 136.964736487473,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1971",
+            "value": 133.468088316131,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1970",
+            "value": 122.030929585629,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1969",
+            "value": 116.682296330854,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1968",
+            "value": 106.851228104531,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1967",
+            "value": 102.80034732844,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1966",
+            "value": 101.435414620908,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1965",
+            "value": 99.9527652325075,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1964",
+            "value": 68.6259930194368,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1963",
+            "value": 61.9553768191835,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1962",
+            "value": 55.5048704604887,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1961",
+            "value": 56.1759278091596,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1960",
+            "value": 55.3784976132181,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

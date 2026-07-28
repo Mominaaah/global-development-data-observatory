@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2025",
+            "value": 671.506847203876,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2024",
+            "value": 522.365366146003,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2023",
+            "value": 633.214767978695,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2022",
+            "value": 604.269740360317,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2021",
+            "value": 617.446994451007,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2020",
+            "value": 602.507478176106,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2019",
+            "value": 580.889139762475,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2018",
+            "value": 533.202567189331,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2017",
+            "value": 495.769683367165,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2016",
+            "value": 450.506105510719,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2015",
+            "value": 539.605363240686,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2014",
+            "value": 529.5133440206,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2013",
+            "value": 496.947368267313,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2012",
+            "value": 558.46208832772,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2011",
+            "value": 763.061000394572,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2010",
+            "value": 683.124694716799,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2009",
+            "value": 625.869729869625,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2008",
+            "value": 554.048820396119,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2007",
+            "value": 475.180261659331,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2006",
+            "value": 440.822149023873,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2005",
+            "value": 414.361121984475,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2004",
+            "value": 404.674248445428,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2003",
+            "value": 383.348596852642,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2002",
+            "value": 428.210439838398,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2001",
+            "value": 215.474524898357,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "2000",
+            "value": 224.22415918428,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1999",
+            "value": 233.935986197873,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1998",
+            "value": 236.045479450504,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1997",
+            "value": 366.954461274104,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1996",
+            "value": 320.662735559137,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1995",
+            "value": 200.362370007247,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1994",
+            "value": 169.196526919639,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1993",
+            "value": 293.016883079922,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1992",
+            "value": 258.393430877557,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1991",
+            "value": 325.75273105931,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1990",
+            "value": 286.730598968269,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1989",
+            "value": 252.19590741943,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1988",
+            "value": 229.421843922728,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1987",
+            "value": 207.605894737179,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1986",
+            "value": 217.8701899466,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1985",
+            "value": 216.054136140391,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1984",
+            "value": 239.74828969103,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1983",
+            "value": 252.442074600122,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1982",
+            "value": 253.342697905133,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1981",
+            "value": 276.407062724717,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1980",
+            "value": 287.470822426729,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1979",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1978",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1977",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1976",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1975",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1974",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1973",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1972",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1971",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1970",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1969",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1968",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1967",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1966",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1965",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1964",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1963",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1962",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1961",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "MW",
+                "value": "Malawi"
+            },
+            "countryiso3code": "MWI",
+            "date": "1960",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

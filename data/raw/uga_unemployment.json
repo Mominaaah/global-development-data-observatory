@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2025",
+            "value": 2.746,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2024",
+            "value": 2.74,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2023",
+            "value": 2.754,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2022",
+            "value": 2.885,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2021",
+            "value": 3.416,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2020",
+            "value": 3.819,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2019",
+            "value": 3.057,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2018",
+            "value": 3.249,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2017",
+            "value": 3.428,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2016",
+            "value": 3.002,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2015",
+            "value": 2.681,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2014",
+            "value": 2.357,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2013",
+            "value": 1.91,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2012",
+            "value": 3.551,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2011",
+            "value": 3.523,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2010",
+            "value": 3.623,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2009",
+            "value": 3.6,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2008",
+            "value": 3.035,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2007",
+            "value": 2.667,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2006",
+            "value": 2.264,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2005",
+            "value": 1.9,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2004",
+            "value": 2.699,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2003",
+            "value": 3.6,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2002",
+            "value": 3.5,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2001",
+            "value": 3.522,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "2000",
+            "value": 3.531,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1999",
+            "value": 3.46,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1998",
+            "value": 3.424,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1997",
+            "value": 3.209,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1996",
+            "value": 3.169,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1995",
+            "value": 3.193,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1994",
+            "value": 3.458,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1993",
+            "value": 3.487,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1992",
+            "value": 3.553,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1991",
+            "value": 3.448,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1990",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1989",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1988",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1987",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1986",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1985",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1984",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1983",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1982",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1981",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1980",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1979",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1978",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1977",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1976",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1975",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1974",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1973",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1972",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1971",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1970",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1969",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1968",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1967",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1966",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1965",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1964",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1963",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1962",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1961",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "SL.UEM.TOTL.ZS",
+                "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+            },
+            "country": {
+                "id": "UG",
+                "value": "Uganda"
+            },
+            "countryiso3code": "UGA",
+            "date": "1960",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

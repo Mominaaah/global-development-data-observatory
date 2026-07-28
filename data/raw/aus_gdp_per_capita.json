@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2025",
+            "value": 65129.7227990563,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2024",
+            "value": 64609.9865116088,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2023",
+            "value": 65058.3773146674,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2022",
+            "value": 65169.5191118657,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2021",
+            "value": 60758.9044397144,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2020",
+            "value": 51983.4523666382,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2019",
+            "value": 55194.7585097428,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2018",
+            "value": 57410.1737346009,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2017",
+            "value": 54117.547718609,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2016",
+            "value": 50084.4440606385,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2015",
+            "value": 56970.3613028094,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2014",
+            "value": 62817.2061751737,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2013",
+            "value": 68476.6788496118,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2012",
+            "value": 68301.4402512587,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2011",
+            "value": 62799.3895017032,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2010",
+            "value": 52313.8939041213,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2009",
+            "value": 42954.8494884573,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2008",
+            "value": 49811.2067218988,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2007",
+            "value": 41128.2476618402,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2006",
+            "value": 36658.8243476122,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2005",
+            "value": 34535.20727091,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2004",
+            "value": 30886.0500949401,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2003",
+            "value": 23757.5898471684,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2002",
+            "value": 20335.0960191023,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2001",
+            "value": 19733.6510102645,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2000",
+            "value": 21908.9968019784,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1999",
+            "value": 20749.6443779096,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1998",
+            "value": 21516.0403147759,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1997",
+            "value": 23683.4948964934,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1996",
+            "value": 22055.838490507,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1995",
+            "value": 20479.1748274233,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1994",
+            "value": 18155.6282000179,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1993",
+            "value": 17724.5399501656,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1992",
+            "value": 18650.3675476612,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1991",
+            "value": 18885.4274465057,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1990",
+            "value": 18273.561526468,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1989",
+            "value": 17857.5520554588,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1988",
+            "value": 14303.093047615,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1987",
+            "value": 11665.5298271811,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1986",
+            "value": 11406.1093011037,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1985",
+            "value": 11455.379711213,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1984",
+            "value": 12436.2969052038,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1983",
+            "value": 11532.4028055582,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1982",
+            "value": 12797.6758959809,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1981",
+            "value": 11870.8633077339,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1980",
+            "value": 10223.2886675105,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1979",
+            "value": 9307.82127950011,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1978",
+            "value": 8264.43890373653,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1977",
+            "value": 7786.4080406928,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1976",
+            "value": 7497.28175413577,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1975",
+            "value": 7013.67159761514,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1974",
+            "value": 6491.74521621099,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1973",
+            "value": 4777.513168995,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1972",
+            "value": 3955.22430403017,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1971",
+            "value": 3500.33603195606,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1970",
+            "value": 3309.76306254362,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1969",
+            "value": 2995.86119857452,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1968",
+            "value": 2728.23426114901,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1967",
+            "value": 2583.9075241973,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1966",
+            "value": 2347.37656646515,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1965",
+            "value": 2284.35582738664,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1964",
+            "value": 2134.48946124608,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1963",
+            "value": 1970.17748417817,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1962",
+            "value": 1857.56127281956,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1961",
+            "value": 1880.48489498232,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1960",
+            "value": 1813.43109917039,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

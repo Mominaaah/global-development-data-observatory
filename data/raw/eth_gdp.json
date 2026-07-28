@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2025",
+            "value": 126358758448.356,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2024",
+            "value": 149740297952.375,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2023",
+            "value": 135874093203.18,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2022",
+            "value": 123140304665.399,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2021",
+            "value": 109070960370.972,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2020",
+            "value": 98676811061.9985,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2019",
+            "value": 91834517113.6386,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2018",
+            "value": 83337901071.9697,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2017",
+            "value": 76366081766.6667,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2016",
+            "value": 68475871209.607,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2015",
+            "value": 62103418181.8182,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2014",
+            "value": 55612228233.5179,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2013",
+            "value": 47648276605.0123,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2012",
+            "value": 43310721414.0829,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2011",
+            "value": 31952763089.33,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2010",
+            "value": 29933790334.3418,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2009",
+            "value": 32437389116.038,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2008",
+            "value": 27066912635.2228,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2007",
+            "value": 19707616772.7996,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2006",
+            "value": 15280861834.6024,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2005",
+            "value": 12401139453.9738,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2004",
+            "value": 10131187261.4421,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2003",
+            "value": 8623691300.04079,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2002",
+            "value": 7850809498.16803,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2001",
+            "value": 8231326016.47494,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "2000",
+            "value": 8242349617.8638,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1999",
+            "value": 7892973531.80045,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1998",
+            "value": 8013274131.69715,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1997",
+            "value": 8803539988.33248,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1996",
+            "value": 8761215548.48614,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1995",
+            "value": 7855205206.93405,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1994",
+            "value": 7100806753.92942,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1993",
+            "value": 9051043870.12197,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1992",
+            "value": 10754799036.5745,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1991",
+            "value": 13799799323.6715,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1990",
+            "value": 12478943895.1691,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1989",
+            "value": 11762932007.2464,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1988",
+            "value": 11181119717.8744,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1987",
+            "value": 10790001557.971,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1986",
+            "value": 10094328898.0676,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1985",
+            "value": 9717392686.95652,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1984",
+            "value": 8298309580.67633,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1983",
+            "value": 8781664427.05314,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1982",
+            "value": 7899988840.57971,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1981",
+            "value": 7507663566.66667,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1980",
+            "value": 7012585454.10628,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1979",
+            "value": 6586048398.06763,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1978",
+            "value": 6014961434.78261,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1977",
+            "value": 5651840584.54106,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1976",
+            "value": 4943806093.23672,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1975",
+            "value": 4577047854.10628,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1974",
+            "value": 4577209966.18358,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1973",
+            "value": 4070570549.8642,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1972",
+            "value": 3520252938.26087,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1971",
+            "value": 3224280834.97092,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1970",
+            "value": 3045354454.8,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1969",
+            "value": 2768987372,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1968",
+            "value": 2619948864.8,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1967",
+            "value": 2461762002.8,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1966",
+            "value": 2324466416,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1965",
+            "value": 2159998591.2,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1964",
+            "value": 1984129185.6,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1963",
+            "value": 1825058827.83853,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1962",
+            "value": 1747566307.0997,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1961",
+            "value": 1680859514.1016,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "ET",
+                "value": "Ethiopia"
+            },
+            "countryiso3code": "ETH",
+            "date": "1960",
+            "value": 1610511693.84215,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

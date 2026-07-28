@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2025",
+            "value": 1798518933689.21,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2024",
+            "value": 1757022451652.83,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2023",
+            "value": 1734451264655.6,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2022",
+            "value": 1695627535475.8,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2021",
+            "value": 1560617493202.69,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2020",
+            "value": 1333336461648.09,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2019",
+            "value": 1398349602956.35,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2018",
+            "value": 1433144978761.67,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2017",
+            "value": 1330890554614.09,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2016",
+            "value": 1211588128417.61,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2015",
+            "value": 1356805839935.9,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2014",
+            "value": 1474677007565.64,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2013",
+            "value": 1583737461925.39,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2012",
+            "value": 1552728401401.58,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2011",
+            "value": 1402939868653.4,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2010",
+            "value": 1152566632022.13,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2009",
+            "value": 931761689770.843,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2008",
+            "value": 1058448244063.77,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2007",
+            "value": 856603595823.192,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2006",
+            "value": 749708370332.989,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2005",
+            "value": 696811489612.816,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2004",
+            "value": 615643050220.515,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2003",
+            "value": 468517181129.878,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2002",
+            "value": 396436967262.563,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2001",
+            "value": 380360222861.197,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2000",
+            "value": 416901962163.479,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1999",
+            "value": 390347787943.351,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1998",
+            "value": 400361527504.578,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1997",
+            "value": 436321902767.408,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1996",
+            "value": 401962517479.122,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1995",
+            "value": 368725126225.126,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1994",
+            "value": 323269456935.317,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1993",
+            "value": 312568858909.5,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1992",
+            "value": 325982966981.415,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1991",
+            "value": 326416407860.792,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1990",
+            "value": 311840666465.053,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1989",
+            "value": 300264309002.14,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1988",
+            "value": 236461079970.431,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1987",
+            "value": 189726707252.515,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1986",
+            "value": 182707050923.335,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1985",
+            "value": 180861108959.102,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1984",
+            "value": 193749932078.26,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1983",
+            "value": 177523719680.081,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1982",
+            "value": 194323071830.52,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1981",
+            "value": 177151979565.773,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1980",
+            "value": 150200557103.064,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1979",
+            "value": 135093718050.665,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1978",
+            "value": 118660813779.849,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1977",
+            "value": 110504702913.512,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1976",
+            "value": 105209354855.787,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1975",
+            "value": 97440939505.6671,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1974",
+            "value": 89086219602.0634,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1973",
+            "value": 63923126201.1531,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1972",
+            "value": 52117990654.2056,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1971",
+            "value": 45283847245.4156,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1970",
+            "value": 41395206623.2331,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1969",
+            "value": 36738245878.1193,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1968",
+            "value": 32763365242.1384,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1967",
+            "value": 30487524878.004,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1966",
+            "value": 27349284375.8855,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1965",
+            "value": 26014244162.2791,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1964",
+            "value": 23835843813.735,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1963",
+            "value": 21573443451.751,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1962",
+            "value": 19953923192.6277,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1961",
+            "value": 19713123154.0997,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.MKTP.CD",
+                "value": "GDP (current US$)"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1960",
+            "value": 18635682981.7093,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

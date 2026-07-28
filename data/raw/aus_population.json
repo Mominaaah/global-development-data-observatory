@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2025",
+            "value": 27614411,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2024",
+            "value": 27194286,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2023",
+            "value": 26659922,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2022",
+            "value": 26018721,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2021",
+            "value": 25685412,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2020",
+            "value": 25649248,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2019",
+            "value": 25334826,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2018",
+            "value": 24963258,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2017",
+            "value": 24592588,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2016",
+            "value": 24190907,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2015",
+            "value": 23815995,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2014",
+            "value": 23475686,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2013",
+            "value": 23128129,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2012",
+            "value": 22733465,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2011",
+            "value": 22340024,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2010",
+            "value": 22031750,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2009",
+            "value": 21691653,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2008",
+            "value": 21249199,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2007",
+            "value": 20827622,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2006",
+            "value": 20450966,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2005",
+            "value": 20176844,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2004",
+            "value": 19932722,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2003",
+            "value": 19720737,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2002",
+            "value": 19495210,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2001",
+            "value": 19274701,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "2000",
+            "value": 19028802,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1999",
+            "value": 18812264,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1998",
+            "value": 18607584,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1997",
+            "value": 18423037,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1996",
+            "value": 18224767,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1995",
+            "value": 18004882,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1994",
+            "value": 17805468,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1993",
+            "value": 17634808,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1992",
+            "value": 17478635,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1991",
+            "value": 17284036,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1990",
+            "value": 17065128,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1989",
+            "value": 16814416,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1988",
+            "value": 16532164,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1987",
+            "value": 16263874,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1986",
+            "value": 16018350,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1985",
+            "value": 15788312,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1984",
+            "value": 15579391,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1983",
+            "value": 15393472,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1982",
+            "value": 15184247,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1981",
+            "value": 14923260,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1980",
+            "value": 14692000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1979",
+            "value": 14514000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1978",
+            "value": 14358000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1977",
+            "value": 14192000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1976",
+            "value": 14033000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1975",
+            "value": 13893000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1974",
+            "value": 13723000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1973",
+            "value": 13380000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1972",
+            "value": 13177000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1971",
+            "value": 12937000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1970",
+            "value": 12507000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1969",
+            "value": 12263000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1968",
+            "value": 12009000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1967",
+            "value": 11799000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1966",
+            "value": 11651000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1965",
+            "value": 11388000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1964",
+            "value": 11167000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1963",
+            "value": 10950000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1962",
+            "value": 10742000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1961",
+            "value": 10483000,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "AU",
+                "value": "Australia"
+            },
+            "countryiso3code": "AUS",
+            "date": "1960",
+            "value": 10276477,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

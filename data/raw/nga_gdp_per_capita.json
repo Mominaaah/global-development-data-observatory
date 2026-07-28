@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2025",
+            "value": 1224.25410237743,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2024",
+            "value": 1084.16041805058,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2023",
+            "value": 2138.76383718757,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2022",
+            "value": 2899.16047469267,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2021",
+            "value": 2787.48779220991,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2020",
+            "value": 2797.184580679,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2019",
+            "value": 3189.81286496183,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2018",
+            "value": 2057.87944554011,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2017",
+            "value": 1876.34027111773,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2016",
+            "value": 2070.4127339595,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2015",
+            "value": 2585.73360671797,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2014",
+            "value": 3088.72131316169,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2013",
+            "value": 2872.79083379398,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2012",
+            "value": 2633.19734671361,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2011",
+            "value": 2418.41316975875,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2010",
+            "value": 2202.25672957344,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2009",
+            "value": 1820.48633854782,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2008",
+            "value": 2154.10543545364,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2007",
+            "value": 1815.52697545827,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2006",
+            "value": 1599.53891556365,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2005",
+            "value": 1211.37703504386,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2004",
+            "value": 962.48104194733,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2003",
+            "value": 763.388745367223,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2002",
+            "value": 712.164852077686,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2001",
+            "value": 566.428231812933,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2000",
+            "value": 547.318298903379,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1999",
+            "value": 480.669363941805,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1998",
+            "value": 1822.46998452473,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1997",
+            "value": 1720.27540949396,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1996",
+            "value": 1632.72469370276,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1995",
+            "value": 1271.61617353199,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1994",
+            "value": 744.884247151377,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1993",
+            "value": 539.573202297542,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1992",
+            "value": 508.515905682785,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1991",
+            "value": 596.938795710722,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1990",
+            "value": 556.376449130902,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1989",
+            "value": 465.488089532188,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1988",
+            "value": 539.539468397166,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1987",
+            "value": 587.956613434089,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1986",
+            "value": 628.248453718536,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1985",
+            "value": 868.640540548893,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1984",
+            "value": 890.434106332302,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1983",
+            "value": 1207.07374565349,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1982",
+            "value": 1821.53265482387,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1981",
+            "value": 2162.20995436075,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1980",
+            "value": 870.359934682057,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1979",
+            "value": 660.994040864293,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1978",
+            "value": 526.895852928476,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1977",
+            "value": 535.965307817329,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1976",
+            "value": 556.389687719878,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1975",
+            "value": 438.078813916795,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1974",
+            "value": 402.836999782685,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1973",
+            "value": 252.369032452868,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1972",
+            "value": 209.454776294345,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1971",
+            "value": 160.479255841113,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1970",
+            "value": 224.46293599595,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1969",
+            "value": 121.436663307697,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1968",
+            "value": 97.3372081255964,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1967",
+            "value": 99.5014906604697,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1966",
+            "value": 124.382440176253,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1965",
+            "value": 117.287226824734,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1964",
+            "value": 113.297345671875,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1963",
+            "value": 107.675741358944,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1962",
+            "value": 104.532495533943,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1961",
+            "value": 97.1375281143562,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1960",
+            "value": 93.1370090424417,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

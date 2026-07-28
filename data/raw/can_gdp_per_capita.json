@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2025",
+            "value": 55697.6639660837,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2024",
+            "value": 55015.7066917734,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2023",
+            "value": 54847.5370112652,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2022",
+            "value": 56496.9275340663,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2021",
+            "value": 52886.6407813788,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2020",
+            "value": 43537.8981198851,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2019",
+            "value": 46352.9695208927,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2018",
+            "value": 46539.2177903178,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2017",
+            "value": 45129.7335281051,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2016",
+            "value": 42314.1033623905,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2015",
+            "value": 43594.2379080706,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2014",
+            "value": 50960.8942086685,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2013",
+            "value": 52637.7313222622,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2012",
+            "value": 52670.1429540952,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2011",
+            "value": 52224.1237767406,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2010",
+            "value": 47560.8378831258,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2009",
+            "value": 40874.9612318547,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2008",
+            "value": 46710.3654423328,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2007",
+            "value": 44660.0838892281,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2006",
+            "value": 40504.8490329826,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2005",
+            "value": 36383.9671341396,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2004",
+            "value": 32145.5653280273,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2003",
+            "value": 28301.9097055898,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2002",
+            "value": 24256.0598742201,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2001",
+            "value": 23822.096210932,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "2000",
+            "value": 24271.0020563821,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1999",
+            "value": 22315.3130930482,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1998",
+            "value": 21024.5627149423,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1997",
+            "value": 21901.5870048928,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1996",
+            "value": 21296.9723536904,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1995",
+            "value": 20679.634792669,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1994",
+            "value": 19997.6237373354,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1993",
+            "value": 20186.7988782965,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1992",
+            "value": 20950.3305287651,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1991",
+            "value": 21846.7930471354,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1990",
+            "value": 21525.8611387148,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1989",
+            "value": 20794.682233334,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1988",
+            "value": 19012.5723278349,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1987",
+            "value": 16377.6902109541,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1986",
+            "value": 14521.1800806,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1985",
+            "value": 14170.1249406067,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1984",
+            "value": 13930.4745502555,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1983",
+            "value": 13477.1031699599,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1982",
+            "value": 12527.3135323802,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1981",
+            "value": 12379.0368643833,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1980",
+            "value": 11208.2027394178,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1979",
+            "value": 10077.5026707269,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1978",
+            "value": 9154.43325277735,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1977",
+            "value": 8949.10989272982,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1976",
+            "value": 8838.94710677652,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1975",
+            "value": 7536.52009823861,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1974",
+            "value": 7056.70847496589,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1973",
+            "value": 5858.33407318788,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1972",
+            "value": 5106.73708049128,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1971",
+            "value": 4535.39338907773,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1970",
+            "value": 4135.82149842006,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1969",
+            "value": 3776.15613110238,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1968",
+            "value": 3473.23722551871,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1967",
+            "value": 3226.38273682011,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1966",
+            "value": 3055.28807884507,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1965",
+            "value": 2777.18317301162,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1964",
+            "value": 2561.63849088572,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1963",
+            "value": 2380.31732899108,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1962",
+            "value": 2274.4284708191,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1961",
+            "value": 2246.08356619252,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "CA",
+                "value": "Canada"
+            },
+            "countryiso3code": "CAN",
+            "date": "1960",
+            "value": 2264.94849658191,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]

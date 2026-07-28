@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2025",
+            "value": 29618118,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2024",
+            "value": 29651054,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2023",
+            "value": 29694614,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2022",
+            "value": 29715436,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2021",
+            "value": 29475010,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2020",
+            "value": 28966574,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2019",
+            "value": 28414064,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2018",
+            "value": 28079689,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2017",
+            "value": 28011258,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2016",
+            "value": 27955462,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2015",
+            "value": 27823629,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2014",
+            "value": 27672370,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2013",
+            "value": 27589996,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2012",
+            "value": 27534915,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2011",
+            "value": 27464494,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2010",
+            "value": 27341952,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2009",
+            "value": 27173035,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2008",
+            "value": 26990037,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2007",
+            "value": 26788492,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2006",
+            "value": 26565425,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2005",
+            "value": 26309458,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2004",
+            "value": 26016656,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2003",
+            "value": 25688758,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2002",
+            "value": 25328981,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2001",
+            "value": 24946748,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "2000",
+            "value": 24546509,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1999",
+            "value": 24125199,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1998",
+            "value": 23680357,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1997",
+            "value": 23219463,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1996",
+            "value": 22741862,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1995",
+            "value": 22245439,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1994",
+            "value": 21717479,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1993",
+            "value": 21180159,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1992",
+            "value": 20609707,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1991",
+            "value": 20036500,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1990",
+            "value": 19524573,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1989",
+            "value": 19057807,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1988",
+            "value": 18638661,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1987",
+            "value": 18250505,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1986",
+            "value": 17868124,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1985",
+            "value": 17477692,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1984",
+            "value": 17085242,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1983",
+            "value": 16689119,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1982",
+            "value": 16297987,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1981",
+            "value": 15922423,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1980",
+            "value": 15553105,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1979",
+            "value": 15190590,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1978",
+            "value": 14839695,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1977",
+            "value": 14499175,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1976",
+            "value": 14177649,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1975",
+            "value": 13870695,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1974",
+            "value": 13568435,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1973",
+            "value": 13275239,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1972",
+            "value": 12989099,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1971",
+            "value": 12710061,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1970",
+            "value": 12436190,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1969",
+            "value": 12167036,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1968",
+            "value": 11906266,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1967",
+            "value": 11652716,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1966",
+            "value": 11408710,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1965",
+            "value": 11173411,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1964",
+            "value": 10946392,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1963",
+            "value": 10729818,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1962",
+            "value": 10521116,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1961",
+            "value": 10318396,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        },
+        {
+            "indicator": {
+                "id": "SP.POP.TOTL",
+                "value": "Population, total"
+            },
+            "country": {
+                "id": "NP",
+                "value": "Nepal"
+            },
+            "countryiso3code": "NPL",
+            "date": "1960",
+            "value": 10123658,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 0
+        }
+    ]
+]

@@ -1,0 +1,1068 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "total": 66,
+        "sourceid": "2",
+        "lastupdated": "2026-07-13"
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2025",
+            "value": 35951.0449549304,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2024",
+            "value": 33797.1014287876,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2023",
+            "value": 35215.003535366,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2022",
+            "value": 35548.2645222433,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2021",
+            "value": 41580.739040705,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2020",
+            "value": 41098.9739004553,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2019",
+            "value": 41424.8655601543,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2018",
+            "value": 40645.478086519,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2017",
+            "value": 39679.8635262948,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2016",
+            "value": 40214.9688631562,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2015",
+            "value": 35664.6446110613,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2014",
+            "value": 39172.8471161948,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2013",
+            "value": 41369.1948479498,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2012",
+            "value": 49626.6830327571,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2011",
+            "value": 49122.077634247,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2010",
+            "value": 45378.1378109399,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2009",
+            "value": 41678.1783063195,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2008",
+            "value": 40294.2081309702,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2007",
+            "value": 36129.9535132925,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2006",
+            "value": 36354.4271646349,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2005",
+            "value": 38158.6758263963,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2004",
+            "value": 38677.5708064787,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2003",
+            "value": 35808.6816792388,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2002",
+            "value": 33315.9165174962,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2001",
+            "value": 34910.166403687,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "2000",
+            "value": 39752.937397755,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1999",
+            "value": 37028.7168989208,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1998",
+            "value": 32835.1192750829,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1997",
+            "value": 36331.0311480645,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1996",
+            "value": 39929.7185750327,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1995",
+            "value": 44947.4763611465,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1994",
+            "value": 40774.4450809919,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1993",
+            "value": 37110.6114371751,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1992",
+            "value": 32666.5024513195,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1991",
+            "value": 30048.1401766828,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1990",
+            "value": 26344.7273187725,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1989",
+            "value": 25798.0054757546,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1988",
+            "value": 26036.864097278,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1987",
+            "value": 21586.9260294922,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1986",
+            "value": 17819.3400779496,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1985",
+            "value": 12058.1469373485,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1984",
+            "value": 11443.4617086944,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1983",
+            "value": 10876.3275267125,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1982",
+            "value": 9985.92408278337,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1981",
+            "value": 10805.9900652449,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1980",
+            "value": 9872.35315959728,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1979",
+            "value": 9497.01423554433,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1978",
+            "value": 9201.91586719521,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1977",
+            "value": 6609.09338399173,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1976",
+            "value": 5422.25981204974,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1975",
+            "value": 4876.47163169944,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1974",
+            "value": 4541.99349265674,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1973",
+            "value": 4146.53123298424,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1972",
+            "value": 3095.27540388466,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1971",
+            "value": 2370.27536037237,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1970",
+            "value": 2144.98615266911,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1969",
+            "value": 1840.94789376713,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1968",
+            "value": 1585.98057427556,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1967",
+            "value": 1354.29188416199,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1966",
+            "value": 1167.69027982801,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1965",
+            "value": 1014.65899631996,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1964",
+            "value": 921.88053754104,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1963",
+            "value": 791.924737477456,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1962",
+            "value": 698.981262831415,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1961",
+            "value": 621.68620494448,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.CD",
+                "value": "GDP per capita (current US$)"
+            },
+            "country": {
+                "id": "JP",
+                "value": "Japan"
+            },
+            "countryiso3code": "JPN",
+            "date": "1960",
+            "value": 519.415170624485,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]
