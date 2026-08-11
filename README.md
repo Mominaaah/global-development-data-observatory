@@ -63,34 +63,6 @@ src/
 ```
 
 ---
-
-## How to Run
-
-Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the ETL
-
-```bash
-python -m src.etl.download_data
-python -m src.etl.run_etl
-```
-
-Run analysis
-
-```bash
-python -m src.analysis.analyze_data
-```
-
 Run dashboard
 
 ```bash
