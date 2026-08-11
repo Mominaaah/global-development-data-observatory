@@ -1,4 +1,70 @@
 country,country_code,development_group,indicator,year,value
+Afghanistan,AFG,Least Developed,electricity_access,2025,
+Afghanistan,AFG,Least Developed,electricity_access,2024,87.8
+Afghanistan,AFG,Least Developed,electricity_access,2023,85.3
+Afghanistan,AFG,Least Developed,electricity_access,2022,85.3
+Afghanistan,AFG,Least Developed,electricity_access,2021,97.7
+Afghanistan,AFG,Least Developed,electricity_access,2020,97.7
+Afghanistan,AFG,Least Developed,electricity_access,2019,97.7
+Afghanistan,AFG,Least Developed,electricity_access,2018,93.4
+Afghanistan,AFG,Least Developed,electricity_access,2017,97.7
+Afghanistan,AFG,Least Developed,electricity_access,2016,97.7
+Afghanistan,AFG,Least Developed,electricity_access,2015,71.5
+Afghanistan,AFG,Least Developed,electricity_access,2014,89.5
+Afghanistan,AFG,Least Developed,electricity_access,2013,68.0
+Afghanistan,AFG,Least Developed,electricity_access,2012,69.1
+Afghanistan,AFG,Least Developed,electricity_access,2011,43.2
+Afghanistan,AFG,Least Developed,electricity_access,2010,42.7
+Afghanistan,AFG,Least Developed,electricity_access,2009,48.3
+Afghanistan,AFG,Least Developed,electricity_access,2008,42.4
+Afghanistan,AFG,Least Developed,electricity_access,2007,38.4
+Afghanistan,AFG,Least Developed,electricity_access,2006,33.5
+Afghanistan,AFG,Least Developed,electricity_access,2005,28.7
+Afghanistan,AFG,Least Developed,electricity_access,2004,23.8
+Afghanistan,AFG,Least Developed,electricity_access,2003,19.0
+Afghanistan,AFG,Least Developed,electricity_access,2002,14.1
+Afghanistan,AFG,Least Developed,electricity_access,2001,9.3
+Afghanistan,AFG,Least Developed,electricity_access,2000,4.4
+Afghanistan,AFG,Least Developed,electricity_access,1999,
+Afghanistan,AFG,Least Developed,electricity_access,1998,
+Afghanistan,AFG,Least Developed,electricity_access,1997,
+Afghanistan,AFG,Least Developed,electricity_access,1996,
+Afghanistan,AFG,Least Developed,electricity_access,1995,
+Afghanistan,AFG,Least Developed,electricity_access,1994,
+Afghanistan,AFG,Least Developed,electricity_access,1993,
+Afghanistan,AFG,Least Developed,electricity_access,1992,
+Afghanistan,AFG,Least Developed,electricity_access,1991,
+Afghanistan,AFG,Least Developed,electricity_access,1990,
+Afghanistan,AFG,Least Developed,electricity_access,1989,
+Afghanistan,AFG,Least Developed,electricity_access,1988,
+Afghanistan,AFG,Least Developed,electricity_access,1987,
+Afghanistan,AFG,Least Developed,electricity_access,1986,
+Afghanistan,AFG,Least Developed,electricity_access,1985,
+Afghanistan,AFG,Least Developed,electricity_access,1984,
+Afghanistan,AFG,Least Developed,electricity_access,1983,
+Afghanistan,AFG,Least Developed,electricity_access,1982,
+Afghanistan,AFG,Least Developed,electricity_access,1981,
+Afghanistan,AFG,Least Developed,electricity_access,1980,
+Afghanistan,AFG,Least Developed,electricity_access,1979,
+Afghanistan,AFG,Least Developed,electricity_access,1978,
+Afghanistan,AFG,Least Developed,electricity_access,1977,
+Afghanistan,AFG,Least Developed,electricity_access,1976,
+Afghanistan,AFG,Least Developed,electricity_access,1975,
+Afghanistan,AFG,Least Developed,electricity_access,1974,
+Afghanistan,AFG,Least Developed,electricity_access,1973,
+Afghanistan,AFG,Least Developed,electricity_access,1972,
+Afghanistan,AFG,Least Developed,electricity_access,1971,
+Afghanistan,AFG,Least Developed,electricity_access,1970,
+Afghanistan,AFG,Least Developed,electricity_access,1969,
+Afghanistan,AFG,Least Developed,electricity_access,1968,
+Afghanistan,AFG,Least Developed,electricity_access,1967,
+Afghanistan,AFG,Least Developed,electricity_access,1966,
+Afghanistan,AFG,Least Developed,electricity_access,1965,
+Afghanistan,AFG,Least Developed,electricity_access,1964,
+Afghanistan,AFG,Least Developed,electricity_access,1963,
+Afghanistan,AFG,Least Developed,electricity_access,1962,
+Afghanistan,AFG,Least Developed,electricity_access,1961,
+Afghanistan,AFG,Least Developed,electricity_access,1960,
 Afghanistan,AFG,Least Developed,gdp,2025,
 Afghanistan,AFG,Least Developed,gdp,2024,17778508875.7396
 Afghanistan,AFG,Least Developed,gdp,2023,17152234636.8715
@@ -131,6 +197,72 @@ Afghanistan,AFG,Least Developed,gdp_per_capita,1963,
 Afghanistan,AFG,Least Developed,gdp_per_capita,1962,
 Afghanistan,AFG,Least Developed,gdp_per_capita,1961,
 Afghanistan,AFG,Least Developed,gdp_per_capita,1960,
+Afghanistan,AFG,Least Developed,life_expectancy,2025,
+Afghanistan,AFG,Least Developed,life_expectancy,2024,66.289
+Afghanistan,AFG,Least Developed,life_expectancy,2023,66.035
+Afghanistan,AFG,Least Developed,life_expectancy,2022,65.617
+Afghanistan,AFG,Least Developed,life_expectancy,2021,60.417
+Afghanistan,AFG,Least Developed,life_expectancy,2020,61.454
+Afghanistan,AFG,Least Developed,life_expectancy,2019,62.941
+Afghanistan,AFG,Least Developed,life_expectancy,2018,62.443
+Afghanistan,AFG,Least Developed,life_expectancy,2017,62.406
+Afghanistan,AFG,Least Developed,life_expectancy,2016,62.646
+Afghanistan,AFG,Least Developed,life_expectancy,2015,62.27
+Afghanistan,AFG,Least Developed,life_expectancy,2014,62.26
+Afghanistan,AFG,Least Developed,life_expectancy,2013,62.188
+Afghanistan,AFG,Least Developed,life_expectancy,2012,61.735
+Afghanistan,AFG,Least Developed,life_expectancy,2011,61.25
+Afghanistan,AFG,Least Developed,life_expectancy,2010,60.702
+Afghanistan,AFG,Least Developed,life_expectancy,2009,60.248
+Afghanistan,AFG,Least Developed,life_expectancy,2008,59.708
+Afghanistan,AFG,Least Developed,life_expectancy,2007,58.956
+Afghanistan,AFG,Least Developed,life_expectancy,2006,58.553
+Afghanistan,AFG,Least Developed,life_expectancy,2005,58.247
+Afghanistan,AFG,Least Developed,life_expectancy,2004,57.81
+Afghanistan,AFG,Least Developed,life_expectancy,2003,57.171
+Afghanistan,AFG,Least Developed,life_expectancy,2002,56.225
+Afghanistan,AFG,Least Developed,life_expectancy,2001,55.511
+Afghanistan,AFG,Least Developed,life_expectancy,2000,55.005
+Afghanistan,AFG,Least Developed,life_expectancy,1999,54.532
+Afghanistan,AFG,Least Developed,life_expectancy,1998,52.487
+Afghanistan,AFG,Least Developed,life_expectancy,1997,53.212
+Afghanistan,AFG,Least Developed,life_expectancy,1996,52.83
+Afghanistan,AFG,Least Developed,life_expectancy,1995,52.103
+Afghanistan,AFG,Least Developed,life_expectancy,1994,50.969
+Afghanistan,AFG,Least Developed,life_expectancy,1993,51.021
+Afghanistan,AFG,Least Developed,life_expectancy,1992,46.569
+Afghanistan,AFG,Least Developed,life_expectancy,1991,45.521
+Afghanistan,AFG,Least Developed,life_expectancy,1990,45.118
+Afghanistan,AFG,Least Developed,life_expectancy,1989,44.496
+Afghanistan,AFG,Least Developed,life_expectancy,1988,43.238
+Afghanistan,AFG,Least Developed,life_expectancy,1987,38.831
+Afghanistan,AFG,Least Developed,life_expectancy,1986,38.4
+Afghanistan,AFG,Least Developed,life_expectancy,1985,32.132
+Afghanistan,AFG,Least Developed,life_expectancy,1984,31.473
+Afghanistan,AFG,Least Developed,life_expectancy,1983,36.517
+Afghanistan,AFG,Least Developed,life_expectancy,1982,36.058
+Afghanistan,AFG,Least Developed,life_expectancy,1981,39.406
+Afghanistan,AFG,Least Developed,life_expectancy,1980,39.258
+Afghanistan,AFG,Least Developed,life_expectancy,1979,38.844
+Afghanistan,AFG,Least Developed,life_expectancy,1978,40.086
+Afghanistan,AFG,Least Developed,life_expectancy,1977,41.082
+Afghanistan,AFG,Least Developed,life_expectancy,1976,40.518
+Afghanistan,AFG,Least Developed,life_expectancy,1975,39.994
+Afghanistan,AFG,Least Developed,life_expectancy,1974,39.469
+Afghanistan,AFG,Least Developed,life_expectancy,1973,38.951
+Afghanistan,AFG,Least Developed,life_expectancy,1972,38.423
+Afghanistan,AFG,Least Developed,life_expectancy,1971,37.932
+Afghanistan,AFG,Least Developed,life_expectancy,1970,37.46
+Afghanistan,AFG,Least Developed,life_expectancy,1969,36.979
+Afghanistan,AFG,Least Developed,life_expectancy,1968,36.51
+Afghanistan,AFG,Least Developed,life_expectancy,1967,36.042
+Afghanistan,AFG,Least Developed,life_expectancy,1966,35.583
+Afghanistan,AFG,Least Developed,life_expectancy,1965,35.124
+Afghanistan,AFG,Least Developed,life_expectancy,1964,34.673
+Afghanistan,AFG,Least Developed,life_expectancy,1963,34.201
+Afghanistan,AFG,Least Developed,life_expectancy,1962,33.757
+Afghanistan,AFG,Least Developed,life_expectancy,1961,33.291
+Afghanistan,AFG,Least Developed,life_expectancy,1960,32.799
 Afghanistan,AFG,Least Developed,population,2025,43844111.0
 Afghanistan,AFG,Least Developed,population,2024,42647492.0
 Afghanistan,AFG,Least Developed,population,2023,41454761.0
@@ -197,6 +329,72 @@ Afghanistan,AFG,Least Developed,population,1963,9604487.0
 Afghanistan,AFG,Least Developed,population,1962,9404406.0
 Afghanistan,AFG,Least Developed,population,1961,9214083.0
 Afghanistan,AFG,Least Developed,population,1960,9035043.0
+Afghanistan,AFG,Least Developed,school_enrollment,2025,
+Afghanistan,AFG,Least Developed,school_enrollment,2024,
+Afghanistan,AFG,Least Developed,school_enrollment,2023,59.6136016845703
+Afghanistan,AFG,Least Developed,school_enrollment,2022,
+Afghanistan,AFG,Least Developed,school_enrollment,2021,
+Afghanistan,AFG,Least Developed,school_enrollment,2020,
+Afghanistan,AFG,Least Developed,school_enrollment,2019,
+Afghanistan,AFG,Least Developed,school_enrollment,2018,57.3578491210938
+Afghanistan,AFG,Least Developed,school_enrollment,2017,55.5364303588867
+Afghanistan,AFG,Least Developed,school_enrollment,2016,53.4350395202637
+Afghanistan,AFG,Least Developed,school_enrollment,2015,53.1501083374023
+Afghanistan,AFG,Least Developed,school_enrollment,2014,54.2936515808105
+Afghanistan,AFG,Least Developed,school_enrollment,2013,54.8833694458008
+Afghanistan,AFG,Least Developed,school_enrollment,2012,54.372859954834
+Afghanistan,AFG,Least Developed,school_enrollment,2011,52.4474296569824
+Afghanistan,AFG,Least Developed,school_enrollment,2010,50.4406204223633
+Afghanistan,AFG,Least Developed,school_enrollment,2009,44.2999496459961
+Afghanistan,AFG,Least Developed,school_enrollment,2008,38.930850982666
+Afghanistan,AFG,Least Developed,school_enrollment,2007,28.8154907226562
+Afghanistan,AFG,Least Developed,school_enrollment,2006,29.523889541626
+Afghanistan,AFG,Least Developed,school_enrollment,2005,20.2735099792481
+Afghanistan,AFG,Least Developed,school_enrollment,2004,19.2143802642822
+Afghanistan,AFG,Least Developed,school_enrollment,2003,13.959529876709
+Afghanistan,AFG,Least Developed,school_enrollment,2002,
+Afghanistan,AFG,Least Developed,school_enrollment,2001,14.0404100418091
+Afghanistan,AFG,Least Developed,school_enrollment,2000,
+Afghanistan,AFG,Least Developed,school_enrollment,1999,
+Afghanistan,AFG,Least Developed,school_enrollment,1998,
+Afghanistan,AFG,Least Developed,school_enrollment,1997,
+Afghanistan,AFG,Least Developed,school_enrollment,1996,
+Afghanistan,AFG,Least Developed,school_enrollment,1995,23.0545196533203
+Afghanistan,AFG,Least Developed,school_enrollment,1994,23.4685802459717
+Afghanistan,AFG,Least Developed,school_enrollment,1993,17.4169101715088
+Afghanistan,AFG,Least Developed,school_enrollment,1992,
+Afghanistan,AFG,Least Developed,school_enrollment,1991,17.1836109161377
+Afghanistan,AFG,Least Developed,school_enrollment,1990,11.0395498275757
+Afghanistan,AFG,Least Developed,school_enrollment,1989,12.6811199188232
+Afghanistan,AFG,Least Developed,school_enrollment,1988,13.2139596939087
+Afghanistan,AFG,Least Developed,school_enrollment,1987,
+Afghanistan,AFG,Least Developed,school_enrollment,1986,12.1385698318481
+Afghanistan,AFG,Least Developed,school_enrollment,1985,13.4969701766968
+Afghanistan,AFG,Least Developed,school_enrollment,1984,13.6493997573853
+Afghanistan,AFG,Least Developed,school_enrollment,1983,
+Afghanistan,AFG,Least Developed,school_enrollment,1982,12.295000076294
+Afghanistan,AFG,Least Developed,school_enrollment,1981,20.0920791625977
+Afghanistan,AFG,Least Developed,school_enrollment,1980,16.732780456543
+Afghanistan,AFG,Least Developed,school_enrollment,1979,
+Afghanistan,AFG,Least Developed,school_enrollment,1978,13.8213396072388
+Afghanistan,AFG,Least Developed,school_enrollment,1977,13.2592697143555
+Afghanistan,AFG,Least Developed,school_enrollment,1976,12.4582595825195
+Afghanistan,AFG,Least Developed,school_enrollment,1975,11.5955896377563
+Afghanistan,AFG,Least Developed,school_enrollment,1974,11.0948801040649
+Afghanistan,AFG,Least Developed,school_enrollment,1973,10.9321804046631
+Afghanistan,AFG,Least Developed,school_enrollment,1972,10.4142398834228
+Afghanistan,AFG,Least Developed,school_enrollment,1971,9.37827014923096
+Afghanistan,AFG,Least Developed,school_enrollment,1970,8.36410045623779
+Afghanistan,AFG,Least Developed,school_enrollment,1969,
+Afghanistan,AFG,Least Developed,school_enrollment,1968,
+Afghanistan,AFG,Least Developed,school_enrollment,1967,
+Afghanistan,AFG,Least Developed,school_enrollment,1966,
+Afghanistan,AFG,Least Developed,school_enrollment,1965,
+Afghanistan,AFG,Least Developed,school_enrollment,1964,
+Afghanistan,AFG,Least Developed,school_enrollment,1963,
+Afghanistan,AFG,Least Developed,school_enrollment,1962,
+Afghanistan,AFG,Least Developed,school_enrollment,1961,
+Afghanistan,AFG,Least Developed,school_enrollment,1960,
 Afghanistan,AFG,Least Developed,unemployment,2025,13.351
 Afghanistan,AFG,Least Developed,unemployment,2024,13.687
 Afghanistan,AFG,Least Developed,unemployment,2023,14.008
@@ -263,6 +461,138 @@ Afghanistan,AFG,Least Developed,unemployment,1963,
 Afghanistan,AFG,Least Developed,unemployment,1962,
 Afghanistan,AFG,Least Developed,unemployment,1961,
 Afghanistan,AFG,Least Developed,unemployment,1960,
+Australia,AUS,Developed,gdp_per_capita,2025,65129.7227990563
+Australia,AUS,Developed,gdp_per_capita,2024,64609.9865116088
+Australia,AUS,Developed,gdp_per_capita,2023,65058.3773146674
+Australia,AUS,Developed,gdp_per_capita,2022,65169.5191118657
+Australia,AUS,Developed,gdp_per_capita,2021,60758.9044397144
+Australia,AUS,Developed,gdp_per_capita,2020,51983.4523666382
+Australia,AUS,Developed,gdp_per_capita,2019,55194.7585097428
+Australia,AUS,Developed,gdp_per_capita,2018,57410.1737346009
+Australia,AUS,Developed,gdp_per_capita,2017,54117.547718609
+Australia,AUS,Developed,gdp_per_capita,2016,50084.4440606385
+Australia,AUS,Developed,gdp_per_capita,2015,56970.3613028094
+Australia,AUS,Developed,gdp_per_capita,2014,62817.2061751737
+Australia,AUS,Developed,gdp_per_capita,2013,68476.6788496118
+Australia,AUS,Developed,gdp_per_capita,2012,68301.4402512587
+Australia,AUS,Developed,gdp_per_capita,2011,62799.3895017032
+Australia,AUS,Developed,gdp_per_capita,2010,52313.8939041213
+Australia,AUS,Developed,gdp_per_capita,2009,42954.8494884573
+Australia,AUS,Developed,gdp_per_capita,2008,49811.2067218988
+Australia,AUS,Developed,gdp_per_capita,2007,41128.2476618402
+Australia,AUS,Developed,gdp_per_capita,2006,36658.8243476122
+Australia,AUS,Developed,gdp_per_capita,2005,34535.20727091
+Australia,AUS,Developed,gdp_per_capita,2004,30886.0500949401
+Australia,AUS,Developed,gdp_per_capita,2003,23757.5898471684
+Australia,AUS,Developed,gdp_per_capita,2002,20335.0960191023
+Australia,AUS,Developed,gdp_per_capita,2001,19733.6510102645
+Australia,AUS,Developed,gdp_per_capita,2000,21908.9968019784
+Australia,AUS,Developed,gdp_per_capita,1999,20749.6443779096
+Australia,AUS,Developed,gdp_per_capita,1998,21516.0403147759
+Australia,AUS,Developed,gdp_per_capita,1997,23683.4948964934
+Australia,AUS,Developed,gdp_per_capita,1996,22055.838490507
+Australia,AUS,Developed,gdp_per_capita,1995,20479.1748274233
+Australia,AUS,Developed,gdp_per_capita,1994,18155.6282000179
+Australia,AUS,Developed,gdp_per_capita,1993,17724.5399501656
+Australia,AUS,Developed,gdp_per_capita,1992,18650.3675476612
+Australia,AUS,Developed,gdp_per_capita,1991,18885.4274465057
+Australia,AUS,Developed,gdp_per_capita,1990,18273.561526468
+Australia,AUS,Developed,gdp_per_capita,1989,17857.5520554588
+Australia,AUS,Developed,gdp_per_capita,1988,14303.093047615
+Australia,AUS,Developed,gdp_per_capita,1987,11665.5298271811
+Australia,AUS,Developed,gdp_per_capita,1986,11406.1093011037
+Australia,AUS,Developed,gdp_per_capita,1985,11455.379711213
+Australia,AUS,Developed,gdp_per_capita,1984,12436.2969052038
+Australia,AUS,Developed,gdp_per_capita,1983,11532.4028055582
+Australia,AUS,Developed,gdp_per_capita,1982,12797.6758959809
+Australia,AUS,Developed,gdp_per_capita,1981,11870.8633077339
+Australia,AUS,Developed,gdp_per_capita,1980,10223.2886675105
+Australia,AUS,Developed,gdp_per_capita,1979,9307.82127950011
+Australia,AUS,Developed,gdp_per_capita,1978,8264.43890373653
+Australia,AUS,Developed,gdp_per_capita,1977,7786.4080406928
+Australia,AUS,Developed,gdp_per_capita,1976,7497.28175413577
+Australia,AUS,Developed,gdp_per_capita,1975,7013.67159761514
+Australia,AUS,Developed,gdp_per_capita,1974,6491.74521621099
+Australia,AUS,Developed,gdp_per_capita,1973,4777.513168995
+Australia,AUS,Developed,gdp_per_capita,1972,3955.22430403017
+Australia,AUS,Developed,gdp_per_capita,1971,3500.33603195606
+Australia,AUS,Developed,gdp_per_capita,1970,3309.76306254362
+Australia,AUS,Developed,gdp_per_capita,1969,2995.86119857452
+Australia,AUS,Developed,gdp_per_capita,1968,2728.23426114901
+Australia,AUS,Developed,gdp_per_capita,1967,2583.9075241973
+Australia,AUS,Developed,gdp_per_capita,1966,2347.37656646515
+Australia,AUS,Developed,gdp_per_capita,1965,2284.35582738664
+Australia,AUS,Developed,gdp_per_capita,1964,2134.48946124608
+Australia,AUS,Developed,gdp_per_capita,1963,1970.17748417817
+Australia,AUS,Developed,gdp_per_capita,1962,1857.56127281956
+Australia,AUS,Developed,gdp_per_capita,1961,1880.48489498232
+Australia,AUS,Developed,gdp_per_capita,1960,1813.43109917039
+Australia,AUS,Developed,electricity_access,2025,
+Australia,AUS,Developed,electricity_access,2024,100.0
+Australia,AUS,Developed,electricity_access,2023,100.0
+Australia,AUS,Developed,electricity_access,2022,100.0
+Australia,AUS,Developed,electricity_access,2021,100.0
+Australia,AUS,Developed,electricity_access,2020,100.0
+Australia,AUS,Developed,electricity_access,2019,100.0
+Australia,AUS,Developed,electricity_access,2018,100.0
+Australia,AUS,Developed,electricity_access,2017,100.0
+Australia,AUS,Developed,electricity_access,2016,100.0
+Australia,AUS,Developed,electricity_access,2015,100.0
+Australia,AUS,Developed,electricity_access,2014,100.0
+Australia,AUS,Developed,electricity_access,2013,100.0
+Australia,AUS,Developed,electricity_access,2012,100.0
+Australia,AUS,Developed,electricity_access,2011,100.0
+Australia,AUS,Developed,electricity_access,2010,100.0
+Australia,AUS,Developed,electricity_access,2009,100.0
+Australia,AUS,Developed,electricity_access,2008,100.0
+Australia,AUS,Developed,electricity_access,2007,100.0
+Australia,AUS,Developed,electricity_access,2006,100.0
+Australia,AUS,Developed,electricity_access,2005,100.0
+Australia,AUS,Developed,electricity_access,2004,100.0
+Australia,AUS,Developed,electricity_access,2003,100.0
+Australia,AUS,Developed,electricity_access,2002,100.0
+Australia,AUS,Developed,electricity_access,2001,100.0
+Australia,AUS,Developed,electricity_access,2000,100.0
+Australia,AUS,Developed,electricity_access,1999,100.0
+Australia,AUS,Developed,electricity_access,1998,100.0
+Australia,AUS,Developed,electricity_access,1997,100.0
+Australia,AUS,Developed,electricity_access,1996,100.0
+Australia,AUS,Developed,electricity_access,1995,100.0
+Australia,AUS,Developed,electricity_access,1994,100.0
+Australia,AUS,Developed,electricity_access,1993,100.0
+Australia,AUS,Developed,electricity_access,1992,100.0
+Australia,AUS,Developed,electricity_access,1991,100.0
+Australia,AUS,Developed,electricity_access,1990,100.0
+Australia,AUS,Developed,electricity_access,1989,
+Australia,AUS,Developed,electricity_access,1988,
+Australia,AUS,Developed,electricity_access,1987,
+Australia,AUS,Developed,electricity_access,1986,
+Australia,AUS,Developed,electricity_access,1985,
+Australia,AUS,Developed,electricity_access,1984,
+Australia,AUS,Developed,electricity_access,1983,
+Australia,AUS,Developed,electricity_access,1982,
+Australia,AUS,Developed,electricity_access,1981,
+Australia,AUS,Developed,electricity_access,1980,
+Australia,AUS,Developed,electricity_access,1979,
+Australia,AUS,Developed,electricity_access,1978,
+Australia,AUS,Developed,electricity_access,1977,
+Australia,AUS,Developed,electricity_access,1976,
+Australia,AUS,Developed,electricity_access,1975,
+Australia,AUS,Developed,electricity_access,1974,
+Australia,AUS,Developed,electricity_access,1973,
+Australia,AUS,Developed,electricity_access,1972,
+Australia,AUS,Developed,electricity_access,1971,
+Australia,AUS,Developed,electricity_access,1970,
+Australia,AUS,Developed,electricity_access,1969,
+Australia,AUS,Developed,electricity_access,1968,
+Australia,AUS,Developed,electricity_access,1967,
+Australia,AUS,Developed,electricity_access,1966,
+Australia,AUS,Developed,electricity_access,1965,
+Australia,AUS,Developed,electricity_access,1964,
+Australia,AUS,Developed,electricity_access,1963,
+Australia,AUS,Developed,electricity_access,1962,
+Australia,AUS,Developed,electricity_access,1961,
+Australia,AUS,Developed,electricity_access,1960,
 Australia,AUS,Developed,gdp,2025,1798518933689.21
 Australia,AUS,Developed,gdp,2024,1757022451652.83
 Australia,AUS,Developed,gdp,2023,1734451264655.6
@@ -395,6 +725,72 @@ Australia,AUS,Developed,gdp_per_capita,1963,1970.17748417817
 Australia,AUS,Developed,gdp_per_capita,1962,1857.56127281956
 Australia,AUS,Developed,gdp_per_capita,1961,1880.48489498232
 Australia,AUS,Developed,gdp_per_capita,1960,1813.43109917039
+Australia,AUS,Developed,life_expectancy,2025,
+Australia,AUS,Developed,life_expectancy,2024,83.0512195121951
+Australia,AUS,Developed,life_expectancy,2023,83.0512195121951
+Australia,AUS,Developed,life_expectancy,2022,83.2
+Australia,AUS,Developed,life_expectancy,2021,83.3
+Australia,AUS,Developed,life_expectancy,2020,83.2
+Australia,AUS,Developed,life_expectancy,2019,82.9
+Australia,AUS,Developed,life_expectancy,2018,82.7487804878049
+Australia,AUS,Developed,life_expectancy,2017,82.5
+Australia,AUS,Developed,life_expectancy,2016,82.4487804878049
+Australia,AUS,Developed,life_expectancy,2015,82.4
+Australia,AUS,Developed,life_expectancy,2014,82.3
+Australia,AUS,Developed,life_expectancy,2013,82.1487804878049
+Australia,AUS,Developed,life_expectancy,2012,82.0463414634146
+Australia,AUS,Developed,life_expectancy,2011,81.8951219512195
+Australia,AUS,Developed,life_expectancy,2010,81.6951219512195
+Australia,AUS,Developed,life_expectancy,2009,81.5439024390244
+Australia,AUS,Developed,life_expectancy,2008,81.3951219512195
+Australia,AUS,Developed,life_expectancy,2007,81.2926829268293
+Australia,AUS,Developed,life_expectancy,2006,81.0414634146342
+Australia,AUS,Developed,life_expectancy,2005,80.8414634146341
+Australia,AUS,Developed,life_expectancy,2004,80.490243902439
+Australia,AUS,Developed,life_expectancy,2003,80.2390243902439
+Australia,AUS,Developed,life_expectancy,2002,79.9365853658537
+Australia,AUS,Developed,life_expectancy,2001,79.6341463414634
+Australia,AUS,Developed,life_expectancy,2000,79.2341463414634
+Australia,AUS,Developed,life_expectancy,1999,78.9317073170732
+Australia,AUS,Developed,life_expectancy,1998,78.6317073170732
+Australia,AUS,Developed,life_expectancy,1997,78.4804878048781
+Australia,AUS,Developed,life_expectancy,1996,78.0780487804878
+Australia,AUS,Developed,life_expectancy,1995,77.8292682926829
+Australia,AUS,Developed,life_expectancy,1994,77.8780487804878
+Australia,AUS,Developed,life_expectancy,1993,77.8780487804878
+Australia,AUS,Developed,life_expectancy,1992,77.3780487804878
+Australia,AUS,Developed,life_expectancy,1991,77.2756097560976
+Australia,AUS,Developed,life_expectancy,1990,76.9946341463415
+Australia,AUS,Developed,life_expectancy,1989,76.7136585365854
+Australia,AUS,Developed,life_expectancy,1988,76.4326829268293
+Australia,AUS,Developed,life_expectancy,1987,76.1517073170732
+Australia,AUS,Developed,life_expectancy,1986,75.8707317073171
+Australia,AUS,Developed,life_expectancy,1985,75.6292682926829
+Australia,AUS,Developed,life_expectancy,1984,75.3878048780488
+Australia,AUS,Developed,life_expectancy,1983,75.1463414634146
+Australia,AUS,Developed,life_expectancy,1982,74.9048780487805
+Australia,AUS,Developed,life_expectancy,1981,74.6634146341463
+Australia,AUS,Developed,life_expectancy,1980,74.3336585365854
+Australia,AUS,Developed,life_expectancy,1979,74.0039024390244
+Australia,AUS,Developed,life_expectancy,1978,73.6741463414634
+Australia,AUS,Developed,life_expectancy,1977,73.3443902439024
+Australia,AUS,Developed,life_expectancy,1976,73.0146341463415
+Australia,AUS,Developed,life_expectancy,1975,72.6253658536586
+Australia,AUS,Developed,life_expectancy,1974,72.2360975609756
+Australia,AUS,Developed,life_expectancy,1973,71.8468292682927
+Australia,AUS,Developed,life_expectancy,1972,71.4575609756098
+Australia,AUS,Developed,life_expectancy,1971,71.0682926829268
+Australia,AUS,Developed,life_expectancy,1970,71.0185365853659
+Australia,AUS,Developed,life_expectancy,1969,70.9687804878049
+Australia,AUS,Developed,life_expectancy,1968,70.9190243902439
+Australia,AUS,Developed,life_expectancy,1967,70.8692682926829
+Australia,AUS,Developed,life_expectancy,1966,70.819512195122
+Australia,AUS,Developed,life_expectancy,1965,70.850243902439
+Australia,AUS,Developed,life_expectancy,1964,70.8809756097561
+Australia,AUS,Developed,life_expectancy,1963,70.9117073170732
+Australia,AUS,Developed,life_expectancy,1962,70.9424390243903
+Australia,AUS,Developed,life_expectancy,1961,70.9731707317073
+Australia,AUS,Developed,life_expectancy,1960,70.8170731707317
 Australia,AUS,Developed,population,2025,27614411.0
 Australia,AUS,Developed,population,2024,27194286.0
 Australia,AUS,Developed,population,2023,26659922.0
@@ -461,6 +857,72 @@ Australia,AUS,Developed,population,1963,10950000.0
 Australia,AUS,Developed,population,1962,10742000.0
 Australia,AUS,Developed,population,1961,10483000.0
 Australia,AUS,Developed,population,1960,10276477.0
+Australia,AUS,Developed,school_enrollment,2025,
+Australia,AUS,Developed,school_enrollment,2024,131.931564331055
+Australia,AUS,Developed,school_enrollment,2023,134.099243164062
+Australia,AUS,Developed,school_enrollment,2022,133.277267456055
+Australia,AUS,Developed,school_enrollment,2021,135.526565551758
+Australia,AUS,Developed,school_enrollment,2020,137.490737915039
+Australia,AUS,Developed,school_enrollment,2019,144.056564331055
+Australia,AUS,Developed,school_enrollment,2018,136.105545043945
+Australia,AUS,Developed,school_enrollment,2017,153.576126098633
+Australia,AUS,Developed,school_enrollment,2016,155.594390869141
+Australia,AUS,Developed,school_enrollment,2015,159.110763549805
+Australia,AUS,Developed,school_enrollment,2014,
+Australia,AUS,Developed,school_enrollment,2013,
+Australia,AUS,Developed,school_enrollment,2012,
+Australia,AUS,Developed,school_enrollment,2011,
+Australia,AUS,Developed,school_enrollment,2010,
+Australia,AUS,Developed,school_enrollment,2009,
+Australia,AUS,Developed,school_enrollment,2008,
+Australia,AUS,Developed,school_enrollment,2007,
+Australia,AUS,Developed,school_enrollment,2006,
+Australia,AUS,Developed,school_enrollment,2005,
+Australia,AUS,Developed,school_enrollment,2004,
+Australia,AUS,Developed,school_enrollment,2003,
+Australia,AUS,Developed,school_enrollment,2002,
+Australia,AUS,Developed,school_enrollment,2001,
+Australia,AUS,Developed,school_enrollment,2000,
+Australia,AUS,Developed,school_enrollment,1999,
+Australia,AUS,Developed,school_enrollment,1998,
+Australia,AUS,Developed,school_enrollment,1997,
+Australia,AUS,Developed,school_enrollment,1996,
+Australia,AUS,Developed,school_enrollment,1995,
+Australia,AUS,Developed,school_enrollment,1994,
+Australia,AUS,Developed,school_enrollment,1993,
+Australia,AUS,Developed,school_enrollment,1992,
+Australia,AUS,Developed,school_enrollment,1991,
+Australia,AUS,Developed,school_enrollment,1990,
+Australia,AUS,Developed,school_enrollment,1989,
+Australia,AUS,Developed,school_enrollment,1988,
+Australia,AUS,Developed,school_enrollment,1987,
+Australia,AUS,Developed,school_enrollment,1986,
+Australia,AUS,Developed,school_enrollment,1985,
+Australia,AUS,Developed,school_enrollment,1984,
+Australia,AUS,Developed,school_enrollment,1983,
+Australia,AUS,Developed,school_enrollment,1982,
+Australia,AUS,Developed,school_enrollment,1981,
+Australia,AUS,Developed,school_enrollment,1980,
+Australia,AUS,Developed,school_enrollment,1979,
+Australia,AUS,Developed,school_enrollment,1978,
+Australia,AUS,Developed,school_enrollment,1977,
+Australia,AUS,Developed,school_enrollment,1976,
+Australia,AUS,Developed,school_enrollment,1975,
+Australia,AUS,Developed,school_enrollment,1974,
+Australia,AUS,Developed,school_enrollment,1973,
+Australia,AUS,Developed,school_enrollment,1972,
+Australia,AUS,Developed,school_enrollment,1971,
+Australia,AUS,Developed,school_enrollment,1970,
+Australia,AUS,Developed,school_enrollment,1969,
+Australia,AUS,Developed,school_enrollment,1968,
+Australia,AUS,Developed,school_enrollment,1967,
+Australia,AUS,Developed,school_enrollment,1966,
+Australia,AUS,Developed,school_enrollment,1965,
+Australia,AUS,Developed,school_enrollment,1964,
+Australia,AUS,Developed,school_enrollment,1963,
+Australia,AUS,Developed,school_enrollment,1962,
+Australia,AUS,Developed,school_enrollment,1961,
+Australia,AUS,Developed,school_enrollment,1960,
 Australia,AUS,Developed,unemployment,2025,4.09
 Australia,AUS,Developed,unemployment,2024,3.942
 Australia,AUS,Developed,unemployment,2023,3.668
@@ -527,6 +989,72 @@ Australia,AUS,Developed,unemployment,1963,
 Australia,AUS,Developed,unemployment,1962,
 Australia,AUS,Developed,unemployment,1961,
 Australia,AUS,Developed,unemployment,1960,
+Brazil,BRA,Developing,electricity_access,2025,
+Brazil,BRA,Developing,electricity_access,2024,99.8
+Brazil,BRA,Developing,electricity_access,2023,99.8
+Brazil,BRA,Developing,electricity_access,2022,100.0
+Brazil,BRA,Developing,electricity_access,2021,99.5
+Brazil,BRA,Developing,electricity_access,2020,99.7
+Brazil,BRA,Developing,electricity_access,2019,99.8
+Brazil,BRA,Developing,electricity_access,2018,99.7
+Brazil,BRA,Developing,electricity_access,2017,99.8
+Brazil,BRA,Developing,electricity_access,2016,99.7
+Brazil,BRA,Developing,electricity_access,2015,99.7
+Brazil,BRA,Developing,electricity_access,2014,99.7
+Brazil,BRA,Developing,electricity_access,2013,99.6
+Brazil,BRA,Developing,electricity_access,2012,99.5
+Brazil,BRA,Developing,electricity_access,2011,99.3
+Brazil,BRA,Developing,electricity_access,2010,98.6
+Brazil,BRA,Developing,electricity_access,2009,98.9
+Brazil,BRA,Developing,electricity_access,2008,98.5
+Brazil,BRA,Developing,electricity_access,2007,98.1
+Brazil,BRA,Developing,electricity_access,2006,97.6
+Brazil,BRA,Developing,electricity_access,2005,97.1
+Brazil,BRA,Developing,electricity_access,2004,96.8
+Brazil,BRA,Developing,electricity_access,2003,97.0
+Brazil,BRA,Developing,electricity_access,2002,96.7
+Brazil,BRA,Developing,electricity_access,2001,96.0
+Brazil,BRA,Developing,electricity_access,2000,94.4
+Brazil,BRA,Developing,electricity_access,1999,94.76296
+Brazil,BRA,Developing,electricity_access,1998,94.193812
+Brazil,BRA,Developing,electricity_access,1997,93.354139
+Brazil,BRA,Developing,electricity_access,1996,92.867095
+Brazil,BRA,Developing,electricity_access,1995,91.728598
+Brazil,BRA,Developing,electricity_access,1994,91.8837280273438
+Brazil,BRA,Developing,electricity_access,1993,89.999927
+Brazil,BRA,Developing,electricity_access,1992,88.803833
+Brazil,BRA,Developing,electricity_access,1991,90.6065444946289
+Brazil,BRA,Developing,electricity_access,1990,87.475116
+Brazil,BRA,Developing,electricity_access,1989,
+Brazil,BRA,Developing,electricity_access,1988,
+Brazil,BRA,Developing,electricity_access,1987,
+Brazil,BRA,Developing,electricity_access,1986,
+Brazil,BRA,Developing,electricity_access,1985,
+Brazil,BRA,Developing,electricity_access,1984,
+Brazil,BRA,Developing,electricity_access,1983,
+Brazil,BRA,Developing,electricity_access,1982,
+Brazil,BRA,Developing,electricity_access,1981,
+Brazil,BRA,Developing,electricity_access,1980,
+Brazil,BRA,Developing,electricity_access,1979,
+Brazil,BRA,Developing,electricity_access,1978,
+Brazil,BRA,Developing,electricity_access,1977,
+Brazil,BRA,Developing,electricity_access,1976,
+Brazil,BRA,Developing,electricity_access,1975,
+Brazil,BRA,Developing,electricity_access,1974,
+Brazil,BRA,Developing,electricity_access,1973,
+Brazil,BRA,Developing,electricity_access,1972,
+Brazil,BRA,Developing,electricity_access,1971,
+Brazil,BRA,Developing,electricity_access,1970,
+Brazil,BRA,Developing,electricity_access,1969,
+Brazil,BRA,Developing,electricity_access,1968,
+Brazil,BRA,Developing,electricity_access,1967,
+Brazil,BRA,Developing,electricity_access,1966,
+Brazil,BRA,Developing,electricity_access,1965,
+Brazil,BRA,Developing,electricity_access,1964,
+Brazil,BRA,Developing,electricity_access,1963,
+Brazil,BRA,Developing,electricity_access,1962,
+Brazil,BRA,Developing,electricity_access,1961,
+Brazil,BRA,Developing,electricity_access,1960,
 Brazil,BRA,Developing,gdp,2025,2279920092492.13
 Brazil,BRA,Developing,gdp,2024,2185821610689.31
 Brazil,BRA,Developing,gdp,2023,2191131765684.63
@@ -659,6 +1187,72 @@ Brazil,BRA,Developing,gdp_per_capita,1963,294.169619376733
 Brazil,BRA,Developing,gdp_per_capita,1962,250.200572910273
 Brazil,BRA,Developing,gdp_per_capita,1961,231.564063269854
 Brazil,BRA,Developing,gdp_per_capita,1960,235.266009502589
+Brazil,BRA,Developing,life_expectancy,2025,
+Brazil,BRA,Developing,life_expectancy,2024,76.023
+Brazil,BRA,Developing,life_expectancy,2023,75.848
+Brazil,BRA,Developing,life_expectancy,2022,74.872
+Brazil,BRA,Developing,life_expectancy,2021,73.038
+Brazil,BRA,Developing,life_expectancy,2020,74.506
+Brazil,BRA,Developing,life_expectancy,2019,75.809
+Brazil,BRA,Developing,life_expectancy,2018,75.633
+Brazil,BRA,Developing,life_expectancy,2017,75.383
+Brazil,BRA,Developing,life_expectancy,2016,75.081
+Brazil,BRA,Developing,life_expectancy,2015,75.106
+Brazil,BRA,Developing,life_expectancy,2014,74.823
+Brazil,BRA,Developing,life_expectancy,2013,74.609
+Brazil,BRA,Developing,life_expectancy,2012,74.335
+Brazil,BRA,Developing,life_expectancy,2011,74.047
+Brazil,BRA,Developing,life_expectancy,2010,73.779
+Brazil,BRA,Developing,life_expectancy,2009,73.457
+Brazil,BRA,Developing,life_expectancy,2008,73.111
+Brazil,BRA,Developing,life_expectancy,2007,72.73
+Brazil,BRA,Developing,life_expectancy,2006,72.296
+Brazil,BRA,Developing,life_expectancy,2005,71.832
+Brazil,BRA,Developing,life_expectancy,2004,71.361
+Brazil,BRA,Developing,life_expectancy,2003,70.884
+Brazil,BRA,Developing,life_expectancy,2002,70.396
+Brazil,BRA,Developing,life_expectancy,2001,69.98
+Brazil,BRA,Developing,life_expectancy,2000,69.584
+Brazil,BRA,Developing,life_expectancy,1999,69.211
+Brazil,BRA,Developing,life_expectancy,1998,68.848
+Brazil,BRA,Developing,life_expectancy,1997,68.505
+Brazil,BRA,Developing,life_expectancy,1996,68.108
+Brazil,BRA,Developing,life_expectancy,1995,67.701
+Brazil,BRA,Developing,life_expectancy,1994,67.293
+Brazil,BRA,Developing,life_expectancy,1993,66.892
+Brazil,BRA,Developing,life_expectancy,1992,66.539
+Brazil,BRA,Developing,life_expectancy,1991,66.203
+Brazil,BRA,Developing,life_expectancy,1990,65.862
+Brazil,BRA,Developing,life_expectancy,1989,65.514
+Brazil,BRA,Developing,life_expectancy,1988,65.161
+Brazil,BRA,Developing,life_expectancy,1987,64.785
+Brazil,BRA,Developing,life_expectancy,1986,64.389
+Brazil,BRA,Developing,life_expectancy,1985,63.98
+Brazil,BRA,Developing,life_expectancy,1984,63.553
+Brazil,BRA,Developing,life_expectancy,1983,63.133
+Brazil,BRA,Developing,life_expectancy,1982,62.708
+Brazil,BRA,Developing,life_expectancy,1981,62.267
+Brazil,BRA,Developing,life_expectancy,1980,61.819
+Brazil,BRA,Developing,life_expectancy,1979,61.365
+Brazil,BRA,Developing,life_expectancy,1978,60.922
+Brazil,BRA,Developing,life_expectancy,1977,60.461
+Brazil,BRA,Developing,life_expectancy,1976,60.007
+Brazil,BRA,Developing,life_expectancy,1975,59.556
+Brazil,BRA,Developing,life_expectancy,1974,59.081
+Brazil,BRA,Developing,life_expectancy,1973,58.681
+Brazil,BRA,Developing,life_expectancy,1972,58.255
+Brazil,BRA,Developing,life_expectancy,1971,57.786
+Brazil,BRA,Developing,life_expectancy,1970,57.338
+Brazil,BRA,Developing,life_expectancy,1969,56.898
+Brazil,BRA,Developing,life_expectancy,1968,56.47
+Brazil,BRA,Developing,life_expectancy,1967,56.016
+Brazil,BRA,Developing,life_expectancy,1966,55.625
+Brazil,BRA,Developing,life_expectancy,1965,55.243
+Brazil,BRA,Developing,life_expectancy,1964,54.848
+Brazil,BRA,Developing,life_expectancy,1963,54.452
+Brazil,BRA,Developing,life_expectancy,1962,54.017
+Brazil,BRA,Developing,life_expectancy,1961,53.594
+Brazil,BRA,Developing,life_expectancy,1960,53.162
 Brazil,BRA,Developing,population,2025,212812405.0
 Brazil,BRA,Developing,population,2024,211998573.0
 Brazil,BRA,Developing,population,2023,211140729.0
@@ -725,6 +1319,72 @@ Brazil,BRA,Developing,population,1963,79164235.0
 Brazil,BRA,Developing,population,1962,76865323.0
 Brazil,BRA,Developing,population,1961,74605447.0
 Brazil,BRA,Developing,population,1960,72388126.0
+Brazil,BRA,Developing,school_enrollment,2025,
+Brazil,BRA,Developing,school_enrollment,2024,104.144660949707
+Brazil,BRA,Developing,school_enrollment,2023,
+Brazil,BRA,Developing,school_enrollment,2022,105.702369689941
+Brazil,BRA,Developing,school_enrollment,2021,106.298461914062
+Brazil,BRA,Developing,school_enrollment,2020,103.882659912109
+Brazil,BRA,Developing,school_enrollment,2019,103.667556762695
+Brazil,BRA,Developing,school_enrollment,2018,104.818481445312
+Brazil,BRA,Developing,school_enrollment,2017,102.989486694336
+Brazil,BRA,Developing,school_enrollment,2016,102.692901611328
+Brazil,BRA,Developing,school_enrollment,2015,101.086227416992
+Brazil,BRA,Developing,school_enrollment,2014,102.780311584473
+Brazil,BRA,Developing,school_enrollment,2013,104.086219787598
+Brazil,BRA,Developing,school_enrollment,2012,94.5829467773438
+Brazil,BRA,Developing,school_enrollment,2011,
+Brazil,BRA,Developing,school_enrollment,2010,
+Brazil,BRA,Developing,school_enrollment,2009,
+Brazil,BRA,Developing,school_enrollment,2008,
+Brazil,BRA,Developing,school_enrollment,2007,
+Brazil,BRA,Developing,school_enrollment,2006,
+Brazil,BRA,Developing,school_enrollment,2005,
+Brazil,BRA,Developing,school_enrollment,2004,
+Brazil,BRA,Developing,school_enrollment,2003,
+Brazil,BRA,Developing,school_enrollment,2002,
+Brazil,BRA,Developing,school_enrollment,2001,
+Brazil,BRA,Developing,school_enrollment,2000,
+Brazil,BRA,Developing,school_enrollment,1999,
+Brazil,BRA,Developing,school_enrollment,1998,
+Brazil,BRA,Developing,school_enrollment,1997,
+Brazil,BRA,Developing,school_enrollment,1996,
+Brazil,BRA,Developing,school_enrollment,1995,
+Brazil,BRA,Developing,school_enrollment,1994,
+Brazil,BRA,Developing,school_enrollment,1993,
+Brazil,BRA,Developing,school_enrollment,1992,
+Brazil,BRA,Developing,school_enrollment,1991,
+Brazil,BRA,Developing,school_enrollment,1990,
+Brazil,BRA,Developing,school_enrollment,1989,
+Brazil,BRA,Developing,school_enrollment,1988,
+Brazil,BRA,Developing,school_enrollment,1987,
+Brazil,BRA,Developing,school_enrollment,1986,
+Brazil,BRA,Developing,school_enrollment,1985,
+Brazil,BRA,Developing,school_enrollment,1984,
+Brazil,BRA,Developing,school_enrollment,1983,
+Brazil,BRA,Developing,school_enrollment,1982,
+Brazil,BRA,Developing,school_enrollment,1981,
+Brazil,BRA,Developing,school_enrollment,1980,
+Brazil,BRA,Developing,school_enrollment,1979,
+Brazil,BRA,Developing,school_enrollment,1978,
+Brazil,BRA,Developing,school_enrollment,1977,
+Brazil,BRA,Developing,school_enrollment,1976,
+Brazil,BRA,Developing,school_enrollment,1975,
+Brazil,BRA,Developing,school_enrollment,1974,
+Brazil,BRA,Developing,school_enrollment,1973,
+Brazil,BRA,Developing,school_enrollment,1972,
+Brazil,BRA,Developing,school_enrollment,1971,
+Brazil,BRA,Developing,school_enrollment,1970,
+Brazil,BRA,Developing,school_enrollment,1969,
+Brazil,BRA,Developing,school_enrollment,1968,
+Brazil,BRA,Developing,school_enrollment,1967,
+Brazil,BRA,Developing,school_enrollment,1966,
+Brazil,BRA,Developing,school_enrollment,1965,
+Brazil,BRA,Developing,school_enrollment,1964,
+Brazil,BRA,Developing,school_enrollment,1963,
+Brazil,BRA,Developing,school_enrollment,1962,
+Brazil,BRA,Developing,school_enrollment,1961,
+Brazil,BRA,Developing,school_enrollment,1960,
 Brazil,BRA,Developing,unemployment,2025,5.97
 Brazil,BRA,Developing,unemployment,2024,6.801
 Brazil,BRA,Developing,unemployment,2023,7.947
@@ -791,6 +1451,72 @@ Brazil,BRA,Developing,unemployment,1963,
 Brazil,BRA,Developing,unemployment,1962,
 Brazil,BRA,Developing,unemployment,1961,
 Brazil,BRA,Developing,unemployment,1960,
+Canada,CAN,Developed,electricity_access,2025,
+Canada,CAN,Developed,electricity_access,2024,100.0
+Canada,CAN,Developed,electricity_access,2023,100.0
+Canada,CAN,Developed,electricity_access,2022,100.0
+Canada,CAN,Developed,electricity_access,2021,100.0
+Canada,CAN,Developed,electricity_access,2020,100.0
+Canada,CAN,Developed,electricity_access,2019,100.0
+Canada,CAN,Developed,electricity_access,2018,100.0
+Canada,CAN,Developed,electricity_access,2017,100.0
+Canada,CAN,Developed,electricity_access,2016,100.0
+Canada,CAN,Developed,electricity_access,2015,100.0
+Canada,CAN,Developed,electricity_access,2014,100.0
+Canada,CAN,Developed,electricity_access,2013,100.0
+Canada,CAN,Developed,electricity_access,2012,100.0
+Canada,CAN,Developed,electricity_access,2011,100.0
+Canada,CAN,Developed,electricity_access,2010,100.0
+Canada,CAN,Developed,electricity_access,2009,100.0
+Canada,CAN,Developed,electricity_access,2008,100.0
+Canada,CAN,Developed,electricity_access,2007,100.0
+Canada,CAN,Developed,electricity_access,2006,100.0
+Canada,CAN,Developed,electricity_access,2005,100.0
+Canada,CAN,Developed,electricity_access,2004,100.0
+Canada,CAN,Developed,electricity_access,2003,100.0
+Canada,CAN,Developed,electricity_access,2002,100.0
+Canada,CAN,Developed,electricity_access,2001,100.0
+Canada,CAN,Developed,electricity_access,2000,100.0
+Canada,CAN,Developed,electricity_access,1999,100.0
+Canada,CAN,Developed,electricity_access,1998,100.0
+Canada,CAN,Developed,electricity_access,1997,100.0
+Canada,CAN,Developed,electricity_access,1996,100.0
+Canada,CAN,Developed,electricity_access,1995,100.0
+Canada,CAN,Developed,electricity_access,1994,100.0
+Canada,CAN,Developed,electricity_access,1993,100.0
+Canada,CAN,Developed,electricity_access,1992,100.0
+Canada,CAN,Developed,electricity_access,1991,100.0
+Canada,CAN,Developed,electricity_access,1990,100.0
+Canada,CAN,Developed,electricity_access,1989,
+Canada,CAN,Developed,electricity_access,1988,
+Canada,CAN,Developed,electricity_access,1987,
+Canada,CAN,Developed,electricity_access,1986,
+Canada,CAN,Developed,electricity_access,1985,
+Canada,CAN,Developed,electricity_access,1984,
+Canada,CAN,Developed,electricity_access,1983,
+Canada,CAN,Developed,electricity_access,1982,
+Canada,CAN,Developed,electricity_access,1981,
+Canada,CAN,Developed,electricity_access,1980,
+Canada,CAN,Developed,electricity_access,1979,
+Canada,CAN,Developed,electricity_access,1978,
+Canada,CAN,Developed,electricity_access,1977,
+Canada,CAN,Developed,electricity_access,1976,
+Canada,CAN,Developed,electricity_access,1975,
+Canada,CAN,Developed,electricity_access,1974,
+Canada,CAN,Developed,electricity_access,1973,
+Canada,CAN,Developed,electricity_access,1972,
+Canada,CAN,Developed,electricity_access,1971,
+Canada,CAN,Developed,electricity_access,1970,
+Canada,CAN,Developed,electricity_access,1969,
+Canada,CAN,Developed,electricity_access,1968,
+Canada,CAN,Developed,electricity_access,1967,
+Canada,CAN,Developed,electricity_access,1966,
+Canada,CAN,Developed,electricity_access,1965,
+Canada,CAN,Developed,electricity_access,1964,
+Canada,CAN,Developed,electricity_access,1963,
+Canada,CAN,Developed,electricity_access,1962,
+Canada,CAN,Developed,electricity_access,1961,
+Canada,CAN,Developed,electricity_access,1960,
 Canada,CAN,Developed,gdp,2025,2319899772425.92
 Canada,CAN,Developed,gdp,2024,2270076189683.46
 Canada,CAN,Developed,gdp,2023,2196593836347.42
@@ -923,6 +1649,72 @@ Canada,CAN,Developed,gdp_per_capita,1963,2380.31732899108
 Canada,CAN,Developed,gdp_per_capita,1962,2274.4284708191
 Canada,CAN,Developed,gdp_per_capita,1961,2246.08356619252
 Canada,CAN,Developed,gdp_per_capita,1960,2264.94849658191
+Canada,CAN,Developed,life_expectancy,2025,
+Canada,CAN,Developed,life_expectancy,2024,82.1080487804878
+Canada,CAN,Developed,life_expectancy,2023,81.6263414634146
+Canada,CAN,Developed,life_expectancy,2022,81.0948780487805
+Canada,CAN,Developed,life_expectancy,2021,81.4514634146342
+Canada,CAN,Developed,life_expectancy,2020,81.53
+Canada,CAN,Developed,life_expectancy,2019,82.1585365853659
+Canada,CAN,Developed,life_expectancy,2018,81.8036585365854
+Canada,CAN,Developed,life_expectancy,2017,81.8078048780488
+Canada,CAN,Developed,life_expectancy,2016,81.94
+Canada,CAN,Developed,life_expectancy,2015,81.8258536585366
+Canada,CAN,Developed,life_expectancy,2014,81.7843902439025
+Canada,CAN,Developed,life_expectancy,2013,81.7448780487805
+Canada,CAN,Developed,life_expectancy,2012,81.6636585365854
+Canada,CAN,Developed,life_expectancy,2011,81.4826829268293
+Canada,CAN,Developed,life_expectancy,2010,81.3221951219512
+Canada,CAN,Developed,life_expectancy,2009,81.0660975609756
+Canada,CAN,Developed,life_expectancy,2008,80.7246341463415
+Canada,CAN,Developed,life_expectancy,2007,80.5436585365854
+Canada,CAN,Developed,life_expectancy,2006,80.5436585365854
+Canada,CAN,Developed,life_expectancy,2005,80.1126829268293
+Canada,CAN,Developed,life_expectancy,2004,79.9921951219512
+Canada,CAN,Developed,life_expectancy,2003,79.7151219512195
+Canada,CAN,Developed,life_expectancy,2002,79.5307317073171
+Canada,CAN,Developed,life_expectancy,2001,79.3980487804878
+Canada,CAN,Developed,life_expectancy,2000,79.1668292682927
+Canada,CAN,Developed,life_expectancy,1999,78.8390243902439
+Canada,CAN,Developed,life_expectancy,1998,78.6236585365854
+Canada,CAN,Developed,life_expectancy,1997,78.4124390243903
+Canada,CAN,Developed,life_expectancy,1996,78.220243902439
+Canada,CAN,Developed,life_expectancy,1995,77.9773170731707
+Canada,CAN,Developed,life_expectancy,1994,77.8717073170732
+Canada,CAN,Developed,life_expectancy,1993,77.7048780487805
+Canada,CAN,Developed,life_expectancy,1992,77.8380487804878
+Canada,CAN,Developed,life_expectancy,1991,77.5934146341464
+Canada,CAN,Developed,life_expectancy,1990,77.4365853658537
+Canada,CAN,Developed,life_expectancy,1989,77.1248780487805
+Canada,CAN,Developed,life_expectancy,1988,76.8587804878049
+Canada,CAN,Developed,life_expectancy,1987,76.7787804878049
+Canada,CAN,Developed,life_expectancy,1986,76.4639024390244
+Canada,CAN,Developed,life_expectancy,1985,76.3273170731707
+Canada,CAN,Developed,life_expectancy,1984,76.3319512195122
+Canada,CAN,Developed,life_expectancy,1983,76.0604878048781
+Canada,CAN,Developed,life_expectancy,1982,75.7251219512195
+Canada,CAN,Developed,life_expectancy,1981,75.4978048780488
+Canada,CAN,Developed,life_expectancy,1980,75.1021951219512
+Canada,CAN,Developed,life_expectancy,1979,74.8663414634146
+Canada,CAN,Developed,life_expectancy,1978,74.529756097561
+Canada,CAN,Developed,life_expectancy,1977,74.2156097560976
+Canada,CAN,Developed,life_expectancy,1976,73.8560975609756
+Canada,CAN,Developed,life_expectancy,1975,73.5217073170732
+Canada,CAN,Developed,life_expectancy,1974,73.2375609756098
+Canada,CAN,Developed,life_expectancy,1973,73.1626829268293
+Canada,CAN,Developed,life_expectancy,1972,72.9339024390244
+Canada,CAN,Developed,life_expectancy,1971,73.0292682926829
+Canada,CAN,Developed,life_expectancy,1970,72.7004878048781
+Canada,CAN,Developed,life_expectancy,1969,72.5014634146341
+Canada,CAN,Developed,life_expectancy,1968,72.3534146341463
+Canada,CAN,Developed,life_expectancy,1967,72.2078048780488
+Canada,CAN,Developed,life_expectancy,1966,72.0043902439024
+Canada,CAN,Developed,life_expectancy,1965,71.8721951219512
+Canada,CAN,Developed,life_expectancy,1964,71.7763414634146
+Canada,CAN,Developed,life_expectancy,1963,71.3807317073171
+Canada,CAN,Developed,life_expectancy,1962,71.3670731707317
+Canada,CAN,Developed,life_expectancy,1961,71.3460975609756
+Canada,CAN,Developed,life_expectancy,1960,71.1331707317073
 Canada,CAN,Developed,population,2025,41651653.0
 Canada,CAN,Developed,population,2024,41262329.0
 Canada,CAN,Developed,population,2023,40049088.0
@@ -989,6 +1781,72 @@ Canada,CAN,Developed,population,1963,18964000.0
 Canada,CAN,Developed,population,1962,18614000.0
 Canada,CAN,Developed,population,1961,18271000.0
 Canada,CAN,Developed,population,1960,17909356.0
+Canada,CAN,Developed,school_enrollment,2025,
+Canada,CAN,Developed,school_enrollment,2024,
+Canada,CAN,Developed,school_enrollment,2023,104.320877075195
+Canada,CAN,Developed,school_enrollment,2022,107.467987060547
+Canada,CAN,Developed,school_enrollment,2021,108.337341308594
+Canada,CAN,Developed,school_enrollment,2020,109.628059387207
+Canada,CAN,Developed,school_enrollment,2019,110.980072021484
+Canada,CAN,Developed,school_enrollment,2018,111.833679199219
+Canada,CAN,Developed,school_enrollment,2017,111.974517822266
+Canada,CAN,Developed,school_enrollment,2016,111.607330322266
+Canada,CAN,Developed,school_enrollment,2015,111.737281799316
+Canada,CAN,Developed,school_enrollment,2014,111.68155670166
+Canada,CAN,Developed,school_enrollment,2013,111.407608032227
+Canada,CAN,Developed,school_enrollment,2012,110.873832702637
+Canada,CAN,Developed,school_enrollment,2011,102.823951721191
+Canada,CAN,Developed,school_enrollment,2010,102.510261535645
+Canada,CAN,Developed,school_enrollment,2009,102.979949951172
+Canada,CAN,Developed,school_enrollment,2008,102.278419494629
+Canada,CAN,Developed,school_enrollment,2007,101.272247314453
+Canada,CAN,Developed,school_enrollment,2006,100.449310302734
+Canada,CAN,Developed,school_enrollment,2005,100.274856567383
+Canada,CAN,Developed,school_enrollment,2004,
+Canada,CAN,Developed,school_enrollment,2003,
+Canada,CAN,Developed,school_enrollment,2002,
+Canada,CAN,Developed,school_enrollment,2001,
+Canada,CAN,Developed,school_enrollment,2000,101.992736816406
+Canada,CAN,Developed,school_enrollment,1999,
+Canada,CAN,Developed,school_enrollment,1998,
+Canada,CAN,Developed,school_enrollment,1997,
+Canada,CAN,Developed,school_enrollment,1996,
+Canada,CAN,Developed,school_enrollment,1995,
+Canada,CAN,Developed,school_enrollment,1994,
+Canada,CAN,Developed,school_enrollment,1993,
+Canada,CAN,Developed,school_enrollment,1992,
+Canada,CAN,Developed,school_enrollment,1991,
+Canada,CAN,Developed,school_enrollment,1990,
+Canada,CAN,Developed,school_enrollment,1989,
+Canada,CAN,Developed,school_enrollment,1988,
+Canada,CAN,Developed,school_enrollment,1987,
+Canada,CAN,Developed,school_enrollment,1986,
+Canada,CAN,Developed,school_enrollment,1985,
+Canada,CAN,Developed,school_enrollment,1984,
+Canada,CAN,Developed,school_enrollment,1983,
+Canada,CAN,Developed,school_enrollment,1982,
+Canada,CAN,Developed,school_enrollment,1981,
+Canada,CAN,Developed,school_enrollment,1980,
+Canada,CAN,Developed,school_enrollment,1979,
+Canada,CAN,Developed,school_enrollment,1978,
+Canada,CAN,Developed,school_enrollment,1977,
+Canada,CAN,Developed,school_enrollment,1976,
+Canada,CAN,Developed,school_enrollment,1975,
+Canada,CAN,Developed,school_enrollment,1974,
+Canada,CAN,Developed,school_enrollment,1973,
+Canada,CAN,Developed,school_enrollment,1972,
+Canada,CAN,Developed,school_enrollment,1971,
+Canada,CAN,Developed,school_enrollment,1970,
+Canada,CAN,Developed,school_enrollment,1969,
+Canada,CAN,Developed,school_enrollment,1968,
+Canada,CAN,Developed,school_enrollment,1967,
+Canada,CAN,Developed,school_enrollment,1966,
+Canada,CAN,Developed,school_enrollment,1965,
+Canada,CAN,Developed,school_enrollment,1964,
+Canada,CAN,Developed,school_enrollment,1963,
+Canada,CAN,Developed,school_enrollment,1962,
+Canada,CAN,Developed,school_enrollment,1961,
+Canada,CAN,Developed,school_enrollment,1960,
 Canada,CAN,Developed,unemployment,2025,6.907
 Canada,CAN,Developed,unemployment,2024,6.351
 Canada,CAN,Developed,unemployment,2023,5.415
@@ -1055,6 +1913,72 @@ Canada,CAN,Developed,unemployment,1963,
 Canada,CAN,Developed,unemployment,1962,
 Canada,CAN,Developed,unemployment,1961,
 Canada,CAN,Developed,unemployment,1960,
+China,CHN,Developing,electricity_access,2025,
+China,CHN,Developing,electricity_access,2024,100.0
+China,CHN,Developing,electricity_access,2023,100.0
+China,CHN,Developing,electricity_access,2022,100.0
+China,CHN,Developing,electricity_access,2021,100.0
+China,CHN,Developing,electricity_access,2020,100.0
+China,CHN,Developing,electricity_access,2019,100.0
+China,CHN,Developing,electricity_access,2018,100.0
+China,CHN,Developing,electricity_access,2017,100.0
+China,CHN,Developing,electricity_access,2016,100.0
+China,CHN,Developing,electricity_access,2015,100.0
+China,CHN,Developing,electricity_access,2014,100.0
+China,CHN,Developing,electricity_access,2013,100.0
+China,CHN,Developing,electricity_access,2012,99.9
+China,CHN,Developing,electricity_access,2011,99.9
+China,CHN,Developing,electricity_access,2010,99.7
+China,CHN,Developing,electricity_access,2009,99.1
+China,CHN,Developing,electricity_access,2008,98.8
+China,CHN,Developing,electricity_access,2007,98.5
+China,CHN,Developing,electricity_access,2006,98.2
+China,CHN,Developing,electricity_access,2005,97.9
+China,CHN,Developing,electricity_access,2004,97.7
+China,CHN,Developing,electricity_access,2003,97.4
+China,CHN,Developing,electricity_access,2002,97.2
+China,CHN,Developing,electricity_access,2001,97.0
+China,CHN,Developing,electricity_access,2000,96.7
+China,CHN,Developing,electricity_access,1999,
+China,CHN,Developing,electricity_access,1998,
+China,CHN,Developing,electricity_access,1997,
+China,CHN,Developing,electricity_access,1996,
+China,CHN,Developing,electricity_access,1995,
+China,CHN,Developing,electricity_access,1994,
+China,CHN,Developing,electricity_access,1993,
+China,CHN,Developing,electricity_access,1992,
+China,CHN,Developing,electricity_access,1991,
+China,CHN,Developing,electricity_access,1990,
+China,CHN,Developing,electricity_access,1989,
+China,CHN,Developing,electricity_access,1988,
+China,CHN,Developing,electricity_access,1987,
+China,CHN,Developing,electricity_access,1986,
+China,CHN,Developing,electricity_access,1985,
+China,CHN,Developing,electricity_access,1984,
+China,CHN,Developing,electricity_access,1983,
+China,CHN,Developing,electricity_access,1982,
+China,CHN,Developing,electricity_access,1981,
+China,CHN,Developing,electricity_access,1980,
+China,CHN,Developing,electricity_access,1979,
+China,CHN,Developing,electricity_access,1978,
+China,CHN,Developing,electricity_access,1977,
+China,CHN,Developing,electricity_access,1976,
+China,CHN,Developing,electricity_access,1975,
+China,CHN,Developing,electricity_access,1974,
+China,CHN,Developing,electricity_access,1973,
+China,CHN,Developing,electricity_access,1972,
+China,CHN,Developing,electricity_access,1971,
+China,CHN,Developing,electricity_access,1970,
+China,CHN,Developing,electricity_access,1969,
+China,CHN,Developing,electricity_access,1968,
+China,CHN,Developing,electricity_access,1967,
+China,CHN,Developing,electricity_access,1966,
+China,CHN,Developing,electricity_access,1965,
+China,CHN,Developing,electricity_access,1964,
+China,CHN,Developing,electricity_access,1963,
+China,CHN,Developing,electricity_access,1962,
+China,CHN,Developing,electricity_access,1961,
+China,CHN,Developing,electricity_access,1960,
 China,CHN,Developing,gdp,2025,19498039388042.6
 China,CHN,Developing,gdp,2024,18729668435848.0
 China,CHN,Developing,gdp,2023,18270356654533.2
@@ -1187,6 +2111,72 @@ China,CHN,Developing,gdp_per_capita,1963,74.4681540864463
 China,CHN,Developing,gdp_per_capita,1962,71.0616845971262
 China,CHN,Developing,gdp_per_capita,1961,75.9655011127574
 China,CHN,Developing,gdp_per_capita,1960,89.7150749167731
+China,CHN,Developing,life_expectancy,2025,
+China,CHN,Developing,life_expectancy,2024,78.017
+China,CHN,Developing,life_expectancy,2023,77.953
+China,CHN,Developing,life_expectancy,2022,78.202
+China,CHN,Developing,life_expectancy,2021,78.117
+China,CHN,Developing,life_expectancy,2020,78.019
+China,CHN,Developing,life_expectancy,2019,77.94
+China,CHN,Developing,life_expectancy,2018,77.709
+China,CHN,Developing,life_expectancy,2017,77.235
+China,CHN,Developing,life_expectancy,2016,77.214
+China,CHN,Developing,life_expectancy,2015,76.975
+China,CHN,Developing,life_expectancy,2014,76.714
+China,CHN,Developing,life_expectancy,2013,76.452
+China,CHN,Developing,life_expectancy,2012,76.2
+China,CHN,Developing,life_expectancy,2011,75.889
+China,CHN,Developing,life_expectancy,2010,75.668
+China,CHN,Developing,life_expectancy,2009,75.317
+China,CHN,Developing,life_expectancy,2008,74.833
+China,CHN,Developing,life_expectancy,2007,74.789
+China,CHN,Developing,life_expectancy,2006,74.404
+China,CHN,Developing,life_expectancy,2005,74.085
+China,CHN,Developing,life_expectancy,2004,73.727
+China,CHN,Developing,life_expectancy,2003,73.385
+China,CHN,Developing,life_expectancy,2002,73.034
+China,CHN,Developing,life_expectancy,2001,72.675
+China,CHN,Developing,life_expectancy,2000,72.288
+China,CHN,Developing,life_expectancy,1999,71.952
+China,CHN,Developing,life_expectancy,1998,71.601
+China,CHN,Developing,life_expectancy,1997,71.227
+China,CHN,Developing,life_expectancy,1996,70.823
+China,CHN,Developing,life_expectancy,1995,70.363
+China,CHN,Developing,life_expectancy,1994,69.835
+China,CHN,Developing,life_expectancy,1993,69.492
+China,CHN,Developing,life_expectancy,1992,69.059
+China,CHN,Developing,life_expectancy,1991,68.61
+China,CHN,Developing,life_expectancy,1990,68.155
+China,CHN,Developing,life_expectancy,1989,67.93
+China,CHN,Developing,life_expectancy,1988,67.607
+China,CHN,Developing,life_expectancy,1987,67.263
+China,CHN,Developing,life_expectancy,1986,66.887
+China,CHN,Developing,life_expectancy,1985,66.532
+China,CHN,Developing,life_expectancy,1984,66.148
+China,CHN,Developing,life_expectancy,1983,65.728
+China,CHN,Developing,life_expectancy,1982,65.249
+China,CHN,Developing,life_expectancy,1981,64.778
+China,CHN,Developing,life_expectancy,1980,64.243
+China,CHN,Developing,life_expectancy,1979,63.704
+China,CHN,Developing,life_expectancy,1978,63.102
+China,CHN,Developing,life_expectancy,1977,62.458
+China,CHN,Developing,life_expectancy,1976,61.225
+China,CHN,Developing,life_expectancy,1975,60.952
+China,CHN,Developing,life_expectancy,1974,60.241
+China,CHN,Developing,life_expectancy,1973,59.496
+China,CHN,Developing,life_expectancy,1972,58.579
+China,CHN,Developing,life_expectancy,1971,57.731
+China,CHN,Developing,life_expectancy,1970,56.824
+China,CHN,Developing,life_expectancy,1969,55.988
+China,CHN,Developing,life_expectancy,1968,55.191
+China,CHN,Developing,life_expectancy,1967,54.401
+China,CHN,Developing,life_expectancy,1966,53.662
+China,CHN,Developing,life_expectancy,1965,53.001
+China,CHN,Developing,life_expectancy,1964,52.343
+China,CHN,Developing,life_expectancy,1963,51.67
+China,CHN,Developing,life_expectancy,1962,50.959
+China,CHN,Developing,life_expectancy,1961,40.158
+China,CHN,Developing,life_expectancy,1960,33.419
 China,CHN,Developing,population,2025,1406585000.0
 China,CHN,Developing,population,2024,1408975000.0
 China,CHN,Developing,population,2023,1410710000.0
@@ -1253,6 +2243,72 @@ China,CHN,Developing,population,1963,682335000.0
 China,CHN,Developing,population,1962,665770000.0
 China,CHN,Developing,population,1961,660330000.0
 China,CHN,Developing,population,1960,667070000.0
+China,CHN,Developing,school_enrollment,2025,
+China,CHN,Developing,school_enrollment,2024,
+China,CHN,Developing,school_enrollment,2023,
+China,CHN,Developing,school_enrollment,2022,
+China,CHN,Developing,school_enrollment,2021,
+China,CHN,Developing,school_enrollment,2020,
+China,CHN,Developing,school_enrollment,2019,
+China,CHN,Developing,school_enrollment,2018,
+China,CHN,Developing,school_enrollment,2017,
+China,CHN,Developing,school_enrollment,2016,
+China,CHN,Developing,school_enrollment,2015,
+China,CHN,Developing,school_enrollment,2014,
+China,CHN,Developing,school_enrollment,2013,
+China,CHN,Developing,school_enrollment,2012,92.2603063015232
+China,CHN,Developing,school_enrollment,2011,92.0329425203903
+China,CHN,Developing,school_enrollment,2010,90.7829173331445
+China,CHN,Developing,school_enrollment,2009,88.2874984741211
+China,CHN,Developing,school_enrollment,2008,82.6792526245117
+China,CHN,Developing,school_enrollment,2007,78.1607131958008
+China,CHN,Developing,school_enrollment,2006,74.0575637817383
+China,CHN,Developing,school_enrollment,2005,
+China,CHN,Developing,school_enrollment,2004,
+China,CHN,Developing,school_enrollment,2003,64.0541305541992
+China,CHN,Developing,school_enrollment,2002,62.8378982543945
+China,CHN,Developing,school_enrollment,2001,62.2098388671875
+China,CHN,Developing,school_enrollment,2000,59.4924812316895
+China,CHN,Developing,school_enrollment,1999,58.6365814208984
+China,CHN,Developing,school_enrollment,1998,
+China,CHN,Developing,school_enrollment,1997,54.7360382080078
+China,CHN,Developing,school_enrollment,1996,52.3077697753906
+China,CHN,Developing,school_enrollment,1995,48.9643783569336
+China,CHN,Developing,school_enrollment,1994,47.1572189331055
+China,CHN,Developing,school_enrollment,1993,46.7595100402832
+China,CHN,Developing,school_enrollment,1992,44.4469909667969
+China,CHN,Developing,school_enrollment,1991,41.5681610107422
+China,CHN,Developing,school_enrollment,1990,39.0024795532227
+China,CHN,Developing,school_enrollment,1989,38.1876487731934
+China,CHN,Developing,school_enrollment,1988,37.2133903503418
+China,CHN,Developing,school_enrollment,1987,35.1423110961914
+China,CHN,Developing,school_enrollment,1986,32.6376609802246
+China,CHN,Developing,school_enrollment,1985,31.3245601654053
+China,CHN,Developing,school_enrollment,1984,29.9084606170654
+China,CHN,Developing,school_enrollment,1983,30.1499004364014
+China,CHN,Developing,school_enrollment,1982,32.6269607543945
+China,CHN,Developing,school_enrollment,1981,36.6918296813965
+China,CHN,Developing,school_enrollment,1980,40.256160736084
+China,CHN,Developing,school_enrollment,1979,47.5873718261719
+China,CHN,Developing,school_enrollment,1978,53.2011489868164
+China,CHN,Developing,school_enrollment,1977,57.1651306152344
+China,CHN,Developing,school_enrollment,1976,58.1372909545898
+China,CHN,Developing,school_enrollment,1975,57.590461730957
+China,CHN,Developing,school_enrollment,1974,58.2484588623047
+China,CHN,Developing,school_enrollment,1973,53.8520202636719
+China,CHN,Developing,school_enrollment,1972,43.8977890014648
+China,CHN,Developing,school_enrollment,1971,34.3487205505371
+China,CHN,Developing,school_enrollment,1970,25.6986503601074
+China,CHN,Developing,school_enrollment,1969,
+China,CHN,Developing,school_enrollment,1968,
+China,CHN,Developing,school_enrollment,1967,
+China,CHN,Developing,school_enrollment,1966,
+China,CHN,Developing,school_enrollment,1965,
+China,CHN,Developing,school_enrollment,1964,
+China,CHN,Developing,school_enrollment,1963,
+China,CHN,Developing,school_enrollment,1962,
+China,CHN,Developing,school_enrollment,1961,
+China,CHN,Developing,school_enrollment,1960,
 China,CHN,Developing,unemployment,2025,4.615
 China,CHN,Developing,unemployment,2024,4.59
 China,CHN,Developing,unemployment,2023,4.67
@@ -1319,6 +2375,72 @@ China,CHN,Developing,unemployment,1963,
 China,CHN,Developing,unemployment,1962,
 China,CHN,Developing,unemployment,1961,
 China,CHN,Developing,unemployment,1960,
+Germany,DEU,Developed,electricity_access,2025,
+Germany,DEU,Developed,electricity_access,2024,100.0
+Germany,DEU,Developed,electricity_access,2023,100.0
+Germany,DEU,Developed,electricity_access,2022,100.0
+Germany,DEU,Developed,electricity_access,2021,100.0
+Germany,DEU,Developed,electricity_access,2020,100.0
+Germany,DEU,Developed,electricity_access,2019,100.0
+Germany,DEU,Developed,electricity_access,2018,100.0
+Germany,DEU,Developed,electricity_access,2017,100.0
+Germany,DEU,Developed,electricity_access,2016,100.0
+Germany,DEU,Developed,electricity_access,2015,100.0
+Germany,DEU,Developed,electricity_access,2014,100.0
+Germany,DEU,Developed,electricity_access,2013,100.0
+Germany,DEU,Developed,electricity_access,2012,100.0
+Germany,DEU,Developed,electricity_access,2011,100.0
+Germany,DEU,Developed,electricity_access,2010,100.0
+Germany,DEU,Developed,electricity_access,2009,100.0
+Germany,DEU,Developed,electricity_access,2008,100.0
+Germany,DEU,Developed,electricity_access,2007,100.0
+Germany,DEU,Developed,electricity_access,2006,100.0
+Germany,DEU,Developed,electricity_access,2005,100.0
+Germany,DEU,Developed,electricity_access,2004,100.0
+Germany,DEU,Developed,electricity_access,2003,100.0
+Germany,DEU,Developed,electricity_access,2002,100.0
+Germany,DEU,Developed,electricity_access,2001,100.0
+Germany,DEU,Developed,electricity_access,2000,100.0
+Germany,DEU,Developed,electricity_access,1999,100.0
+Germany,DEU,Developed,electricity_access,1998,100.0
+Germany,DEU,Developed,electricity_access,1997,100.0
+Germany,DEU,Developed,electricity_access,1996,100.0
+Germany,DEU,Developed,electricity_access,1995,100.0
+Germany,DEU,Developed,electricity_access,1994,100.0
+Germany,DEU,Developed,electricity_access,1993,100.0
+Germany,DEU,Developed,electricity_access,1992,100.0
+Germany,DEU,Developed,electricity_access,1991,100.0
+Germany,DEU,Developed,electricity_access,1990,100.0
+Germany,DEU,Developed,electricity_access,1989,
+Germany,DEU,Developed,electricity_access,1988,
+Germany,DEU,Developed,electricity_access,1987,
+Germany,DEU,Developed,electricity_access,1986,
+Germany,DEU,Developed,electricity_access,1985,
+Germany,DEU,Developed,electricity_access,1984,
+Germany,DEU,Developed,electricity_access,1983,
+Germany,DEU,Developed,electricity_access,1982,
+Germany,DEU,Developed,electricity_access,1981,
+Germany,DEU,Developed,electricity_access,1980,
+Germany,DEU,Developed,electricity_access,1979,
+Germany,DEU,Developed,electricity_access,1978,
+Germany,DEU,Developed,electricity_access,1977,
+Germany,DEU,Developed,electricity_access,1976,
+Germany,DEU,Developed,electricity_access,1975,
+Germany,DEU,Developed,electricity_access,1974,
+Germany,DEU,Developed,electricity_access,1973,
+Germany,DEU,Developed,electricity_access,1972,
+Germany,DEU,Developed,electricity_access,1971,
+Germany,DEU,Developed,electricity_access,1970,
+Germany,DEU,Developed,electricity_access,1969,
+Germany,DEU,Developed,electricity_access,1968,
+Germany,DEU,Developed,electricity_access,1967,
+Germany,DEU,Developed,electricity_access,1966,
+Germany,DEU,Developed,electricity_access,1965,
+Germany,DEU,Developed,electricity_access,1964,
+Germany,DEU,Developed,electricity_access,1963,
+Germany,DEU,Developed,electricity_access,1962,
+Germany,DEU,Developed,electricity_access,1961,
+Germany,DEU,Developed,electricity_access,1960,
 Germany,DEU,Developed,gdp,2025,5050922925047.05
 Germany,DEU,Developed,gdp,2024,4685592577804.69
 Germany,DEU,Developed,gdp,2023,4562207532490.28
@@ -1451,6 +2573,72 @@ Germany,DEU,Developed,gdp_per_capita,1963,1502.15452905146
 Germany,DEU,Developed,gdp_per_capita,1962,1430.52095516263
 Germany,DEU,Developed,gdp_per_capita,1961,1315.90787834504
 Germany,DEU,Developed,gdp_per_capita,1960,1162.12266831735
+Germany,DEU,Developed,life_expectancy,2025,
+Germany,DEU,Developed,life_expectancy,2024,80.7926829268293
+Germany,DEU,Developed,life_expectancy,2023,81.0414634146342
+Germany,DEU,Developed,life_expectancy,2022,80.6080487804878
+Germany,DEU,Developed,life_expectancy,2021,80.790243902439
+Germany,DEU,Developed,life_expectancy,2020,81.0414634146342
+Germany,DEU,Developed,life_expectancy,2019,81.2926829268293
+Germany,DEU,Developed,life_expectancy,2018,80.8926829268293
+Germany,DEU,Developed,life_expectancy,2017,80.9926829268293
+Germany,DEU,Developed,life_expectancy,2016,80.990243902439
+Germany,DEU,Developed,life_expectancy,2015,80.6414634146341
+Germany,DEU,Developed,life_expectancy,2014,81.090243902439
+Germany,DEU,Developed,life_expectancy,2013,80.490243902439
+Germany,DEU,Developed,life_expectancy,2012,80.5390243902439
+Germany,DEU,Developed,life_expectancy,2011,80.4365853658537
+Germany,DEU,Developed,life_expectancy,2010,79.9878048780488
+Germany,DEU,Developed,life_expectancy,2009,79.8365853658537
+Germany,DEU,Developed,life_expectancy,2008,79.7365853658537
+Germany,DEU,Developed,life_expectancy,2007,79.5341463414634
+Germany,DEU,Developed,life_expectancy,2006,79.1317073170732
+Germany,DEU,Developed,life_expectancy,2005,78.9317073170732
+Germany,DEU,Developed,life_expectancy,2004,78.6804878048781
+Germany,DEU,Developed,life_expectancy,2003,78.3804878048781
+Germany,DEU,Developed,life_expectancy,2002,78.2292682926829
+Germany,DEU,Developed,life_expectancy,2001,78.3292682926829
+Germany,DEU,Developed,life_expectancy,2000,77.9268292682927
+Germany,DEU,Developed,life_expectancy,1999,77.7268292682927
+Germany,DEU,Developed,life_expectancy,1998,77.4756097560976
+Germany,DEU,Developed,life_expectancy,1997,77.0731707317073
+Germany,DEU,Developed,life_expectancy,1996,76.6731707317073
+Germany,DEU,Developed,life_expectancy,1995,76.4219512195122
+Germany,DEU,Developed,life_expectancy,1994,76.2707317073171
+Germany,DEU,Developed,life_expectancy,1993,75.8707317073171
+Germany,DEU,Developed,life_expectancy,1992,75.819512195122
+Germany,DEU,Developed,life_expectancy,1991,75.319512195122
+Germany,DEU,Developed,life_expectancy,1990,75.0856341463415
+Germany,DEU,Developed,life_expectancy,1989,75.1915365853659
+Germany,DEU,Developed,life_expectancy,1988,74.9987317073171
+Germany,DEU,Developed,life_expectancy,1987,74.8070243902439
+Germany,DEU,Developed,life_expectancy,1986,74.3968292682927
+Germany,DEU,Developed,life_expectancy,1985,74.1890975609756
+Germany,DEU,Developed,life_expectancy,1984,74.0722926829268
+Germany,DEU,Developed,life_expectancy,1983,73.6221463414634
+Germany,DEU,Developed,life_expectancy,1982,73.3331463414634
+Germany,DEU,Developed,life_expectancy,1981,73.0402195121951
+Germany,DEU,Developed,life_expectancy,1980,72.8003170731707
+Germany,DEU,Developed,life_expectancy,1979,72.6301707317073
+Germany,DEU,Developed,life_expectancy,1978,72.2904146341464
+Germany,DEU,Developed,life_expectancy,1977,72.3073170731707
+Germany,DEU,Developed,life_expectancy,1976,71.7122195121951
+Germany,DEU,Developed,life_expectancy,1975,71.259243902439
+Germany,DEU,Developed,life_expectancy,1974,71.4189268292683
+Germany,DEU,Developed,life_expectancy,1973,71.1128048780488
+Germany,DEU,Developed,life_expectancy,1972,70.9067073170732
+Germany,DEU,Developed,life_expectancy,1971,70.676756097561
+Germany,DEU,Developed,life_expectancy,1970,70.4471951219512
+Germany,DEU,Developed,life_expectancy,1969,70.2288048780488
+Germany,DEU,Developed,life_expectancy,1968,70.3784634146342
+Germany,DEU,Developed,life_expectancy,1967,70.7317317073171
+Germany,DEU,Developed,life_expectancy,1966,70.5215853658537
+Germany,DEU,Developed,life_expectancy,1965,70.4103658536585
+Germany,DEU,Developed,life_expectancy,1964,70.4355609756098
+Germany,DEU,Developed,life_expectancy,1963,69.9140731707317
+Germany,DEU,Developed,life_expectancy,1962,69.7992195121951
+Germany,DEU,Developed,life_expectancy,1961,69.6448780487805
+Germany,DEU,Developed,life_expectancy,1960,69.0640731707317
 Germany,DEU,Developed,population,2025,83491249.0
 Germany,DEU,Developed,population,2024,83516593.0
 Germany,DEU,Developed,population,2023,83287273.0
@@ -1517,6 +2705,72 @@ Germany,DEU,Developed,population,1963,74714353.0
 Germany,DEU,Developed,population,1962,74025784.0
 Germany,DEU,Developed,population,1961,73377632.0
 Germany,DEU,Developed,population,1960,72814900.0
+Germany,DEU,Developed,school_enrollment,2025,
+Germany,DEU,Developed,school_enrollment,2024,100.243698120117
+Germany,DEU,Developed,school_enrollment,2023,100.603057861328
+Germany,DEU,Developed,school_enrollment,2022,100.81729888916
+Germany,DEU,Developed,school_enrollment,2021,101.203536987305
+Germany,DEU,Developed,school_enrollment,2020,101.307800292969
+Germany,DEU,Developed,school_enrollment,2019,101.152557373047
+Germany,DEU,Developed,school_enrollment,2018,100.837303161621
+Germany,DEU,Developed,school_enrollment,2017,101.095642089844
+Germany,DEU,Developed,school_enrollment,2016,100.852310180664
+Germany,DEU,Developed,school_enrollment,2015,102.192413330078
+Germany,DEU,Developed,school_enrollment,2014,103.303871154785
+Germany,DEU,Developed,school_enrollment,2013,103.935333251953
+Germany,DEU,Developed,school_enrollment,2012,104.442237854004
+Germany,DEU,Developed,school_enrollment,2011,105.34651184082
+Germany,DEU,Developed,school_enrollment,2010,104.891357421875
+Germany,DEU,Developed,school_enrollment,2009,103.314292907715
+Germany,DEU,Developed,school_enrollment,2008,103.240730285645
+Germany,DEU,Developed,school_enrollment,2007,102.009773254395
+Germany,DEU,Developed,school_enrollment,2006,102.486396789551
+Germany,DEU,Developed,school_enrollment,2005,101.436492919922
+Germany,DEU,Developed,school_enrollment,2004,101.377777099609
+Germany,DEU,Developed,school_enrollment,2003,101.226783752441
+Germany,DEU,Developed,school_enrollment,2002,100.853607177734
+Germany,DEU,Developed,school_enrollment,2001,99.554801940918
+Germany,DEU,Developed,school_enrollment,2000,
+Germany,DEU,Developed,school_enrollment,1999,
+Germany,DEU,Developed,school_enrollment,1998,
+Germany,DEU,Developed,school_enrollment,1997,
+Germany,DEU,Developed,school_enrollment,1996,
+Germany,DEU,Developed,school_enrollment,1995,
+Germany,DEU,Developed,school_enrollment,1994,
+Germany,DEU,Developed,school_enrollment,1993,
+Germany,DEU,Developed,school_enrollment,1992,
+Germany,DEU,Developed,school_enrollment,1991,
+Germany,DEU,Developed,school_enrollment,1990,
+Germany,DEU,Developed,school_enrollment,1989,
+Germany,DEU,Developed,school_enrollment,1988,
+Germany,DEU,Developed,school_enrollment,1987,
+Germany,DEU,Developed,school_enrollment,1986,
+Germany,DEU,Developed,school_enrollment,1985,
+Germany,DEU,Developed,school_enrollment,1984,
+Germany,DEU,Developed,school_enrollment,1983,
+Germany,DEU,Developed,school_enrollment,1982,
+Germany,DEU,Developed,school_enrollment,1981,
+Germany,DEU,Developed,school_enrollment,1980,
+Germany,DEU,Developed,school_enrollment,1979,
+Germany,DEU,Developed,school_enrollment,1978,
+Germany,DEU,Developed,school_enrollment,1977,
+Germany,DEU,Developed,school_enrollment,1976,
+Germany,DEU,Developed,school_enrollment,1975,
+Germany,DEU,Developed,school_enrollment,1974,
+Germany,DEU,Developed,school_enrollment,1973,
+Germany,DEU,Developed,school_enrollment,1972,
+Germany,DEU,Developed,school_enrollment,1971,
+Germany,DEU,Developed,school_enrollment,1970,
+Germany,DEU,Developed,school_enrollment,1969,
+Germany,DEU,Developed,school_enrollment,1968,
+Germany,DEU,Developed,school_enrollment,1967,
+Germany,DEU,Developed,school_enrollment,1966,
+Germany,DEU,Developed,school_enrollment,1965,
+Germany,DEU,Developed,school_enrollment,1964,
+Germany,DEU,Developed,school_enrollment,1963,
+Germany,DEU,Developed,school_enrollment,1962,
+Germany,DEU,Developed,school_enrollment,1961,
+Germany,DEU,Developed,school_enrollment,1960,
 Germany,DEU,Developed,unemployment,2025,3.711
 Germany,DEU,Developed,unemployment,2024,3.4
 Germany,DEU,Developed,unemployment,2023,3.071
@@ -1583,6 +2837,72 @@ Germany,DEU,Developed,unemployment,1963,
 Germany,DEU,Developed,unemployment,1962,
 Germany,DEU,Developed,unemployment,1961,
 Germany,DEU,Developed,unemployment,1960,
+Ethiopia,ETH,Least Developed,electricity_access,2025,
+Ethiopia,ETH,Least Developed,electricity_access,2024,56.6
+Ethiopia,ETH,Least Developed,electricity_access,2023,55.4
+Ethiopia,ETH,Least Developed,electricity_access,2022,55.0
+Ethiopia,ETH,Least Developed,electricity_access,2021,54.2
+Ethiopia,ETH,Least Developed,electricity_access,2020,51.1
+Ethiopia,ETH,Least Developed,electricity_access,2019,48.0
+Ethiopia,ETH,Least Developed,electricity_access,2018,44.8
+Ethiopia,ETH,Least Developed,electricity_access,2017,44.3
+Ethiopia,ETH,Least Developed,electricity_access,2016,42.9
+Ethiopia,ETH,Least Developed,electricity_access,2015,29.0
+Ethiopia,ETH,Least Developed,electricity_access,2014,27.2
+Ethiopia,ETH,Least Developed,electricity_access,2013,30.8
+Ethiopia,ETH,Least Developed,electricity_access,2012,29.0
+Ethiopia,ETH,Least Developed,electricity_access,2011,23.0
+Ethiopia,ETH,Least Developed,electricity_access,2010,25.5
+Ethiopia,ETH,Least Developed,electricity_access,2009,23.7
+Ethiopia,ETH,Least Developed,electricity_access,2008,22.0
+Ethiopia,ETH,Least Developed,electricity_access,2007,20.3
+Ethiopia,ETH,Least Developed,electricity_access,2006,18.6
+Ethiopia,ETH,Least Developed,electricity_access,2005,14.0
+Ethiopia,ETH,Least Developed,electricity_access,2004,15.2
+Ethiopia,ETH,Least Developed,electricity_access,2003,13.5
+Ethiopia,ETH,Least Developed,electricity_access,2002,11.9
+Ethiopia,ETH,Least Developed,electricity_access,2001,10.2
+Ethiopia,ETH,Least Developed,electricity_access,2000,12.7
+Ethiopia,ETH,Least Developed,electricity_access,1999,
+Ethiopia,ETH,Least Developed,electricity_access,1998,
+Ethiopia,ETH,Least Developed,electricity_access,1997,
+Ethiopia,ETH,Least Developed,electricity_access,1996,
+Ethiopia,ETH,Least Developed,electricity_access,1995,
+Ethiopia,ETH,Least Developed,electricity_access,1994,
+Ethiopia,ETH,Least Developed,electricity_access,1993,
+Ethiopia,ETH,Least Developed,electricity_access,1992,
+Ethiopia,ETH,Least Developed,electricity_access,1991,
+Ethiopia,ETH,Least Developed,electricity_access,1990,
+Ethiopia,ETH,Least Developed,electricity_access,1989,
+Ethiopia,ETH,Least Developed,electricity_access,1988,
+Ethiopia,ETH,Least Developed,electricity_access,1987,
+Ethiopia,ETH,Least Developed,electricity_access,1986,
+Ethiopia,ETH,Least Developed,electricity_access,1985,
+Ethiopia,ETH,Least Developed,electricity_access,1984,
+Ethiopia,ETH,Least Developed,electricity_access,1983,
+Ethiopia,ETH,Least Developed,electricity_access,1982,
+Ethiopia,ETH,Least Developed,electricity_access,1981,
+Ethiopia,ETH,Least Developed,electricity_access,1980,
+Ethiopia,ETH,Least Developed,electricity_access,1979,
+Ethiopia,ETH,Least Developed,electricity_access,1978,
+Ethiopia,ETH,Least Developed,electricity_access,1977,
+Ethiopia,ETH,Least Developed,electricity_access,1976,
+Ethiopia,ETH,Least Developed,electricity_access,1975,
+Ethiopia,ETH,Least Developed,electricity_access,1974,
+Ethiopia,ETH,Least Developed,electricity_access,1973,
+Ethiopia,ETH,Least Developed,electricity_access,1972,
+Ethiopia,ETH,Least Developed,electricity_access,1971,
+Ethiopia,ETH,Least Developed,electricity_access,1970,
+Ethiopia,ETH,Least Developed,electricity_access,1969,
+Ethiopia,ETH,Least Developed,electricity_access,1968,
+Ethiopia,ETH,Least Developed,electricity_access,1967,
+Ethiopia,ETH,Least Developed,electricity_access,1966,
+Ethiopia,ETH,Least Developed,electricity_access,1965,
+Ethiopia,ETH,Least Developed,electricity_access,1964,
+Ethiopia,ETH,Least Developed,electricity_access,1963,
+Ethiopia,ETH,Least Developed,electricity_access,1962,
+Ethiopia,ETH,Least Developed,electricity_access,1961,
+Ethiopia,ETH,Least Developed,electricity_access,1960,
 Ethiopia,ETH,Least Developed,gdp,2025,126358758448.356
 Ethiopia,ETH,Least Developed,gdp,2024,149740297952.375
 Ethiopia,ETH,Least Developed,gdp,2023,135874093203.18
@@ -1715,6 +3035,72 @@ Ethiopia,ETH,Least Developed,gdp_per_capita,1963,79.1726343703284
 Ethiopia,ETH,Least Developed,gdp_per_capita,1962,77.7901849782504
 Ethiopia,ETH,Least Developed,gdp_per_capita,1961,76.7301966411733
 Ethiopia,ETH,Least Developed,gdp_per_capita,1960,75.3396090705961
+Ethiopia,ETH,Least Developed,life_expectancy,2025,
+Ethiopia,ETH,Least Developed,life_expectancy,2024,67.603
+Ethiopia,ETH,Least Developed,life_expectancy,2023,67.315
+Ethiopia,ETH,Least Developed,life_expectancy,2022,66.897
+Ethiopia,ETH,Least Developed,life_expectancy,2021,65.33
+Ethiopia,ETH,Least Developed,life_expectancy,2020,65.969
+Ethiopia,ETH,Least Developed,life_expectancy,2019,65.741
+Ethiopia,ETH,Least Developed,life_expectancy,2018,65.257
+Ethiopia,ETH,Least Developed,life_expectancy,2017,64.766
+Ethiopia,ETH,Least Developed,life_expectancy,2016,64.162
+Ethiopia,ETH,Least Developed,life_expectancy,2015,63.592
+Ethiopia,ETH,Least Developed,life_expectancy,2014,62.927
+Ethiopia,ETH,Least Developed,life_expectancy,2013,62.161
+Ethiopia,ETH,Least Developed,life_expectancy,2012,61.443
+Ethiopia,ETH,Least Developed,life_expectancy,2011,60.595
+Ethiopia,ETH,Least Developed,life_expectancy,2010,59.709
+Ethiopia,ETH,Least Developed,life_expectancy,2009,58.715
+Ethiopia,ETH,Least Developed,life_expectancy,2008,57.733
+Ethiopia,ETH,Least Developed,life_expectancy,2007,56.566
+Ethiopia,ETH,Least Developed,life_expectancy,2006,55.402
+Ethiopia,ETH,Least Developed,life_expectancy,2005,54.364
+Ethiopia,ETH,Least Developed,life_expectancy,2004,53.735
+Ethiopia,ETH,Least Developed,life_expectancy,2003,52.877
+Ethiopia,ETH,Least Developed,life_expectancy,2002,52.085
+Ethiopia,ETH,Least Developed,life_expectancy,2001,51.428
+Ethiopia,ETH,Least Developed,life_expectancy,2000,50.88
+Ethiopia,ETH,Least Developed,life_expectancy,1999,49.486
+Ethiopia,ETH,Least Developed,life_expectancy,1998,49.785
+Ethiopia,ETH,Least Developed,life_expectancy,1997,49.21
+Ethiopia,ETH,Least Developed,life_expectancy,1996,48.697
+Ethiopia,ETH,Least Developed,life_expectancy,1995,48.156
+Ethiopia,ETH,Least Developed,life_expectancy,1994,47.926
+Ethiopia,ETH,Least Developed,life_expectancy,1993,47.676
+Ethiopia,ETH,Least Developed,life_expectancy,1992,47.279
+Ethiopia,ETH,Least Developed,life_expectancy,1991,46.657
+Ethiopia,ETH,Least Developed,life_expectancy,1990,45.117
+Ethiopia,ETH,Least Developed,life_expectancy,1989,45.644
+Ethiopia,ETH,Least Developed,life_expectancy,1988,45.682
+Ethiopia,ETH,Least Developed,life_expectancy,1987,45.892
+Ethiopia,ETH,Least Developed,life_expectancy,1986,38.371
+Ethiopia,ETH,Least Developed,life_expectancy,1985,37.747
+Ethiopia,ETH,Least Developed,life_expectancy,1984,36.737
+Ethiopia,ETH,Least Developed,life_expectancy,1983,36.319
+Ethiopia,ETH,Least Developed,life_expectancy,1982,43.434
+Ethiopia,ETH,Least Developed,life_expectancy,1981,43.084
+Ethiopia,ETH,Least Developed,life_expectancy,1980,42.815
+Ethiopia,ETH,Least Developed,life_expectancy,1979,42.376
+Ethiopia,ETH,Least Developed,life_expectancy,1978,41.506
+Ethiopia,ETH,Least Developed,life_expectancy,1977,41.397
+Ethiopia,ETH,Least Developed,life_expectancy,1976,41.32
+Ethiopia,ETH,Least Developed,life_expectancy,1975,38.941
+Ethiopia,ETH,Least Developed,life_expectancy,1974,39.083
+Ethiopia,ETH,Least Developed,life_expectancy,1973,41.103
+Ethiopia,ETH,Least Developed,life_expectancy,1972,41.035
+Ethiopia,ETH,Least Developed,life_expectancy,1971,42.216
+Ethiopia,ETH,Least Developed,life_expectancy,1970,42.115
+Ethiopia,ETH,Least Developed,life_expectancy,1969,42.131
+Ethiopia,ETH,Least Developed,life_expectancy,1968,42.092
+Ethiopia,ETH,Least Developed,life_expectancy,1967,41.941
+Ethiopia,ETH,Least Developed,life_expectancy,1966,39.343
+Ethiopia,ETH,Least Developed,life_expectancy,1965,41.413
+Ethiopia,ETH,Least Developed,life_expectancy,1964,41.261
+Ethiopia,ETH,Least Developed,life_expectancy,1963,40.967
+Ethiopia,ETH,Least Developed,life_expectancy,1962,40.531
+Ethiopia,ETH,Least Developed,life_expectancy,1961,40.198
+Ethiopia,ETH,Least Developed,life_expectancy,1960,39.615
 Ethiopia,ETH,Least Developed,population,2025,135472051.0
 Ethiopia,ETH,Least Developed,population,2024,132059767.0
 Ethiopia,ETH,Least Developed,population,2023,128691692.0
@@ -1781,6 +3167,72 @@ Ethiopia,ETH,Least Developed,population,1963,23051637.0
 Ethiopia,ETH,Least Developed,population,1962,22465126.0
 Ethiopia,ETH,Least Developed,population,1961,21906102.0
 Ethiopia,ETH,Least Developed,population,1960,21376693.0
+Ethiopia,ETH,Least Developed,school_enrollment,2025,
+Ethiopia,ETH,Least Developed,school_enrollment,2024,
+Ethiopia,ETH,Least Developed,school_enrollment,2023,
+Ethiopia,ETH,Least Developed,school_enrollment,2022,
+Ethiopia,ETH,Least Developed,school_enrollment,2021,
+Ethiopia,ETH,Least Developed,school_enrollment,2020,
+Ethiopia,ETH,Least Developed,school_enrollment,2019,
+Ethiopia,ETH,Least Developed,school_enrollment,2018,
+Ethiopia,ETH,Least Developed,school_enrollment,2017,
+Ethiopia,ETH,Least Developed,school_enrollment,2016,
+Ethiopia,ETH,Least Developed,school_enrollment,2015,33.9114221981431
+Ethiopia,ETH,Least Developed,school_enrollment,2014,
+Ethiopia,ETH,Least Developed,school_enrollment,2013,
+Ethiopia,ETH,Least Developed,school_enrollment,2012,36.2193489074707
+Ethiopia,ETH,Least Developed,school_enrollment,2011,34.4468994140625
+Ethiopia,ETH,Least Developed,school_enrollment,2010,33.0478591918945
+Ethiopia,ETH,Least Developed,school_enrollment,2009,31.649019241333
+Ethiopia,ETH,Least Developed,school_enrollment,2008,31.3109302520752
+Ethiopia,ETH,Least Developed,school_enrollment,2007,30.251350402832
+Ethiopia,ETH,Least Developed,school_enrollment,2006,27.4775695800781
+Ethiopia,ETH,Least Developed,school_enrollment,2005,23.8548793792725
+Ethiopia,ETH,Least Developed,school_enrollment,2004,21.47705078125
+Ethiopia,ETH,Least Developed,school_enrollment,2003,19.5667705535889
+Ethiopia,ETH,Least Developed,school_enrollment,2002,19.1939201354981
+Ethiopia,ETH,Least Developed,school_enrollment,2001,17.3430194854736
+Ethiopia,ETH,Least Developed,school_enrollment,2000,14.451319694519
+Ethiopia,ETH,Least Developed,school_enrollment,1999,13.2957601547241
+Ethiopia,ETH,Least Developed,school_enrollment,1998,
+Ethiopia,ETH,Least Developed,school_enrollment,1997,
+Ethiopia,ETH,Least Developed,school_enrollment,1996,11.0706901550293
+Ethiopia,ETH,Least Developed,school_enrollment,1995,10.4840297698975
+Ethiopia,ETH,Least Developed,school_enrollment,1994,10.3277502059937
+Ethiopia,ETH,Least Developed,school_enrollment,1993,10.651909828186
+Ethiopia,ETH,Least Developed,school_enrollment,1992,11.9716300964356
+Ethiopia,ETH,Least Developed,school_enrollment,1991,13.8706998825073
+Ethiopia,ETH,Least Developed,school_enrollment,1990,
+Ethiopia,ETH,Least Developed,school_enrollment,1989,15.1527500152588
+Ethiopia,ETH,Least Developed,school_enrollment,1988,15.1533002853394
+Ethiopia,ETH,Least Developed,school_enrollment,1987,13.7807397842407
+Ethiopia,ETH,Least Developed,school_enrollment,1986,12.5261001586914
+Ethiopia,ETH,Least Developed,school_enrollment,1985,
+Ethiopia,ETH,Least Developed,school_enrollment,1984,11.6299104690552
+Ethiopia,ETH,Least Developed,school_enrollment,1983,
+Ethiopia,ETH,Least Developed,school_enrollment,1982,
+Ethiopia,ETH,Least Developed,school_enrollment,1981,
+Ethiopia,ETH,Least Developed,school_enrollment,1980,
+Ethiopia,ETH,Least Developed,school_enrollment,1979,
+Ethiopia,ETH,Least Developed,school_enrollment,1978,
+Ethiopia,ETH,Least Developed,school_enrollment,1977,
+Ethiopia,ETH,Least Developed,school_enrollment,1976,
+Ethiopia,ETH,Least Developed,school_enrollment,1975,
+Ethiopia,ETH,Least Developed,school_enrollment,1974,5.24279022216797
+Ethiopia,ETH,Least Developed,school_enrollment,1973,4.81599998474121
+Ethiopia,ETH,Least Developed,school_enrollment,1972,4.39421987533569
+Ethiopia,ETH,Least Developed,school_enrollment,1971,4.09932994842529
+Ethiopia,ETH,Least Developed,school_enrollment,1970,
+Ethiopia,ETH,Least Developed,school_enrollment,1969,
+Ethiopia,ETH,Least Developed,school_enrollment,1968,
+Ethiopia,ETH,Least Developed,school_enrollment,1967,
+Ethiopia,ETH,Least Developed,school_enrollment,1966,
+Ethiopia,ETH,Least Developed,school_enrollment,1965,
+Ethiopia,ETH,Least Developed,school_enrollment,1964,
+Ethiopia,ETH,Least Developed,school_enrollment,1963,
+Ethiopia,ETH,Least Developed,school_enrollment,1962,
+Ethiopia,ETH,Least Developed,school_enrollment,1961,
+Ethiopia,ETH,Least Developed,school_enrollment,1960,
 Ethiopia,ETH,Least Developed,unemployment,2025,3.323
 Ethiopia,ETH,Least Developed,unemployment,2024,3.357
 Ethiopia,ETH,Least Developed,unemployment,2023,3.375
@@ -1847,6 +3299,72 @@ Ethiopia,ETH,Least Developed,unemployment,1963,
 Ethiopia,ETH,Least Developed,unemployment,1962,
 Ethiopia,ETH,Least Developed,unemployment,1961,
 Ethiopia,ETH,Least Developed,unemployment,1960,
+India,IND,Developing,electricity_access,2025,
+India,IND,Developing,electricity_access,2024,99.9
+India,IND,Developing,electricity_access,2023,99.5
+India,IND,Developing,electricity_access,2022,99.2
+India,IND,Developing,electricity_access,2021,99.6
+India,IND,Developing,electricity_access,2020,96.5
+India,IND,Developing,electricity_access,2019,95.9
+India,IND,Developing,electricity_access,2018,95.7
+India,IND,Developing,electricity_access,2017,91.8
+India,IND,Developing,electricity_access,2016,89.6
+India,IND,Developing,electricity_access,2015,88.0
+India,IND,Developing,electricity_access,2014,85.1
+India,IND,Developing,electricity_access,2013,83.1
+India,IND,Developing,electricity_access,2012,79.9
+India,IND,Developing,electricity_access,2011,79.5
+India,IND,Developing,electricity_access,2010,76.3
+India,IND,Developing,electricity_access,2009,75.0
+India,IND,Developing,electricity_access,2008,74.1
+India,IND,Developing,electricity_access,2007,72.3
+India,IND,Developing,electricity_access,2006,67.9
+India,IND,Developing,electricity_access,2005,68.8
+India,IND,Developing,electricity_access,2004,64.4
+India,IND,Developing,electricity_access,2003,65.4
+India,IND,Developing,electricity_access,2002,62.3
+India,IND,Developing,electricity_access,2001,62.0
+India,IND,Developing,electricity_access,2000,60.3
+India,IND,Developing,electricity_access,1999,60.1
+India,IND,Developing,electricity_access,1998,56.1821327209473
+India,IND,Developing,electricity_access,1997,54.5948638916016
+India,IND,Developing,electricity_access,1996,53.0035209655762
+India,IND,Developing,electricity_access,1995,51.4087753295898
+India,IND,Developing,electricity_access,1994,49.8113098144531
+India,IND,Developing,electricity_access,1993,50.9
+India,IND,Developing,electricity_access,1992,
+India,IND,Developing,electricity_access,1991,
+India,IND,Developing,electricity_access,1990,
+India,IND,Developing,electricity_access,1989,
+India,IND,Developing,electricity_access,1988,
+India,IND,Developing,electricity_access,1987,
+India,IND,Developing,electricity_access,1986,
+India,IND,Developing,electricity_access,1985,
+India,IND,Developing,electricity_access,1984,
+India,IND,Developing,electricity_access,1983,
+India,IND,Developing,electricity_access,1982,
+India,IND,Developing,electricity_access,1981,
+India,IND,Developing,electricity_access,1980,
+India,IND,Developing,electricity_access,1979,
+India,IND,Developing,electricity_access,1978,
+India,IND,Developing,electricity_access,1977,
+India,IND,Developing,electricity_access,1976,
+India,IND,Developing,electricity_access,1975,
+India,IND,Developing,electricity_access,1974,
+India,IND,Developing,electricity_access,1973,
+India,IND,Developing,electricity_access,1972,
+India,IND,Developing,electricity_access,1971,
+India,IND,Developing,electricity_access,1970,
+India,IND,Developing,electricity_access,1969,
+India,IND,Developing,electricity_access,1968,
+India,IND,Developing,electricity_access,1967,
+India,IND,Developing,electricity_access,1966,
+India,IND,Developing,electricity_access,1965,
+India,IND,Developing,electricity_access,1964,
+India,IND,Developing,electricity_access,1963,
+India,IND,Developing,electricity_access,1962,
+India,IND,Developing,electricity_access,1961,
+India,IND,Developing,electricity_access,1960,
 India,IND,Developing,gdp,2025,3956067115771.63
 India,IND,Developing,gdp,2024,3760813470500.86
 India,IND,Developing,gdp,2023,3500906030644.76
@@ -1979,6 +3497,72 @@ India,IND,Developing,gdp_per_capita,1963,103.435021262932
 India,IND,Developing,gdp_per_capita,1962,92.1999583629516
 India,IND,Developing,gdp_per_capita,1961,87.8538613470205
 India,IND,Developing,gdp_per_capita,1960,84.9328084793106
+India,IND,Developing,life_expectancy,2025,
+India,IND,Developing,life_expectancy,2024,72.235
+India,IND,Developing,life_expectancy,2023,72.003
+India,IND,Developing,life_expectancy,2022,71.698
+India,IND,Developing,life_expectancy,2021,67.282
+India,IND,Developing,life_expectancy,2020,70.156
+India,IND,Developing,life_expectancy,2019,70.746
+India,IND,Developing,life_expectancy,2018,70.415
+India,IND,Developing,life_expectancy,2017,70.068
+India,IND,Developing,life_expectancy,2016,69.709
+India,IND,Developing,life_expectancy,2015,69.326
+India,IND,Developing,life_expectancy,2014,68.932
+India,IND,Developing,life_expectancy,2013,68.499
+India,IND,Developing,life_expectancy,2012,68.076
+India,IND,Developing,life_expectancy,2011,67.623
+India,IND,Developing,life_expectancy,2010,67.162
+India,IND,Developing,life_expectancy,2009,66.7
+India,IND,Developing,life_expectancy,2008,66.247
+India,IND,Developing,life_expectancy,2007,65.803
+India,IND,Developing,life_expectancy,2006,65.373
+India,IND,Developing,life_expectancy,2005,64.939
+India,IND,Developing,life_expectancy,2004,64.484
+India,IND,Developing,life_expectancy,2003,64.086
+India,IND,Developing,life_expectancy,2002,63.649
+India,IND,Developing,life_expectancy,2001,63.158
+India,IND,Developing,life_expectancy,2000,62.749
+India,IND,Developing,life_expectancy,1999,62.284
+India,IND,Developing,life_expectancy,1998,61.852
+India,IND,Developing,life_expectancy,1997,61.439
+India,IND,Developing,life_expectancy,1996,61.027
+India,IND,Developing,life_expectancy,1995,60.63
+India,IND,Developing,life_expectancy,1994,60.237
+India,IND,Developing,life_expectancy,1993,59.823
+India,IND,Developing,life_expectancy,1992,59.445
+India,IND,Developing,life_expectancy,1991,59.032
+India,IND,Developing,life_expectancy,1990,58.618
+India,IND,Developing,life_expectancy,1989,58.196
+India,IND,Developing,life_expectancy,1988,57.744
+India,IND,Developing,life_expectancy,1987,57.291
+India,IND,Developing,life_expectancy,1986,56.819
+India,IND,Developing,life_expectancy,1985,56.324
+India,IND,Developing,life_expectancy,1984,55.813
+India,IND,Developing,life_expectancy,1983,55.283
+India,IND,Developing,life_expectancy,1982,54.735
+India,IND,Developing,life_expectancy,1981,54.173
+India,IND,Developing,life_expectancy,1980,53.593
+India,IND,Developing,life_expectancy,1979,53.014
+India,IND,Developing,life_expectancy,1978,52.42
+India,IND,Developing,life_expectancy,1977,51.822
+India,IND,Developing,life_expectancy,1976,51.302
+India,IND,Developing,life_expectancy,1975,50.761
+India,IND,Developing,life_expectancy,1974,50.259
+India,IND,Developing,life_expectancy,1973,49.642
+India,IND,Developing,life_expectancy,1972,49.213
+India,IND,Developing,life_expectancy,1971,48.902
+India,IND,Developing,life_expectancy,1970,48.585
+India,IND,Developing,life_expectancy,1969,48.26
+India,IND,Developing,life_expectancy,1968,47.925
+India,IND,Developing,life_expectancy,1967,46.184
+India,IND,Developing,life_expectancy,1966,45.884
+India,IND,Developing,life_expectancy,1965,45.558
+India,IND,Developing,life_expectancy,1964,46.742
+India,IND,Developing,life_expectancy,1963,46.458
+India,IND,Developing,life_expectancy,1962,46.133
+India,IND,Developing,life_expectancy,1961,45.824
+India,IND,Developing,life_expectancy,1960,45.61
 India,IND,Developing,population,2025,1463865525.0
 India,IND,Developing,population,2024,1450935791.0
 India,IND,Developing,population,2023,1438069596.0
@@ -2045,6 +3629,72 @@ India,IND,Developing,population,1963,468138575.0
 India,IND,Developing,population,1962,457283090.0
 India,IND,Developing,population,1961,446564729.0
 India,IND,Developing,population,1960,435990338.0
+India,IND,Developing,school_enrollment,2025,79.594985086469
+India,IND,Developing,school_enrollment,2024,78.1058073224606
+India,IND,Developing,school_enrollment,2023,78.8639591218839
+India,IND,Developing,school_enrollment,2022,81.1778608399708
+India,IND,Developing,school_enrollment,2021,80.6246396728944
+India,IND,Developing,school_enrollment,2020,77.6271548412386
+India,IND,Developing,school_enrollment,2019,75.8716506958008
+India,IND,Developing,school_enrollment,2018,76.0025787353516
+India,IND,Developing,school_enrollment,2017,74.6743774414062
+India,IND,Developing,school_enrollment,2016,75.9372863769531
+India,IND,Developing,school_enrollment,2015,74.6113662719727
+India,IND,Developing,school_enrollment,2014,74.8887023925781
+India,IND,Developing,school_enrollment,2013,69.4771270751953
+India,IND,Developing,school_enrollment,2012,69.8089599609375
+India,IND,Developing,school_enrollment,2011,67.1251678466797
+India,IND,Developing,school_enrollment,2010,64.9475936889648
+India,IND,Developing,school_enrollment,2009,61.3603210449219
+India,IND,Developing,school_enrollment,2008,62.2119216918945
+India,IND,Developing,school_enrollment,2007,59.1478385925293
+India,IND,Developing,school_enrollment,2006,56.7859497070312
+India,IND,Developing,school_enrollment,2005,55.9314002990723
+India,IND,Developing,school_enrollment,2004,53.247371673584
+India,IND,Developing,school_enrollment,2003,51.4255714416504
+India,IND,Developing,school_enrollment,2002,48.8069381713867
+India,IND,Developing,school_enrollment,2001,46.8245811462402
+India,IND,Developing,school_enrollment,2000,47.1734390258789
+India,IND,Developing,school_enrollment,1999,42.9011917114258
+India,IND,Developing,school_enrollment,1998,
+India,IND,Developing,school_enrollment,1997,45.3552589416504
+India,IND,Developing,school_enrollment,1996,44.8827896118164
+India,IND,Developing,school_enrollment,1995,44.9552116394043
+India,IND,Developing,school_enrollment,1994,45.1687202453613
+India,IND,Developing,school_enrollment,1993,44.8495216369629
+India,IND,Developing,school_enrollment,1992,
+India,IND,Developing,school_enrollment,1991,
+India,IND,Developing,school_enrollment,1990,
+India,IND,Developing,school_enrollment,1989,36.8672904968262
+India,IND,Developing,school_enrollment,1988,36.7338218688965
+India,IND,Developing,school_enrollment,1987,36.7326812744141
+India,IND,Developing,school_enrollment,1986,37.1654281616211
+India,IND,Developing,school_enrollment,1985,
+India,IND,Developing,school_enrollment,1984,35.1355590820312
+India,IND,Developing,school_enrollment,1983,33.7834892272949
+India,IND,Developing,school_enrollment,1982,31.8075008392334
+India,IND,Developing,school_enrollment,1981,30.2948608398438
+India,IND,Developing,school_enrollment,1980,28.8213405609131
+India,IND,Developing,school_enrollment,1979,
+India,IND,Developing,school_enrollment,1978,26.6044902801514
+India,IND,Developing,school_enrollment,1977,26.2202491760254
+India,IND,Developing,school_enrollment,1976,25.6513690948486
+India,IND,Developing,school_enrollment,1975,25.4582901000977
+India,IND,Developing,school_enrollment,1974,
+India,IND,Developing,school_enrollment,1973,24.7536602020264
+India,IND,Developing,school_enrollment,1972,24.3535308837891
+India,IND,Developing,school_enrollment,1971,23.9795207977295
+India,IND,Developing,school_enrollment,1970,
+India,IND,Developing,school_enrollment,1969,
+India,IND,Developing,school_enrollment,1968,
+India,IND,Developing,school_enrollment,1967,
+India,IND,Developing,school_enrollment,1966,
+India,IND,Developing,school_enrollment,1965,
+India,IND,Developing,school_enrollment,1964,
+India,IND,Developing,school_enrollment,1963,
+India,IND,Developing,school_enrollment,1962,
+India,IND,Developing,school_enrollment,1961,
+India,IND,Developing,school_enrollment,1960,
 India,IND,Developing,unemployment,2025,4.219
 India,IND,Developing,unemployment,2024,4.173
 India,IND,Developing,unemployment,2023,4.172
@@ -2111,6 +3761,72 @@ India,IND,Developing,unemployment,1963,
 India,IND,Developing,unemployment,1962,
 India,IND,Developing,unemployment,1961,
 India,IND,Developing,unemployment,1960,
+Japan,JPN,Developed,electricity_access,2025,
+Japan,JPN,Developed,electricity_access,2024,100.0
+Japan,JPN,Developed,electricity_access,2023,100.0
+Japan,JPN,Developed,electricity_access,2022,100.0
+Japan,JPN,Developed,electricity_access,2021,100.0
+Japan,JPN,Developed,electricity_access,2020,100.0
+Japan,JPN,Developed,electricity_access,2019,100.0
+Japan,JPN,Developed,electricity_access,2018,100.0
+Japan,JPN,Developed,electricity_access,2017,100.0
+Japan,JPN,Developed,electricity_access,2016,100.0
+Japan,JPN,Developed,electricity_access,2015,100.0
+Japan,JPN,Developed,electricity_access,2014,100.0
+Japan,JPN,Developed,electricity_access,2013,100.0
+Japan,JPN,Developed,electricity_access,2012,100.0
+Japan,JPN,Developed,electricity_access,2011,100.0
+Japan,JPN,Developed,electricity_access,2010,100.0
+Japan,JPN,Developed,electricity_access,2009,100.0
+Japan,JPN,Developed,electricity_access,2008,100.0
+Japan,JPN,Developed,electricity_access,2007,100.0
+Japan,JPN,Developed,electricity_access,2006,100.0
+Japan,JPN,Developed,electricity_access,2005,100.0
+Japan,JPN,Developed,electricity_access,2004,100.0
+Japan,JPN,Developed,electricity_access,2003,100.0
+Japan,JPN,Developed,electricity_access,2002,100.0
+Japan,JPN,Developed,electricity_access,2001,100.0
+Japan,JPN,Developed,electricity_access,2000,100.0
+Japan,JPN,Developed,electricity_access,1999,100.0
+Japan,JPN,Developed,electricity_access,1998,100.0
+Japan,JPN,Developed,electricity_access,1997,100.0
+Japan,JPN,Developed,electricity_access,1996,100.0
+Japan,JPN,Developed,electricity_access,1995,100.0
+Japan,JPN,Developed,electricity_access,1994,100.0
+Japan,JPN,Developed,electricity_access,1993,100.0
+Japan,JPN,Developed,electricity_access,1992,100.0
+Japan,JPN,Developed,electricity_access,1991,100.0
+Japan,JPN,Developed,electricity_access,1990,100.0
+Japan,JPN,Developed,electricity_access,1989,
+Japan,JPN,Developed,electricity_access,1988,
+Japan,JPN,Developed,electricity_access,1987,
+Japan,JPN,Developed,electricity_access,1986,
+Japan,JPN,Developed,electricity_access,1985,
+Japan,JPN,Developed,electricity_access,1984,
+Japan,JPN,Developed,electricity_access,1983,
+Japan,JPN,Developed,electricity_access,1982,
+Japan,JPN,Developed,electricity_access,1981,
+Japan,JPN,Developed,electricity_access,1980,
+Japan,JPN,Developed,electricity_access,1979,
+Japan,JPN,Developed,electricity_access,1978,
+Japan,JPN,Developed,electricity_access,1977,
+Japan,JPN,Developed,electricity_access,1976,
+Japan,JPN,Developed,electricity_access,1975,
+Japan,JPN,Developed,electricity_access,1974,
+Japan,JPN,Developed,electricity_access,1973,
+Japan,JPN,Developed,electricity_access,1972,
+Japan,JPN,Developed,electricity_access,1971,
+Japan,JPN,Developed,electricity_access,1970,
+Japan,JPN,Developed,electricity_access,1969,
+Japan,JPN,Developed,electricity_access,1968,
+Japan,JPN,Developed,electricity_access,1967,
+Japan,JPN,Developed,electricity_access,1966,
+Japan,JPN,Developed,electricity_access,1965,
+Japan,JPN,Developed,electricity_access,1964,
+Japan,JPN,Developed,electricity_access,1963,
+Japan,JPN,Developed,electricity_access,1962,
+Japan,JPN,Developed,electricity_access,1961,
+Japan,JPN,Developed,electricity_access,1960,
 Japan,JPN,Developed,gdp,2025,4435162999976.94
 Japan,JPN,Developed,gdp,2024,4190008188358.57
 Japan,JPN,Developed,gdp,2023,4384854269961.93
@@ -2243,6 +3959,72 @@ Japan,JPN,Developed,gdp_per_capita,1963,791.924737477456
 Japan,JPN,Developed,gdp_per_capita,1962,698.981262831415
 Japan,JPN,Developed,gdp_per_capita,1961,621.68620494448
 Japan,JPN,Developed,gdp_per_capita,1960,519.415170624485
+Japan,JPN,Developed,life_expectancy,2025,
+Japan,JPN,Developed,life_expectancy,2024,84.0363414634146
+Japan,JPN,Developed,life_expectancy,2023,84.0412195121951
+Japan,JPN,Developed,life_expectancy,2022,83.9963414634146
+Japan,JPN,Developed,life_expectancy,2021,84.4456097560976
+Japan,JPN,Developed,life_expectancy,2020,84.56
+Japan,JPN,Developed,life_expectancy,2019,84.3563414634146
+Japan,JPN,Developed,life_expectancy,2018,84.2109756097561
+Japan,JPN,Developed,life_expectancy,2017,84.099756097561
+Japan,JPN,Developed,life_expectancy,2016,83.9848780487805
+Japan,JPN,Developed,life_expectancy,2015,83.7939024390244
+Japan,JPN,Developed,life_expectancy,2014,83.5878048780488
+Japan,JPN,Developed,life_expectancy,2013,83.3319512195122
+Japan,JPN,Developed,life_expectancy,2012,83.0960975609756
+Japan,JPN,Developed,life_expectancy,2011,82.5912195121951
+Japan,JPN,Developed,life_expectancy,2010,82.8426829268293
+Japan,JPN,Developed,life_expectancy,2009,82.9314634146342
+Japan,JPN,Developed,life_expectancy,2008,82.5875609756098
+Japan,JPN,Developed,life_expectancy,2007,82.5070731707317
+Japan,JPN,Developed,life_expectancy,2006,82.3219512195122
+Japan,JPN,Developed,life_expectancy,2005,81.9551219512195
+Japan,JPN,Developed,life_expectancy,2004,82.030243902439
+Japan,JPN,Developed,life_expectancy,2003,81.76
+Japan,JPN,Developed,life_expectancy,2002,81.6907317073171
+Japan,JPN,Developed,life_expectancy,2001,81.4163414634146
+Japan,JPN,Developed,life_expectancy,2000,81.0760975609756
+Japan,JPN,Developed,life_expectancy,1999,80.4609756097561
+Japan,JPN,Developed,life_expectancy,1998,80.5014634146342
+Japan,JPN,Developed,life_expectancy,1997,80.4241463414634
+Japan,JPN,Developed,life_expectancy,1996,80.219756097561
+Japan,JPN,Developed,life_expectancy,1995,79.5360975609756
+Japan,JPN,Developed,life_expectancy,1994,79.6968292682927
+Japan,JPN,Developed,life_expectancy,1993,79.3036585365854
+Japan,JPN,Developed,life_expectancy,1992,79.080243902439
+Japan,JPN,Developed,life_expectancy,1991,79.0368292682927
+Japan,JPN,Developed,life_expectancy,1990,78.8370731707317
+Japan,JPN,Developed,life_expectancy,1989,78.7685365853659
+Japan,JPN,Developed,life_expectancy,1988,78.349756097561
+Japan,JPN,Developed,life_expectancy,1987,78.429512195122
+Japan,JPN,Developed,life_expectancy,1986,78.0104878048781
+Japan,JPN,Developed,life_expectancy,1985,77.5604878048781
+Japan,JPN,Developed,life_expectancy,1984,77.2912195121951
+Japan,JPN,Developed,life_expectancy,1983,76.9219512195122
+Japan,JPN,Developed,life_expectancy,1982,76.8736585365854
+Japan,JPN,Developed,life_expectancy,1981,76.3948780487805
+Japan,JPN,Developed,life_expectancy,1980,75.9890243902439
+Japan,JPN,Developed,life_expectancy,1979,76.1087804878049
+Japan,JPN,Developed,life_expectancy,1978,75.5846341463415
+Japan,JPN,Developed,life_expectancy,1977,75.2558536585366
+Japan,JPN,Developed,life_expectancy,1976,74.6865853658537
+Japan,JPN,Developed,life_expectancy,1975,74.2470731707317
+Japan,JPN,Developed,life_expectancy,1974,73.6721951219512
+Japan,JPN,Developed,life_expectancy,1973,73.2951219512195
+Japan,JPN,Developed,life_expectancy,1972,73.1536585365854
+Japan,JPN,Developed,life_expectancy,1971,72.8090243902439
+Japan,JPN,Developed,life_expectancy,1970,71.919756097561
+Japan,JPN,Developed,life_expectancy,1969,71.8580487804878
+Japan,JPN,Developed,life_expectancy,1968,71.6109756097561
+Japan,JPN,Developed,life_expectancy,1967,71.4660975609756
+Japan,JPN,Developed,life_expectancy,1966,70.9158536585366
+Japan,JPN,Developed,life_expectancy,1965,70.2668292682927
+Japan,JPN,Developed,life_expectancy,1964,70.2065853658537
+Japan,JPN,Developed,life_expectancy,1963,69.7124390243902
+Japan,JPN,Developed,life_expectancy,1962,68.6348780487805
+Japan,JPN,Developed,life_expectancy,1961,68.3519512195122
+Japan,JPN,Developed,life_expectancy,1960,67.6956097560976
 Japan,JPN,Developed,population,2025,123366734.0
 Japan,JPN,Developed,population,2024,123975371.0
 Japan,JPN,Developed,population,2023,124516650.0
@@ -2309,6 +4091,72 @@ Japan,JPN,Developed,population,1963,95900000.0
 Japan,JPN,Developed,population,1962,94933000.0
 Japan,JPN,Developed,population,1961,94055000.0
 Japan,JPN,Developed,population,1960,93216000.0
+Japan,JPN,Developed,school_enrollment,2025,
+Japan,JPN,Developed,school_enrollment,2024,
+Japan,JPN,Developed,school_enrollment,2023,101.537071228027
+Japan,JPN,Developed,school_enrollment,2022,101.38200378418
+Japan,JPN,Developed,school_enrollment,2021,101.744400024414
+Japan,JPN,Developed,school_enrollment,2020,101.34056854248
+Japan,JPN,Developed,school_enrollment,2019,100.660270690918
+Japan,JPN,Developed,school_enrollment,2018,100.482200622559
+Japan,JPN,Developed,school_enrollment,2017,100.260749816895
+Japan,JPN,Developed,school_enrollment,2016,101.296928405762
+Japan,JPN,Developed,school_enrollment,2015,101.724517822266
+Japan,JPN,Developed,school_enrollment,2014,101.036422729492
+Japan,JPN,Developed,school_enrollment,2013,101.049438476562
+Japan,JPN,Developed,school_enrollment,2012,
+Japan,JPN,Developed,school_enrollment,2011,
+Japan,JPN,Developed,school_enrollment,2010,
+Japan,JPN,Developed,school_enrollment,2009,
+Japan,JPN,Developed,school_enrollment,2008,
+Japan,JPN,Developed,school_enrollment,2007,
+Japan,JPN,Developed,school_enrollment,2006,
+Japan,JPN,Developed,school_enrollment,2005,
+Japan,JPN,Developed,school_enrollment,2004,
+Japan,JPN,Developed,school_enrollment,2003,
+Japan,JPN,Developed,school_enrollment,2002,
+Japan,JPN,Developed,school_enrollment,2001,
+Japan,JPN,Developed,school_enrollment,2000,
+Japan,JPN,Developed,school_enrollment,1999,
+Japan,JPN,Developed,school_enrollment,1998,
+Japan,JPN,Developed,school_enrollment,1997,
+Japan,JPN,Developed,school_enrollment,1996,
+Japan,JPN,Developed,school_enrollment,1995,
+Japan,JPN,Developed,school_enrollment,1994,
+Japan,JPN,Developed,school_enrollment,1993,
+Japan,JPN,Developed,school_enrollment,1992,
+Japan,JPN,Developed,school_enrollment,1991,
+Japan,JPN,Developed,school_enrollment,1990,
+Japan,JPN,Developed,school_enrollment,1989,
+Japan,JPN,Developed,school_enrollment,1988,
+Japan,JPN,Developed,school_enrollment,1987,
+Japan,JPN,Developed,school_enrollment,1986,
+Japan,JPN,Developed,school_enrollment,1985,
+Japan,JPN,Developed,school_enrollment,1984,
+Japan,JPN,Developed,school_enrollment,1983,
+Japan,JPN,Developed,school_enrollment,1982,
+Japan,JPN,Developed,school_enrollment,1981,
+Japan,JPN,Developed,school_enrollment,1980,
+Japan,JPN,Developed,school_enrollment,1979,
+Japan,JPN,Developed,school_enrollment,1978,
+Japan,JPN,Developed,school_enrollment,1977,
+Japan,JPN,Developed,school_enrollment,1976,
+Japan,JPN,Developed,school_enrollment,1975,
+Japan,JPN,Developed,school_enrollment,1974,
+Japan,JPN,Developed,school_enrollment,1973,
+Japan,JPN,Developed,school_enrollment,1972,
+Japan,JPN,Developed,school_enrollment,1971,
+Japan,JPN,Developed,school_enrollment,1970,
+Japan,JPN,Developed,school_enrollment,1969,
+Japan,JPN,Developed,school_enrollment,1968,
+Japan,JPN,Developed,school_enrollment,1967,
+Japan,JPN,Developed,school_enrollment,1966,
+Japan,JPN,Developed,school_enrollment,1965,
+Japan,JPN,Developed,school_enrollment,1964,
+Japan,JPN,Developed,school_enrollment,1963,
+Japan,JPN,Developed,school_enrollment,1962,
+Japan,JPN,Developed,school_enrollment,1961,
+Japan,JPN,Developed,school_enrollment,1960,
 Japan,JPN,Developed,unemployment,2025,2.451
 Japan,JPN,Developed,unemployment,2024,2.5
 Japan,JPN,Developed,unemployment,2023,2.6
@@ -2375,6 +4223,72 @@ Japan,JPN,Developed,unemployment,1963,
 Japan,JPN,Developed,unemployment,1962,
 Japan,JPN,Developed,unemployment,1961,
 Japan,JPN,Developed,unemployment,1960,
+Malawi,MWI,Least Developed,electricity_access,2025,
+Malawi,MWI,Least Developed,electricity_access,2024,15.6
+Malawi,MWI,Least Developed,electricity_access,2023,15.6
+Malawi,MWI,Least Developed,electricity_access,2022,14.0
+Malawi,MWI,Least Developed,electricity_access,2021,14.2
+Malawi,MWI,Least Developed,electricity_access,2020,11.5
+Malawi,MWI,Least Developed,electricity_access,2019,11.2
+Malawi,MWI,Least Developed,electricity_access,2018,18.0
+Malawi,MWI,Least Developed,electricity_access,2017,12.7
+Malawi,MWI,Least Developed,electricity_access,2016,11.0
+Malawi,MWI,Least Developed,electricity_access,2015,10.8
+Malawi,MWI,Least Developed,electricity_access,2014,11.9
+Malawi,MWI,Least Developed,electricity_access,2013,9.0
+Malawi,MWI,Least Developed,electricity_access,2012,7.4
+Malawi,MWI,Least Developed,electricity_access,2011,7.6
+Malawi,MWI,Least Developed,electricity_access,2010,8.7
+Malawi,MWI,Least Developed,electricity_access,2009,8.3
+Malawi,MWI,Least Developed,electricity_access,2008,7.8
+Malawi,MWI,Least Developed,electricity_access,2007,7.4
+Malawi,MWI,Least Developed,electricity_access,2006,3.7
+Malawi,MWI,Least Developed,electricity_access,2005,6.6
+Malawi,MWI,Least Developed,electricity_access,2004,6.9
+Malawi,MWI,Least Developed,electricity_access,2003,6.2
+Malawi,MWI,Least Developed,electricity_access,2002,5.6
+Malawi,MWI,Least Developed,electricity_access,2001,5.2
+Malawi,MWI,Least Developed,electricity_access,2000,4.8
+Malawi,MWI,Least Developed,electricity_access,1999,4.26991271972656
+Malawi,MWI,Least Developed,electricity_access,1998,3.82688760757446
+Malawi,MWI,Least Developed,electricity_access,1997,3.37902021408081
+Malawi,MWI,Least Developed,electricity_access,1996,2.92707347869873
+Malawi,MWI,Least Developed,electricity_access,1995,2.47172713279724
+Malawi,MWI,Least Developed,electricity_access,1994,2.01366138458252
+Malawi,MWI,Least Developed,electricity_access,1993,1.55355584621429
+Malawi,MWI,Least Developed,electricity_access,1992,3.2
+Malawi,MWI,Least Developed,electricity_access,1991,
+Malawi,MWI,Least Developed,electricity_access,1990,
+Malawi,MWI,Least Developed,electricity_access,1989,
+Malawi,MWI,Least Developed,electricity_access,1988,
+Malawi,MWI,Least Developed,electricity_access,1987,
+Malawi,MWI,Least Developed,electricity_access,1986,
+Malawi,MWI,Least Developed,electricity_access,1985,
+Malawi,MWI,Least Developed,electricity_access,1984,
+Malawi,MWI,Least Developed,electricity_access,1983,
+Malawi,MWI,Least Developed,electricity_access,1982,
+Malawi,MWI,Least Developed,electricity_access,1981,
+Malawi,MWI,Least Developed,electricity_access,1980,
+Malawi,MWI,Least Developed,electricity_access,1979,
+Malawi,MWI,Least Developed,electricity_access,1978,
+Malawi,MWI,Least Developed,electricity_access,1977,
+Malawi,MWI,Least Developed,electricity_access,1976,
+Malawi,MWI,Least Developed,electricity_access,1975,
+Malawi,MWI,Least Developed,electricity_access,1974,
+Malawi,MWI,Least Developed,electricity_access,1973,
+Malawi,MWI,Least Developed,electricity_access,1972,
+Malawi,MWI,Least Developed,electricity_access,1971,
+Malawi,MWI,Least Developed,electricity_access,1970,
+Malawi,MWI,Least Developed,electricity_access,1969,
+Malawi,MWI,Least Developed,electricity_access,1968,
+Malawi,MWI,Least Developed,electricity_access,1967,
+Malawi,MWI,Least Developed,electricity_access,1966,
+Malawi,MWI,Least Developed,electricity_access,1965,
+Malawi,MWI,Least Developed,electricity_access,1964,
+Malawi,MWI,Least Developed,electricity_access,1963,
+Malawi,MWI,Least Developed,electricity_access,1962,
+Malawi,MWI,Least Developed,electricity_access,1961,
+Malawi,MWI,Least Developed,electricity_access,1960,
 Malawi,MWI,Least Developed,gdp,2025,14918276698.303
 Malawi,MWI,Least Developed,gdp,2024,11311971400.3864
 Malawi,MWI,Least Developed,gdp,2023,13363669672.9405
@@ -2507,6 +4421,72 @@ Malawi,MWI,Least Developed,gdp_per_capita,1963,
 Malawi,MWI,Least Developed,gdp_per_capita,1962,
 Malawi,MWI,Least Developed,gdp_per_capita,1961,
 Malawi,MWI,Least Developed,gdp_per_capita,1960,
+Malawi,MWI,Least Developed,life_expectancy,2025,
+Malawi,MWI,Least Developed,life_expectancy,2024,67.561
+Malawi,MWI,Least Developed,life_expectancy,2023,67.353
+Malawi,MWI,Least Developed,life_expectancy,2022,66.037
+Malawi,MWI,Least Developed,life_expectancy,2021,64.782
+Malawi,MWI,Least Developed,life_expectancy,2020,65.216
+Malawi,MWI,Least Developed,life_expectancy,2019,64.995
+Malawi,MWI,Least Developed,life_expectancy,2018,64.464
+Malawi,MWI,Least Developed,life_expectancy,2017,63.914
+Malawi,MWI,Least Developed,life_expectancy,2016,63.163
+Malawi,MWI,Least Developed,life_expectancy,2015,62.324
+Malawi,MWI,Least Developed,life_expectancy,2014,61.651
+Malawi,MWI,Least Developed,life_expectancy,2013,60.816
+Malawi,MWI,Least Developed,life_expectancy,2012,59.87
+Malawi,MWI,Least Developed,life_expectancy,2011,58.859
+Malawi,MWI,Least Developed,life_expectancy,2010,57.787
+Malawi,MWI,Least Developed,life_expectancy,2009,56.714
+Malawi,MWI,Least Developed,life_expectancy,2008,55.715
+Malawi,MWI,Least Developed,life_expectancy,2007,54.687
+Malawi,MWI,Least Developed,life_expectancy,2006,53.652
+Malawi,MWI,Least Developed,life_expectancy,2005,52.469
+Malawi,MWI,Least Developed,life_expectancy,2004,51.073
+Malawi,MWI,Least Developed,life_expectancy,2003,49.601
+Malawi,MWI,Least Developed,life_expectancy,2002,48.176
+Malawi,MWI,Least Developed,life_expectancy,2001,47.205
+Malawi,MWI,Least Developed,life_expectancy,2000,46.17
+Malawi,MWI,Least Developed,life_expectancy,1999,45.06
+Malawi,MWI,Least Developed,life_expectancy,1998,44.3
+Malawi,MWI,Least Developed,life_expectancy,1997,44.2
+Malawi,MWI,Least Developed,life_expectancy,1996,44.005
+Malawi,MWI,Least Developed,life_expectancy,1995,43.804
+Malawi,MWI,Least Developed,life_expectancy,1994,43.8
+Malawi,MWI,Least Developed,life_expectancy,1993,43.648
+Malawi,MWI,Least Developed,life_expectancy,1992,43.636
+Malawi,MWI,Least Developed,life_expectancy,1991,43.54
+Malawi,MWI,Least Developed,life_expectancy,1990,43.575
+Malawi,MWI,Least Developed,life_expectancy,1989,43.515
+Malawi,MWI,Least Developed,life_expectancy,1988,43.569
+Malawi,MWI,Least Developed,life_expectancy,1987,43.902
+Malawi,MWI,Least Developed,life_expectancy,1986,44.298
+Malawi,MWI,Least Developed,life_expectancy,1985,44.568
+Malawi,MWI,Least Developed,life_expectancy,1984,44.807
+Malawi,MWI,Least Developed,life_expectancy,1983,44.974
+Malawi,MWI,Least Developed,life_expectancy,1982,44.84
+Malawi,MWI,Least Developed,life_expectancy,1981,44.72
+Malawi,MWI,Least Developed,life_expectancy,1980,44.331
+Malawi,MWI,Least Developed,life_expectancy,1979,43.703
+Malawi,MWI,Least Developed,life_expectancy,1978,43.002
+Malawi,MWI,Least Developed,life_expectancy,1977,41.979
+Malawi,MWI,Least Developed,life_expectancy,1976,41.022
+Malawi,MWI,Least Developed,life_expectancy,1975,40.079
+Malawi,MWI,Least Developed,life_expectancy,1974,39.197
+Malawi,MWI,Least Developed,life_expectancy,1973,38.355
+Malawi,MWI,Least Developed,life_expectancy,1972,37.608
+Malawi,MWI,Least Developed,life_expectancy,1971,37.095
+Malawi,MWI,Least Developed,life_expectancy,1970,36.638
+Malawi,MWI,Least Developed,life_expectancy,1969,36.301
+Malawi,MWI,Least Developed,life_expectancy,1968,36.085
+Malawi,MWI,Least Developed,life_expectancy,1967,35.941
+Malawi,MWI,Least Developed,life_expectancy,1966,35.831
+Malawi,MWI,Least Developed,life_expectancy,1965,35.74
+Malawi,MWI,Least Developed,life_expectancy,1964,35.681
+Malawi,MWI,Least Developed,life_expectancy,1963,35.643
+Malawi,MWI,Least Developed,life_expectancy,1962,35.449
+Malawi,MWI,Least Developed,life_expectancy,1961,35.23
+Malawi,MWI,Least Developed,life_expectancy,1960,34.986
 Malawi,MWI,Least Developed,population,2025,22216120.0
 Malawi,MWI,Least Developed,population,2024,21655286.0
 Malawi,MWI,Least Developed,population,2023,21104482.0
@@ -2573,6 +4553,72 @@ Malawi,MWI,Least Developed,population,1963,3900506.0
 Malawi,MWI,Least Developed,population,1962,3806307.0
 Malawi,MWI,Least Developed,population,1961,3715534.0
 Malawi,MWI,Least Developed,population,1960,3628134.0
+Malawi,MWI,Least Developed,school_enrollment,2025,
+Malawi,MWI,Least Developed,school_enrollment,2024,
+Malawi,MWI,Least Developed,school_enrollment,2023,36.644092994481
+Malawi,MWI,Least Developed,school_enrollment,2022,35.5084899925617
+Malawi,MWI,Least Developed,school_enrollment,2021,35.8885917563293
+Malawi,MWI,Least Developed,school_enrollment,2020,41.4565075090498
+Malawi,MWI,Least Developed,school_enrollment,2019,35.5212672502146
+Malawi,MWI,Least Developed,school_enrollment,2018,38.8324397802949
+Malawi,MWI,Least Developed,school_enrollment,2017,39.6154222954854
+Malawi,MWI,Least Developed,school_enrollment,2016,38.1843681335449
+Malawi,MWI,Least Developed,school_enrollment,2015,39.7291461793841
+Malawi,MWI,Least Developed,school_enrollment,2014,39.5435659506335
+Malawi,MWI,Least Developed,school_enrollment,2013,37.847295845447
+Malawi,MWI,Least Developed,school_enrollment,2012,34.8210140987042
+Malawi,MWI,Least Developed,school_enrollment,2011,34.7371599213107
+Malawi,MWI,Least Developed,school_enrollment,2010,33.6619814891638
+Malawi,MWI,Least Developed,school_enrollment,2009,33.3515281677246
+Malawi,MWI,Least Developed,school_enrollment,2008,32.6917381286621
+Malawi,MWI,Least Developed,school_enrollment,2007,30.2626094818115
+Malawi,MWI,Least Developed,school_enrollment,2006,30.5642108917236
+Malawi,MWI,Least Developed,school_enrollment,2005,28.7130393981934
+Malawi,MWI,Least Developed,school_enrollment,2004,28.9145393371582
+Malawi,MWI,Least Developed,school_enrollment,2003,
+Malawi,MWI,Least Developed,school_enrollment,2002,31.3253707885742
+Malawi,MWI,Least Developed,school_enrollment,2001,32.2248115539551
+Malawi,MWI,Least Developed,school_enrollment,2000,31.0989303588867
+Malawi,MWI,Least Developed,school_enrollment,1999,36.4167785644531
+Malawi,MWI,Least Developed,school_enrollment,1998,31.6595001220703
+Malawi,MWI,Least Developed,school_enrollment,1997,
+Malawi,MWI,Least Developed,school_enrollment,1996,24.1506099700928
+Malawi,MWI,Least Developed,school_enrollment,1995,23.3880996704102
+Malawi,MWI,Least Developed,school_enrollment,1994,15.6898698806763
+Malawi,MWI,Least Developed,school_enrollment,1993,17.8164806365967
+Malawi,MWI,Least Developed,school_enrollment,1992,19.5548591613769
+Malawi,MWI,Least Developed,school_enrollment,1991,17.5205307006836
+Malawi,MWI,Least Developed,school_enrollment,1990,17.3963298797607
+Malawi,MWI,Least Developed,school_enrollment,1989,17.112190246582
+Malawi,MWI,Least Developed,school_enrollment,1988,17.5141105651856
+Malawi,MWI,Least Developed,school_enrollment,1987,18.0580005645752
+Malawi,MWI,Least Developed,school_enrollment,1986,17.4404106140137
+Malawi,MWI,Least Developed,school_enrollment,1985,17.4512100219727
+Malawi,MWI,Least Developed,school_enrollment,1984,17.633430480957
+Malawi,MWI,Least Developed,school_enrollment,1983,17.2437992095947
+Malawi,MWI,Least Developed,school_enrollment,1982,17.4345397949219
+Malawi,MWI,Least Developed,school_enrollment,1981,16.7660102844238
+Malawi,MWI,Least Developed,school_enrollment,1980,16.4772891998291
+Malawi,MWI,Least Developed,school_enrollment,1979,14.5730695724487
+Malawi,MWI,Least Developed,school_enrollment,1978,14.4027299880981
+Malawi,MWI,Least Developed,school_enrollment,1977,13.640230178833
+Malawi,MWI,Least Developed,school_enrollment,1976,12.4856796264648
+Malawi,MWI,Least Developed,school_enrollment,1975,12.1427202224731
+Malawi,MWI,Least Developed,school_enrollment,1974,10.9094104766846
+Malawi,MWI,Least Developed,school_enrollment,1973,11.4785404205322
+Malawi,MWI,Least Developed,school_enrollment,1972,10.9785203933716
+Malawi,MWI,Least Developed,school_enrollment,1971,
+Malawi,MWI,Least Developed,school_enrollment,1970,
+Malawi,MWI,Least Developed,school_enrollment,1969,
+Malawi,MWI,Least Developed,school_enrollment,1968,
+Malawi,MWI,Least Developed,school_enrollment,1967,
+Malawi,MWI,Least Developed,school_enrollment,1966,
+Malawi,MWI,Least Developed,school_enrollment,1965,
+Malawi,MWI,Least Developed,school_enrollment,1964,
+Malawi,MWI,Least Developed,school_enrollment,1963,
+Malawi,MWI,Least Developed,school_enrollment,1962,
+Malawi,MWI,Least Developed,school_enrollment,1961,
+Malawi,MWI,Least Developed,school_enrollment,1960,
 Malawi,MWI,Least Developed,unemployment,2025,5.072
 Malawi,MWI,Least Developed,unemployment,2024,5.051
 Malawi,MWI,Least Developed,unemployment,2023,5.009
@@ -2639,6 +4685,72 @@ Malawi,MWI,Least Developed,unemployment,1963,
 Malawi,MWI,Least Developed,unemployment,1962,
 Malawi,MWI,Least Developed,unemployment,1961,
 Malawi,MWI,Least Developed,unemployment,1960,
+Nigeria,NGA,Developing,electricity_access,2025,
+Nigeria,NGA,Developing,electricity_access,2024,62.5
+Nigeria,NGA,Developing,electricity_access,2023,61.2
+Nigeria,NGA,Developing,electricity_access,2022,60.5
+Nigeria,NGA,Developing,electricity_access,2021,59.5
+Nigeria,NGA,Developing,electricity_access,2020,55.4
+Nigeria,NGA,Developing,electricity_access,2019,55.4
+Nigeria,NGA,Developing,electricity_access,2018,56.5
+Nigeria,NGA,Developing,electricity_access,2017,54.4
+Nigeria,NGA,Developing,electricity_access,2016,59.3
+Nigeria,NGA,Developing,electricity_access,2015,52.5
+Nigeria,NGA,Developing,electricity_access,2014,54.2
+Nigeria,NGA,Developing,electricity_access,2013,55.6
+Nigeria,NGA,Developing,electricity_access,2012,53.0
+Nigeria,NGA,Developing,electricity_access,2011,55.9
+Nigeria,NGA,Developing,electricity_access,2010,48.0
+Nigeria,NGA,Developing,electricity_access,2009,50.0
+Nigeria,NGA,Developing,electricity_access,2008,50.3
+Nigeria,NGA,Developing,electricity_access,2007,50.1
+Nigeria,NGA,Developing,electricity_access,2006,47.6
+Nigeria,NGA,Developing,electricity_access,2005,46.8
+Nigeria,NGA,Developing,electricity_access,2004,46.1
+Nigeria,NGA,Developing,electricity_access,2003,52.2
+Nigeria,NGA,Developing,electricity_access,2002,44.6
+Nigeria,NGA,Developing,electricity_access,2001,43.9
+Nigeria,NGA,Developing,electricity_access,2000,43.2
+Nigeria,NGA,Developing,electricity_access,1999,44.9
+Nigeria,NGA,Developing,electricity_access,1998,41.2505683898926
+Nigeria,NGA,Developing,electricity_access,1997,40.3999824523926
+Nigeria,NGA,Developing,electricity_access,1996,39.5453186035156
+Nigeria,NGA,Developing,electricity_access,1995,38.6872520446777
+Nigeria,NGA,Developing,electricity_access,1994,37.8264694213867
+Nigeria,NGA,Developing,electricity_access,1993,36.9636459350586
+Nigeria,NGA,Developing,electricity_access,1992,36.0994606018066
+Nigeria,NGA,Developing,electricity_access,1991,35.2346000671387
+Nigeria,NGA,Developing,electricity_access,1990,27.3
+Nigeria,NGA,Developing,electricity_access,1989,
+Nigeria,NGA,Developing,electricity_access,1988,
+Nigeria,NGA,Developing,electricity_access,1987,
+Nigeria,NGA,Developing,electricity_access,1986,
+Nigeria,NGA,Developing,electricity_access,1985,
+Nigeria,NGA,Developing,electricity_access,1984,
+Nigeria,NGA,Developing,electricity_access,1983,
+Nigeria,NGA,Developing,electricity_access,1982,
+Nigeria,NGA,Developing,electricity_access,1981,
+Nigeria,NGA,Developing,electricity_access,1980,
+Nigeria,NGA,Developing,electricity_access,1979,
+Nigeria,NGA,Developing,electricity_access,1978,
+Nigeria,NGA,Developing,electricity_access,1977,
+Nigeria,NGA,Developing,electricity_access,1976,
+Nigeria,NGA,Developing,electricity_access,1975,
+Nigeria,NGA,Developing,electricity_access,1974,
+Nigeria,NGA,Developing,electricity_access,1973,
+Nigeria,NGA,Developing,electricity_access,1972,
+Nigeria,NGA,Developing,electricity_access,1971,
+Nigeria,NGA,Developing,electricity_access,1970,
+Nigeria,NGA,Developing,electricity_access,1969,
+Nigeria,NGA,Developing,electricity_access,1968,
+Nigeria,NGA,Developing,electricity_access,1967,
+Nigeria,NGA,Developing,electricity_access,1966,
+Nigeria,NGA,Developing,electricity_access,1965,
+Nigeria,NGA,Developing,electricity_access,1964,
+Nigeria,NGA,Developing,electricity_access,1963,
+Nigeria,NGA,Developing,electricity_access,1962,
+Nigeria,NGA,Developing,electricity_access,1961,
+Nigeria,NGA,Developing,electricity_access,1960,
 Nigeria,NGA,Developing,gdp,2025,290794361542.112
 Nigeria,NGA,Developing,gdp,2024,252261880140.271
 Nigeria,NGA,Developing,gdp,2023,487387801877.803
@@ -2771,6 +4883,72 @@ Nigeria,NGA,Developing,gdp_per_capita,1963,107.675741358944
 Nigeria,NGA,Developing,gdp_per_capita,1962,104.532495533943
 Nigeria,NGA,Developing,gdp_per_capita,1961,97.1375281143562
 Nigeria,NGA,Developing,gdp_per_capita,1960,93.1370090424417
+Nigeria,NGA,Developing,life_expectancy,2025,
+Nigeria,NGA,Developing,life_expectancy,2024,54.635
+Nigeria,NGA,Developing,life_expectancy,2023,54.462
+Nigeria,NGA,Developing,life_expectancy,2022,54.079
+Nigeria,NGA,Developing,life_expectancy,2021,53.455
+Nigeria,NGA,Developing,life_expectancy,2020,53.072
+Nigeria,NGA,Developing,life_expectancy,2019,53.009
+Nigeria,NGA,Developing,life_expectancy,2018,52.669
+Nigeria,NGA,Developing,life_expectancy,2017,52.397
+Nigeria,NGA,Developing,life_expectancy,2016,52.189
+Nigeria,NGA,Developing,life_expectancy,2015,51.939
+Nigeria,NGA,Developing,life_expectancy,2014,51.94
+Nigeria,NGA,Developing,life_expectancy,2013,51.827
+Nigeria,NGA,Developing,life_expectancy,2012,51.688
+Nigeria,NGA,Developing,life_expectancy,2011,51.49
+Nigeria,NGA,Developing,life_expectancy,2010,51.315
+Nigeria,NGA,Developing,life_expectancy,2009,51.08
+Nigeria,NGA,Developing,life_expectancy,2008,50.748
+Nigeria,NGA,Developing,life_expectancy,2007,50.381
+Nigeria,NGA,Developing,life_expectancy,2006,49.876
+Nigeria,NGA,Developing,life_expectancy,2005,49.538
+Nigeria,NGA,Developing,life_expectancy,2004,49.148
+Nigeria,NGA,Developing,life_expectancy,2003,48.618
+Nigeria,NGA,Developing,life_expectancy,2002,48.02
+Nigeria,NGA,Developing,life_expectancy,2001,47.549
+Nigeria,NGA,Developing,life_expectancy,2000,47.143
+Nigeria,NGA,Developing,life_expectancy,1999,46.609
+Nigeria,NGA,Developing,life_expectancy,1998,46.148
+Nigeria,NGA,Developing,life_expectancy,1997,45.96
+Nigeria,NGA,Developing,life_expectancy,1996,45.833
+Nigeria,NGA,Developing,life_expectancy,1995,45.87
+Nigeria,NGA,Developing,life_expectancy,1994,45.748
+Nigeria,NGA,Developing,life_expectancy,1993,45.783
+Nigeria,NGA,Developing,life_expectancy,1992,45.587
+Nigeria,NGA,Developing,life_expectancy,1991,45.483
+Nigeria,NGA,Developing,life_expectancy,1990,45.733
+Nigeria,NGA,Developing,life_expectancy,1989,45.83
+Nigeria,NGA,Developing,life_expectancy,1988,45.834
+Nigeria,NGA,Developing,life_expectancy,1987,45.89
+Nigeria,NGA,Developing,life_expectancy,1986,45.953
+Nigeria,NGA,Developing,life_expectancy,1985,46.193
+Nigeria,NGA,Developing,life_expectancy,1984,46.339
+Nigeria,NGA,Developing,life_expectancy,1983,46.442
+Nigeria,NGA,Developing,life_expectancy,1982,46.437
+Nigeria,NGA,Developing,life_expectancy,1981,46.309
+Nigeria,NGA,Developing,life_expectancy,1980,45.959
+Nigeria,NGA,Developing,life_expectancy,1979,45.738
+Nigeria,NGA,Developing,life_expectancy,1978,45.348
+Nigeria,NGA,Developing,life_expectancy,1977,44.847
+Nigeria,NGA,Developing,life_expectancy,1976,44.186
+Nigeria,NGA,Developing,life_expectancy,1975,43.054
+Nigeria,NGA,Developing,life_expectancy,1974,42.489
+Nigeria,NGA,Developing,life_expectancy,1973,41.831
+Nigeria,NGA,Developing,life_expectancy,1972,41.273
+Nigeria,NGA,Developing,life_expectancy,1971,40.606
+Nigeria,NGA,Developing,life_expectancy,1970,40.008
+Nigeria,NGA,Developing,life_expectancy,1969,38.946
+Nigeria,NGA,Developing,life_expectancy,1968,38.642
+Nigeria,NGA,Developing,life_expectancy,1967,37.497
+Nigeria,NGA,Developing,life_expectancy,1966,38.355
+Nigeria,NGA,Developing,life_expectancy,1965,38.221
+Nigeria,NGA,Developing,life_expectancy,1964,37.98
+Nigeria,NGA,Developing,life_expectancy,1963,37.806
+Nigeria,NGA,Developing,life_expectancy,1962,37.606
+Nigeria,NGA,Developing,life_expectancy,1961,37.427
+Nigeria,NGA,Developing,life_expectancy,1960,37.207
 Nigeria,NGA,Developing,population,2025,237527782.0
 Nigeria,NGA,Developing,population,2024,232679478.0
 Nigeria,NGA,Developing,population,2023,227882945.0
@@ -2837,6 +5015,72 @@ Nigeria,NGA,Developing,population,1963,47973575.0
 Nigeria,NGA,Developing,population,1962,46965292.0
 Nigeria,NGA,Developing,population,1961,45989310.0
 Nigeria,NGA,Developing,population,1960,45053782.0
+Nigeria,NGA,Developing,school_enrollment,2025,
+Nigeria,NGA,Developing,school_enrollment,2024,
+Nigeria,NGA,Developing,school_enrollment,2023,46.8931503295898
+Nigeria,NGA,Developing,school_enrollment,2022,
+Nigeria,NGA,Developing,school_enrollment,2021,45.444938659668
+Nigeria,NGA,Developing,school_enrollment,2020,44.1220893859863
+Nigeria,NGA,Developing,school_enrollment,2019,
+Nigeria,NGA,Developing,school_enrollment,2018,40.4885292053223
+Nigeria,NGA,Developing,school_enrollment,2017,
+Nigeria,NGA,Developing,school_enrollment,2016,39.3068084716797
+Nigeria,NGA,Developing,school_enrollment,2015,43.8246917724609
+Nigeria,NGA,Developing,school_enrollment,2014,42.7821502685547
+Nigeria,NGA,Developing,school_enrollment,2013,52.7967300415039
+Nigeria,NGA,Developing,school_enrollment,2012,44.4557914733887
+Nigeria,NGA,Developing,school_enrollment,2011,43.0239906311035
+Nigeria,NGA,Developing,school_enrollment,2010,41.7837982177734
+Nigeria,NGA,Developing,school_enrollment,2009,37.1381416320801
+Nigeria,NGA,Developing,school_enrollment,2008,33.6112785339355
+Nigeria,NGA,Developing,school_enrollment,2007,30.4232006072998
+Nigeria,NGA,Developing,school_enrollment,2006,33.1262817382812
+Nigeria,NGA,Developing,school_enrollment,2005,33.7729187011719
+Nigeria,NGA,Developing,school_enrollment,2004,33.9481201171875
+Nigeria,NGA,Developing,school_enrollment,2003,
+Nigeria,NGA,Developing,school_enrollment,2002,28.8738098144531
+Nigeria,NGA,Developing,school_enrollment,2001,26.3999805450439
+Nigeria,NGA,Developing,school_enrollment,2000,23.9613494873047
+Nigeria,NGA,Developing,school_enrollment,1999,22.8324108123779
+Nigeria,NGA,Developing,school_enrollment,1998,
+Nigeria,NGA,Developing,school_enrollment,1997,
+Nigeria,NGA,Developing,school_enrollment,1996,
+Nigeria,NGA,Developing,school_enrollment,1995,
+Nigeria,NGA,Developing,school_enrollment,1994,
+Nigeria,NGA,Developing,school_enrollment,1993,
+Nigeria,NGA,Developing,school_enrollment,1992,
+Nigeria,NGA,Developing,school_enrollment,1991,
+Nigeria,NGA,Developing,school_enrollment,1990,23.9810009002686
+Nigeria,NGA,Developing,school_enrollment,1989,23.6370792388916
+Nigeria,NGA,Developing,school_enrollment,1988,
+Nigeria,NGA,Developing,school_enrollment,1987,26.8306694030762
+Nigeria,NGA,Developing,school_enrollment,1986,26.9905109405518
+Nigeria,NGA,Developing,school_enrollment,1985,29.1342906951904
+Nigeria,NGA,Developing,school_enrollment,1984,28.75705909729
+Nigeria,NGA,Developing,school_enrollment,1983,25.0670204162598
+Nigeria,NGA,Developing,school_enrollment,1982,21.0725994110107
+Nigeria,NGA,Developing,school_enrollment,1981,17.2738208770752
+Nigeria,NGA,Developing,school_enrollment,1980,13.870659828186
+Nigeria,NGA,Developing,school_enrollment,1979,11.1410799026489
+Nigeria,NGA,Developing,school_enrollment,1978,9.1794900894165
+Nigeria,NGA,Developing,school_enrollment,1977,7.78704977035522
+Nigeria,NGA,Developing,school_enrollment,1976,
+Nigeria,NGA,Developing,school_enrollment,1975,
+Nigeria,NGA,Developing,school_enrollment,1974,
+Nigeria,NGA,Developing,school_enrollment,1973,6.01967000961304
+Nigeria,NGA,Developing,school_enrollment,1972,5.39129018783569
+Nigeria,NGA,Developing,school_enrollment,1971,4.84703016281128
+Nigeria,NGA,Developing,school_enrollment,1970,4.47895002365112
+Nigeria,NGA,Developing,school_enrollment,1969,
+Nigeria,NGA,Developing,school_enrollment,1968,
+Nigeria,NGA,Developing,school_enrollment,1967,
+Nigeria,NGA,Developing,school_enrollment,1966,
+Nigeria,NGA,Developing,school_enrollment,1965,
+Nigeria,NGA,Developing,school_enrollment,1964,
+Nigeria,NGA,Developing,school_enrollment,1963,
+Nigeria,NGA,Developing,school_enrollment,1962,
+Nigeria,NGA,Developing,school_enrollment,1961,
+Nigeria,NGA,Developing,school_enrollment,1960,
 Nigeria,NGA,Developing,unemployment,2025,3.064
 Nigeria,NGA,Developing,unemployment,2024,3.045
 Nigeria,NGA,Developing,unemployment,2023,3.074
@@ -2903,6 +5147,72 @@ Nigeria,NGA,Developing,unemployment,1963,
 Nigeria,NGA,Developing,unemployment,1962,
 Nigeria,NGA,Developing,unemployment,1961,
 Nigeria,NGA,Developing,unemployment,1960,
+Nepal,NPL,Least Developed,electricity_access,2025,
+Nepal,NPL,Least Developed,electricity_access,2024,97.9
+Nepal,NPL,Least Developed,electricity_access,2023,94.0
+Nepal,NPL,Least Developed,electricity_access,2022,91.3
+Nepal,NPL,Least Developed,electricity_access,2021,89.9
+Nepal,NPL,Least Developed,electricity_access,2020,89.9
+Nepal,NPL,Least Developed,electricity_access,2019,89.9
+Nepal,NPL,Least Developed,electricity_access,2018,93.9
+Nepal,NPL,Least Developed,electricity_access,2017,86.6
+Nepal,NPL,Least Developed,electricity_access,2016,90.7
+Nepal,NPL,Least Developed,electricity_access,2015,82.0
+Nepal,NPL,Least Developed,electricity_access,2014,84.9
+Nepal,NPL,Least Developed,electricity_access,2013,77.4
+Nepal,NPL,Least Developed,electricity_access,2012,75.2
+Nepal,NPL,Least Developed,electricity_access,2011,67.3
+Nepal,NPL,Least Developed,electricity_access,2010,68.6
+Nepal,NPL,Least Developed,electricity_access,2009,59.3
+Nepal,NPL,Least Developed,electricity_access,2008,56.0
+Nepal,NPL,Least Developed,electricity_access,2007,52.6
+Nepal,NPL,Least Developed,electricity_access,2006,51.2
+Nepal,NPL,Least Developed,electricity_access,2005,46.1
+Nepal,NPL,Least Developed,electricity_access,2004,37.2
+Nepal,NPL,Least Developed,electricity_access,2003,39.6
+Nepal,NPL,Least Developed,electricity_access,2002,36.4
+Nepal,NPL,Least Developed,electricity_access,2001,24.6
+Nepal,NPL,Least Developed,electricity_access,2000,29.9
+Nepal,NPL,Least Developed,electricity_access,1999,25.3273544311523
+Nepal,NPL,Least Developed,electricity_access,1998,21.7325325012207
+Nepal,NPL,Least Developed,electricity_access,1997,18.1328678131104
+Nepal,NPL,Least Developed,electricity_access,1996,17.9
+Nepal,NPL,Least Developed,electricity_access,1995,
+Nepal,NPL,Least Developed,electricity_access,1994,
+Nepal,NPL,Least Developed,electricity_access,1993,
+Nepal,NPL,Least Developed,electricity_access,1992,
+Nepal,NPL,Least Developed,electricity_access,1991,
+Nepal,NPL,Least Developed,electricity_access,1990,
+Nepal,NPL,Least Developed,electricity_access,1989,
+Nepal,NPL,Least Developed,electricity_access,1988,
+Nepal,NPL,Least Developed,electricity_access,1987,
+Nepal,NPL,Least Developed,electricity_access,1986,
+Nepal,NPL,Least Developed,electricity_access,1985,
+Nepal,NPL,Least Developed,electricity_access,1984,
+Nepal,NPL,Least Developed,electricity_access,1983,
+Nepal,NPL,Least Developed,electricity_access,1982,
+Nepal,NPL,Least Developed,electricity_access,1981,
+Nepal,NPL,Least Developed,electricity_access,1980,
+Nepal,NPL,Least Developed,electricity_access,1979,
+Nepal,NPL,Least Developed,electricity_access,1978,
+Nepal,NPL,Least Developed,electricity_access,1977,
+Nepal,NPL,Least Developed,electricity_access,1976,
+Nepal,NPL,Least Developed,electricity_access,1975,
+Nepal,NPL,Least Developed,electricity_access,1974,
+Nepal,NPL,Least Developed,electricity_access,1973,
+Nepal,NPL,Least Developed,electricity_access,1972,
+Nepal,NPL,Least Developed,electricity_access,1971,
+Nepal,NPL,Least Developed,electricity_access,1970,
+Nepal,NPL,Least Developed,electricity_access,1969,
+Nepal,NPL,Least Developed,electricity_access,1968,
+Nepal,NPL,Least Developed,electricity_access,1967,
+Nepal,NPL,Least Developed,electricity_access,1966,
+Nepal,NPL,Least Developed,electricity_access,1965,
+Nepal,NPL,Least Developed,electricity_access,1964,
+Nepal,NPL,Least Developed,electricity_access,1963,
+Nepal,NPL,Least Developed,electricity_access,1962,
+Nepal,NPL,Least Developed,electricity_access,1961,
+Nepal,NPL,Least Developed,electricity_access,1960,
 Nepal,NPL,Least Developed,gdp,2025,45489810283.1132
 Nepal,NPL,Least Developed,gdp,2024,43298911699.9284
 Nepal,NPL,Least Developed,gdp,2023,41049329851.0546
@@ -3035,6 +5345,72 @@ Nepal,NPL,Least Developed,gdp_per_capita,1963,46.3146629740628
 Nepal,NPL,Least Developed,gdp_per_capita,1962,54.565608932967
 Nepal,NPL,Least Developed,gdp_per_capita,1961,51.5544820747585
 Nepal,NPL,Least Developed,gdp_per_capita,1960,50.2125233749587
+Nepal,NPL,Least Developed,life_expectancy,2025,
+Nepal,NPL,Least Developed,life_expectancy,2024,70.636
+Nepal,NPL,Least Developed,life_expectancy,2023,70.354
+Nepal,NPL,Least Developed,life_expectancy,2022,70.087
+Nepal,NPL,Least Developed,life_expectancy,2021,68.385
+Nepal,NPL,Least Developed,life_expectancy,2020,69.106
+Nepal,NPL,Least Developed,life_expectancy,2019,69.299
+Nepal,NPL,Least Developed,life_expectancy,2018,69.036
+Nepal,NPL,Least Developed,life_expectancy,2017,68.74
+Nepal,NPL,Least Developed,life_expectancy,2016,68.444
+Nepal,NPL,Least Developed,life_expectancy,2015,67.374
+Nepal,NPL,Least Developed,life_expectancy,2014,67.812
+Nepal,NPL,Least Developed,life_expectancy,2013,67.598
+Nepal,NPL,Least Developed,life_expectancy,2012,67.364
+Nepal,NPL,Least Developed,life_expectancy,2011,67.123
+Nepal,NPL,Least Developed,life_expectancy,2010,66.772
+Nepal,NPL,Least Developed,life_expectancy,2009,66.6
+Nepal,NPL,Least Developed,life_expectancy,2008,66.442
+Nepal,NPL,Least Developed,life_expectancy,2007,66.169
+Nepal,NPL,Least Developed,life_expectancy,2006,65.891
+Nepal,NPL,Least Developed,life_expectancy,2005,65.275
+Nepal,NPL,Least Developed,life_expectancy,2004,64.744
+Nepal,NPL,Least Developed,life_expectancy,2003,64.229
+Nepal,NPL,Least Developed,life_expectancy,2002,63.507
+Nepal,NPL,Least Developed,life_expectancy,2001,63.288
+Nepal,NPL,Least Developed,life_expectancy,2000,62.642
+Nepal,NPL,Least Developed,life_expectancy,1999,62.035
+Nepal,NPL,Least Developed,life_expectancy,1998,61.532
+Nepal,NPL,Least Developed,life_expectancy,1997,60.823
+Nepal,NPL,Least Developed,life_expectancy,1996,60.044
+Nepal,NPL,Least Developed,life_expectancy,1995,59.323
+Nepal,NPL,Least Developed,life_expectancy,1994,58.631
+Nepal,NPL,Least Developed,life_expectancy,1993,57.597
+Nepal,NPL,Least Developed,life_expectancy,1992,56.686
+Nepal,NPL,Least Developed,life_expectancy,1991,55.65
+Nepal,NPL,Least Developed,life_expectancy,1990,54.771
+Nepal,NPL,Least Developed,life_expectancy,1989,54.013
+Nepal,NPL,Least Developed,life_expectancy,1988,53.109
+Nepal,NPL,Least Developed,life_expectancy,1987,52.382
+Nepal,NPL,Least Developed,life_expectancy,1986,51.594
+Nepal,NPL,Least Developed,life_expectancy,1985,50.922
+Nepal,NPL,Least Developed,life_expectancy,1984,50.227
+Nepal,NPL,Least Developed,life_expectancy,1983,49.676
+Nepal,NPL,Least Developed,life_expectancy,1982,49.181
+Nepal,NPL,Least Developed,life_expectancy,1981,48.662
+Nepal,NPL,Least Developed,life_expectancy,1980,48.333
+Nepal,NPL,Least Developed,life_expectancy,1979,47.766
+Nepal,NPL,Least Developed,life_expectancy,1978,47.202
+Nepal,NPL,Least Developed,life_expectancy,1977,46.628
+Nepal,NPL,Least Developed,life_expectancy,1976,45.991
+Nepal,NPL,Least Developed,life_expectancy,1975,45.499
+Nepal,NPL,Least Developed,life_expectancy,1974,44.919
+Nepal,NPL,Least Developed,life_expectancy,1973,44.485
+Nepal,NPL,Least Developed,life_expectancy,1972,44.068
+Nepal,NPL,Least Developed,life_expectancy,1971,43.616
+Nepal,NPL,Least Developed,life_expectancy,1970,43.151
+Nepal,NPL,Least Developed,life_expectancy,1969,42.722
+Nepal,NPL,Least Developed,life_expectancy,1968,42.173
+Nepal,NPL,Least Developed,life_expectancy,1967,41.71
+Nepal,NPL,Least Developed,life_expectancy,1966,41.239
+Nepal,NPL,Least Developed,life_expectancy,1965,40.688
+Nepal,NPL,Least Developed,life_expectancy,1964,40.229
+Nepal,NPL,Least Developed,life_expectancy,1963,39.608
+Nepal,NPL,Least Developed,life_expectancy,1962,39.333
+Nepal,NPL,Least Developed,life_expectancy,1961,38.966
+Nepal,NPL,Least Developed,life_expectancy,1960,38.652
 Nepal,NPL,Least Developed,population,2025,29618118.0
 Nepal,NPL,Least Developed,population,2024,29651054.0
 Nepal,NPL,Least Developed,population,2023,29694614.0
@@ -3101,6 +5477,72 @@ Nepal,NPL,Least Developed,population,1963,10729818.0
 Nepal,NPL,Least Developed,population,1962,10521116.0
 Nepal,NPL,Least Developed,population,1961,10318396.0
 Nepal,NPL,Least Developed,population,1960,10123658.0
+Nepal,NPL,Least Developed,school_enrollment,2025,
+Nepal,NPL,Least Developed,school_enrollment,2024,90.3878462155916
+Nepal,NPL,Least Developed,school_enrollment,2023,89.8898815141438
+Nepal,NPL,Least Developed,school_enrollment,2022,84.1026475876285
+Nepal,NPL,Least Developed,school_enrollment,2021,83.9220209713597
+Nepal,NPL,Least Developed,school_enrollment,2020,85.3101577758789
+Nepal,NPL,Least Developed,school_enrollment,2019,80.2800521850586
+Nepal,NPL,Least Developed,school_enrollment,2018,
+Nepal,NPL,Least Developed,school_enrollment,2017,74.4113311767578
+Nepal,NPL,Least Developed,school_enrollment,2016,71.7744979858398
+Nepal,NPL,Least Developed,school_enrollment,2015,68.6131210327148
+Nepal,NPL,Least Developed,school_enrollment,2014,67.5318298339844
+Nepal,NPL,Least Developed,school_enrollment,2013,65.4935302734375
+Nepal,NPL,Least Developed,school_enrollment,2012,63.1414794921875
+Nepal,NPL,Least Developed,school_enrollment,2011,58.9935111999512
+Nepal,NPL,Least Developed,school_enrollment,2010,55.5892906188965
+Nepal,NPL,Least Developed,school_enrollment,2009,49.2625999450684
+Nepal,NPL,Least Developed,school_enrollment,2008,48.0189094543457
+Nepal,NPL,Least Developed,school_enrollment,2007,42.0970306396484
+Nepal,NPL,Least Developed,school_enrollment,2006,42.5181617736816
+Nepal,NPL,Least Developed,school_enrollment,2005,45.098201751709
+Nepal,NPL,Least Developed,school_enrollment,2004,
+Nepal,NPL,Least Developed,school_enrollment,2003,42.0749092102051
+Nepal,NPL,Least Developed,school_enrollment,2002,41.0556297302246
+Nepal,NPL,Least Developed,school_enrollment,2001,37.3896903991699
+Nepal,NPL,Least Developed,school_enrollment,2000,34.4201507568359
+Nepal,NPL,Least Developed,school_enrollment,1999,33.1490211486816
+Nepal,NPL,Least Developed,school_enrollment,1998,
+Nepal,NPL,Least Developed,school_enrollment,1997,
+Nepal,NPL,Least Developed,school_enrollment,1996,43.1790885925293
+Nepal,NPL,Least Developed,school_enrollment,1995,40.1949615478516
+Nepal,NPL,Least Developed,school_enrollment,1994,38.3644485473633
+Nepal,NPL,Least Developed,school_enrollment,1993,37.9471893310547
+Nepal,NPL,Least Developed,school_enrollment,1992,36.6419982910156
+Nepal,NPL,Least Developed,school_enrollment,1991,34.0466995239258
+Nepal,NPL,Least Developed,school_enrollment,1990,32.03369140625
+Nepal,NPL,Least Developed,school_enrollment,1989,30.888879776001
+Nepal,NPL,Least Developed,school_enrollment,1988,29.2296390533447
+Nepal,NPL,Least Developed,school_enrollment,1987,28.3090000152588
+Nepal,NPL,Least Developed,school_enrollment,1986,27.0147800445557
+Nepal,NPL,Least Developed,school_enrollment,1985,25.4660491943359
+Nepal,NPL,Least Developed,school_enrollment,1984,23.8365802764893
+Nepal,NPL,Least Developed,school_enrollment,1983,22.4334201812744
+Nepal,NPL,Least Developed,school_enrollment,1982,20.3783092498779
+Nepal,NPL,Least Developed,school_enrollment,1981,17.7367706298828
+Nepal,NPL,Least Developed,school_enrollment,1980,
+Nepal,NPL,Least Developed,school_enrollment,1979,
+Nepal,NPL,Least Developed,school_enrollment,1978,
+Nepal,NPL,Least Developed,school_enrollment,1977,
+Nepal,NPL,Least Developed,school_enrollment,1976,
+Nepal,NPL,Least Developed,school_enrollment,1975,
+Nepal,NPL,Least Developed,school_enrollment,1974,
+Nepal,NPL,Least Developed,school_enrollment,1973,
+Nepal,NPL,Least Developed,school_enrollment,1972,
+Nepal,NPL,Least Developed,school_enrollment,1971,
+Nepal,NPL,Least Developed,school_enrollment,1970,
+Nepal,NPL,Least Developed,school_enrollment,1969,
+Nepal,NPL,Least Developed,school_enrollment,1968,
+Nepal,NPL,Least Developed,school_enrollment,1967,
+Nepal,NPL,Least Developed,school_enrollment,1966,
+Nepal,NPL,Least Developed,school_enrollment,1965,
+Nepal,NPL,Least Developed,school_enrollment,1964,
+Nepal,NPL,Least Developed,school_enrollment,1963,
+Nepal,NPL,Least Developed,school_enrollment,1962,
+Nepal,NPL,Least Developed,school_enrollment,1961,
+Nepal,NPL,Least Developed,school_enrollment,1960,
 Nepal,NPL,Least Developed,unemployment,2025,10.465
 Nepal,NPL,Least Developed,unemployment,2024,10.5
 Nepal,NPL,Least Developed,unemployment,2023,10.437
@@ -3167,6 +5609,72 @@ Nepal,NPL,Least Developed,unemployment,1963,
 Nepal,NPL,Least Developed,unemployment,1962,
 Nepal,NPL,Least Developed,unemployment,1961,
 Nepal,NPL,Least Developed,unemployment,1960,
+Pakistan,PAK,Developing,electricity_access,2025,
+Pakistan,PAK,Developing,electricity_access,2024,95.7
+Pakistan,PAK,Developing,electricity_access,2023,95.6
+Pakistan,PAK,Developing,electricity_access,2022,95.0
+Pakistan,PAK,Developing,electricity_access,2021,94.9
+Pakistan,PAK,Developing,electricity_access,2020,94.5
+Pakistan,PAK,Developing,electricity_access,2019,93.9
+Pakistan,PAK,Developing,electricity_access,2018,93.4
+Pakistan,PAK,Developing,electricity_access,2017,92.7
+Pakistan,PAK,Developing,electricity_access,2016,91.8
+Pakistan,PAK,Developing,electricity_access,2015,91.0
+Pakistan,PAK,Developing,electricity_access,2014,90.1
+Pakistan,PAK,Developing,electricity_access,2013,89.3
+Pakistan,PAK,Developing,electricity_access,2012,88.6
+Pakistan,PAK,Developing,electricity_access,2011,87.8
+Pakistan,PAK,Developing,electricity_access,2010,87.1
+Pakistan,PAK,Developing,electricity_access,2009,82.5
+Pakistan,PAK,Developing,electricity_access,2008,81.4
+Pakistan,PAK,Developing,electricity_access,2007,80.2
+Pakistan,PAK,Developing,electricity_access,2006,79.1
+Pakistan,PAK,Developing,electricity_access,2005,78.1
+Pakistan,PAK,Developing,electricity_access,2004,77.0
+Pakistan,PAK,Developing,electricity_access,2003,76.0
+Pakistan,PAK,Developing,electricity_access,2002,74.9
+Pakistan,PAK,Developing,electricity_access,2001,73.9
+Pakistan,PAK,Developing,electricity_access,2000,72.8
+Pakistan,PAK,Developing,electricity_access,1999,70.2653503417969
+Pakistan,PAK,Developing,electricity_access,1998,70.46
+Pakistan,PAK,Developing,electricity_access,1997,
+Pakistan,PAK,Developing,electricity_access,1996,
+Pakistan,PAK,Developing,electricity_access,1995,
+Pakistan,PAK,Developing,electricity_access,1994,
+Pakistan,PAK,Developing,electricity_access,1993,
+Pakistan,PAK,Developing,electricity_access,1992,
+Pakistan,PAK,Developing,electricity_access,1991,
+Pakistan,PAK,Developing,electricity_access,1990,
+Pakistan,PAK,Developing,electricity_access,1989,
+Pakistan,PAK,Developing,electricity_access,1988,
+Pakistan,PAK,Developing,electricity_access,1987,
+Pakistan,PAK,Developing,electricity_access,1986,
+Pakistan,PAK,Developing,electricity_access,1985,
+Pakistan,PAK,Developing,electricity_access,1984,
+Pakistan,PAK,Developing,electricity_access,1983,
+Pakistan,PAK,Developing,electricity_access,1982,
+Pakistan,PAK,Developing,electricity_access,1981,
+Pakistan,PAK,Developing,electricity_access,1980,
+Pakistan,PAK,Developing,electricity_access,1979,
+Pakistan,PAK,Developing,electricity_access,1978,
+Pakistan,PAK,Developing,electricity_access,1977,
+Pakistan,PAK,Developing,electricity_access,1976,
+Pakistan,PAK,Developing,electricity_access,1975,
+Pakistan,PAK,Developing,electricity_access,1974,
+Pakistan,PAK,Developing,electricity_access,1973,
+Pakistan,PAK,Developing,electricity_access,1972,
+Pakistan,PAK,Developing,electricity_access,1971,
+Pakistan,PAK,Developing,electricity_access,1970,
+Pakistan,PAK,Developing,electricity_access,1969,
+Pakistan,PAK,Developing,electricity_access,1968,
+Pakistan,PAK,Developing,electricity_access,1967,
+Pakistan,PAK,Developing,electricity_access,1966,
+Pakistan,PAK,Developing,electricity_access,1965,
+Pakistan,PAK,Developing,electricity_access,1964,
+Pakistan,PAK,Developing,electricity_access,1963,
+Pakistan,PAK,Developing,electricity_access,1962,
+Pakistan,PAK,Developing,electricity_access,1961,
+Pakistan,PAK,Developing,electricity_access,1960,
 Pakistan,PAK,Developing,gdp,2025,407307214476.222
 Pakistan,PAK,Developing,gdp,2024,371747087751.306
 Pakistan,PAK,Developing,gdp,2023,336686348609.266
@@ -3299,6 +5807,72 @@ Pakistan,PAK,Developing,gdp_per_capita,1963,93.6508728613463
 Pakistan,PAK,Developing,gdp_per_capita,1962,89.5039525753413
 Pakistan,PAK,Developing,gdp_per_capita,1961,87.7778246966181
 Pakistan,PAK,Developing,gdp_per_capita,1960,82.0241000071912
+Pakistan,PAK,Developing,life_expectancy,2025,
+Pakistan,PAK,Developing,life_expectancy,2024,67.799
+Pakistan,PAK,Developing,life_expectancy,2023,67.649
+Pakistan,PAK,Developing,life_expectancy,2022,67.417
+Pakistan,PAK,Developing,life_expectancy,2021,65.773
+Pakistan,PAK,Developing,life_expectancy,2020,65.701
+Pakistan,PAK,Developing,life_expectancy,2019,66.729
+Pakistan,PAK,Developing,life_expectancy,2018,66.481
+Pakistan,PAK,Developing,life_expectancy,2017,66.223
+Pakistan,PAK,Developing,life_expectancy,2016,65.943
+Pakistan,PAK,Developing,life_expectancy,2015,65.641
+Pakistan,PAK,Developing,life_expectancy,2014,65.374
+Pakistan,PAK,Developing,life_expectancy,2013,65.129
+Pakistan,PAK,Developing,life_expectancy,2012,64.883
+Pakistan,PAK,Developing,life_expectancy,2011,64.659
+Pakistan,PAK,Developing,life_expectancy,2010,64.378
+Pakistan,PAK,Developing,life_expectancy,2009,64.206
+Pakistan,PAK,Developing,life_expectancy,2008,64.002
+Pakistan,PAK,Developing,life_expectancy,2007,63.807
+Pakistan,PAK,Developing,life_expectancy,2006,63.624
+Pakistan,PAK,Developing,life_expectancy,2005,62.416
+Pakistan,PAK,Developing,life_expectancy,2004,63.097
+Pakistan,PAK,Developing,life_expectancy,2003,62.834
+Pakistan,PAK,Developing,life_expectancy,2002,62.556
+Pakistan,PAK,Developing,life_expectancy,2001,62.241
+Pakistan,PAK,Developing,life_expectancy,2000,61.903
+Pakistan,PAK,Developing,life_expectancy,1999,61.54
+Pakistan,PAK,Developing,life_expectancy,1998,61.134
+Pakistan,PAK,Developing,life_expectancy,1997,60.623
+Pakistan,PAK,Developing,life_expectancy,1996,60.466
+Pakistan,PAK,Developing,life_expectancy,1995,60.273
+Pakistan,PAK,Developing,life_expectancy,1994,60.197
+Pakistan,PAK,Developing,life_expectancy,1993,60.083
+Pakistan,PAK,Developing,life_expectancy,1992,59.983
+Pakistan,PAK,Developing,life_expectancy,1991,59.864
+Pakistan,PAK,Developing,life_expectancy,1990,59.728
+Pakistan,PAK,Developing,life_expectancy,1989,59.528
+Pakistan,PAK,Developing,life_expectancy,1988,59.36
+Pakistan,PAK,Developing,life_expectancy,1987,59.222
+Pakistan,PAK,Developing,life_expectancy,1986,59.167
+Pakistan,PAK,Developing,life_expectancy,1985,59.075
+Pakistan,PAK,Developing,life_expectancy,1984,58.921
+Pakistan,PAK,Developing,life_expectancy,1983,58.663
+Pakistan,PAK,Developing,life_expectancy,1982,58.291
+Pakistan,PAK,Developing,life_expectancy,1981,57.764
+Pakistan,PAK,Developing,life_expectancy,1980,57.199
+Pakistan,PAK,Developing,life_expectancy,1979,56.614
+Pakistan,PAK,Developing,life_expectancy,1978,56.072
+Pakistan,PAK,Developing,life_expectancy,1977,55.482
+Pakistan,PAK,Developing,life_expectancy,1976,55.069
+Pakistan,PAK,Developing,life_expectancy,1975,54.722
+Pakistan,PAK,Developing,life_expectancy,1974,54.266
+Pakistan,PAK,Developing,life_expectancy,1973,54.09
+Pakistan,PAK,Developing,life_expectancy,1972,53.824
+Pakistan,PAK,Developing,life_expectancy,1971,49.002
+Pakistan,PAK,Developing,life_expectancy,1970,52.943
+Pakistan,PAK,Developing,life_expectancy,1969,52.316
+Pakistan,PAK,Developing,life_expectancy,1968,51.624
+Pakistan,PAK,Developing,life_expectancy,1967,50.763
+Pakistan,PAK,Developing,life_expectancy,1966,49.797
+Pakistan,PAK,Developing,life_expectancy,1965,48.495
+Pakistan,PAK,Developing,life_expectancy,1964,47.831
+Pakistan,PAK,Developing,life_expectancy,1963,46.761
+Pakistan,PAK,Developing,life_expectancy,1962,45.85
+Pakistan,PAK,Developing,life_expectancy,1961,44.956
+Pakistan,PAK,Developing,life_expectancy,1960,44.101
 Pakistan,PAK,Developing,population,2025,255219554.0
 Pakistan,PAK,Developing,population,2024,251269164.0
 Pakistan,PAK,Developing,population,2023,247504495.0
@@ -3365,6 +5939,72 @@ Pakistan,PAK,Developing,population,1963,49447776.0
 Pakistan,PAK,Developing,population,1962,48156128.0
 Pakistan,PAK,Developing,population,1961,46921277.0
 Pakistan,PAK,Developing,population,1960,45709310.0
+Pakistan,PAK,Developing,school_enrollment,2025,
+Pakistan,PAK,Developing,school_enrollment,2024,48.2805022055997
+Pakistan,PAK,Developing,school_enrollment,2023,42.2911451386891
+Pakistan,PAK,Developing,school_enrollment,2022,40.4177656413012
+Pakistan,PAK,Developing,school_enrollment,2021,40.2578898404389
+Pakistan,PAK,Developing,school_enrollment,2020,
+Pakistan,PAK,Developing,school_enrollment,2019,38.7511552822907
+Pakistan,PAK,Developing,school_enrollment,2018,37.1466063259079
+Pakistan,PAK,Developing,school_enrollment,2017,35.3224248744451
+Pakistan,PAK,Developing,school_enrollment,2016,35.8643246680809
+Pakistan,PAK,Developing,school_enrollment,2015,34.6741466548496
+Pakistan,PAK,Developing,school_enrollment,2014,32.6573427323505
+Pakistan,PAK,Developing,school_enrollment,2013,31.544819132504
+Pakistan,PAK,Developing,school_enrollment,2012,30.6300201416016
+Pakistan,PAK,Developing,school_enrollment,2011,29.7271460529531
+Pakistan,PAK,Developing,school_enrollment,2010,29.2962900661933
+Pakistan,PAK,Developing,school_enrollment,2009,29.0589694976807
+Pakistan,PAK,Developing,school_enrollment,2008,29.1768093109131
+Pakistan,PAK,Developing,school_enrollment,2007,29.0634307861328
+Pakistan,PAK,Developing,school_enrollment,2006,27.2463207244873
+Pakistan,PAK,Developing,school_enrollment,2005,22.6038208007812
+Pakistan,PAK,Developing,school_enrollment,2004,21.7634296417236
+Pakistan,PAK,Developing,school_enrollment,2003,19.8385200500488
+Pakistan,PAK,Developing,school_enrollment,2002,
+Pakistan,PAK,Developing,school_enrollment,2001,
+Pakistan,PAK,Developing,school_enrollment,2000,
+Pakistan,PAK,Developing,school_enrollment,1999,
+Pakistan,PAK,Developing,school_enrollment,1998,
+Pakistan,PAK,Developing,school_enrollment,1997,
+Pakistan,PAK,Developing,school_enrollment,1996,
+Pakistan,PAK,Developing,school_enrollment,1995,
+Pakistan,PAK,Developing,school_enrollment,1994,
+Pakistan,PAK,Developing,school_enrollment,1993,
+Pakistan,PAK,Developing,school_enrollment,1992,25.6504096984863
+Pakistan,PAK,Developing,school_enrollment,1991,23.091329574585
+Pakistan,PAK,Developing,school_enrollment,1990,20.205810546875
+Pakistan,PAK,Developing,school_enrollment,1989,19.6272106170654
+Pakistan,PAK,Developing,school_enrollment,1988,18.9704704284668
+Pakistan,PAK,Developing,school_enrollment,1987,18.7234706878662
+Pakistan,PAK,Developing,school_enrollment,1986,18.4025402069092
+Pakistan,PAK,Developing,school_enrollment,1985,18.2515296936035
+Pakistan,PAK,Developing,school_enrollment,1984,17.4552898406982
+Pakistan,PAK,Developing,school_enrollment,1983,16.6970100402832
+Pakistan,PAK,Developing,school_enrollment,1982,15.8989295959473
+Pakistan,PAK,Developing,school_enrollment,1981,15.715350151062
+Pakistan,PAK,Developing,school_enrollment,1980,15.6852598190308
+Pakistan,PAK,Developing,school_enrollment,1979,15.2169599533081
+Pakistan,PAK,Developing,school_enrollment,1978,16.4724197387695
+Pakistan,PAK,Developing,school_enrollment,1977,16.4452304840088
+Pakistan,PAK,Developing,school_enrollment,1976,16.3652591705322
+Pakistan,PAK,Developing,school_enrollment,1975,16.4388103485107
+Pakistan,PAK,Developing,school_enrollment,1974,15.6008901596069
+Pakistan,PAK,Developing,school_enrollment,1973,15.3283996582031
+Pakistan,PAK,Developing,school_enrollment,1972,14.8859701156616
+Pakistan,PAK,Developing,school_enrollment,1971,14.8839998245239
+Pakistan,PAK,Developing,school_enrollment,1970,
+Pakistan,PAK,Developing,school_enrollment,1969,
+Pakistan,PAK,Developing,school_enrollment,1968,
+Pakistan,PAK,Developing,school_enrollment,1967,
+Pakistan,PAK,Developing,school_enrollment,1966,
+Pakistan,PAK,Developing,school_enrollment,1965,
+Pakistan,PAK,Developing,school_enrollment,1964,
+Pakistan,PAK,Developing,school_enrollment,1963,
+Pakistan,PAK,Developing,school_enrollment,1962,
+Pakistan,PAK,Developing,school_enrollment,1961,
+Pakistan,PAK,Developing,school_enrollment,1960,
 Pakistan,PAK,Developing,unemployment,2025,5.42
 Pakistan,PAK,Developing,unemployment,2024,5.492
 Pakistan,PAK,Developing,unemployment,2023,5.237
@@ -3431,6 +6071,72 @@ Pakistan,PAK,Developing,unemployment,1963,
 Pakistan,PAK,Developing,unemployment,1962,
 Pakistan,PAK,Developing,unemployment,1961,
 Pakistan,PAK,Developing,unemployment,1960,
+Uganda,UGA,Least Developed,electricity_access,2025,
+Uganda,UGA,Least Developed,electricity_access,2024,55.3
+Uganda,UGA,Least Developed,electricity_access,2023,51.5
+Uganda,UGA,Least Developed,electricity_access,2022,47.1
+Uganda,UGA,Least Developed,electricity_access,2021,45.2
+Uganda,UGA,Least Developed,electricity_access,2020,42.1
+Uganda,UGA,Least Developed,electricity_access,2019,41.3
+Uganda,UGA,Least Developed,electricity_access,2018,41.9
+Uganda,UGA,Least Developed,electricity_access,2017,32.4
+Uganda,UGA,Least Developed,electricity_access,2016,26.7
+Uganda,UGA,Least Developed,electricity_access,2015,18.5
+Uganda,UGA,Least Developed,electricity_access,2014,20.4
+Uganda,UGA,Least Developed,electricity_access,2013,13.9
+Uganda,UGA,Least Developed,electricity_access,2012,20.5
+Uganda,UGA,Least Developed,electricity_access,2011,14.6
+Uganda,UGA,Least Developed,electricity_access,2010,12.1
+Uganda,UGA,Least Developed,electricity_access,2009,10.0
+Uganda,UGA,Least Developed,electricity_access,2008,15.9
+Uganda,UGA,Least Developed,electricity_access,2007,14.8
+Uganda,UGA,Least Developed,electricity_access,2006,9.0
+Uganda,UGA,Least Developed,electricity_access,2005,8.9
+Uganda,UGA,Least Developed,electricity_access,2004,11.6
+Uganda,UGA,Least Developed,electricity_access,2003,10.5
+Uganda,UGA,Least Developed,electricity_access,2002,7.8
+Uganda,UGA,Least Developed,electricity_access,2001,8.6
+Uganda,UGA,Least Developed,electricity_access,2000,7.4
+Uganda,UGA,Least Developed,electricity_access,1999,6.19963407516479
+Uganda,UGA,Least Developed,electricity_access,1998,5.07471179962158
+Uganda,UGA,Least Developed,electricity_access,1997,3.94494771957397
+Uganda,UGA,Least Developed,electricity_access,1996,2.81110429763794
+Uganda,UGA,Least Developed,electricity_access,1995,6.8
+Uganda,UGA,Least Developed,electricity_access,1994,0.533898532390594
+Uganda,UGA,Least Developed,electricity_access,1993,
+Uganda,UGA,Least Developed,electricity_access,1992,
+Uganda,UGA,Least Developed,electricity_access,1991,5.6
+Uganda,UGA,Least Developed,electricity_access,1990,
+Uganda,UGA,Least Developed,electricity_access,1989,
+Uganda,UGA,Least Developed,electricity_access,1988,
+Uganda,UGA,Least Developed,electricity_access,1987,
+Uganda,UGA,Least Developed,electricity_access,1986,
+Uganda,UGA,Least Developed,electricity_access,1985,
+Uganda,UGA,Least Developed,electricity_access,1984,
+Uganda,UGA,Least Developed,electricity_access,1983,
+Uganda,UGA,Least Developed,electricity_access,1982,
+Uganda,UGA,Least Developed,electricity_access,1981,
+Uganda,UGA,Least Developed,electricity_access,1980,
+Uganda,UGA,Least Developed,electricity_access,1979,
+Uganda,UGA,Least Developed,electricity_access,1978,
+Uganda,UGA,Least Developed,electricity_access,1977,
+Uganda,UGA,Least Developed,electricity_access,1976,
+Uganda,UGA,Least Developed,electricity_access,1975,
+Uganda,UGA,Least Developed,electricity_access,1974,
+Uganda,UGA,Least Developed,electricity_access,1973,
+Uganda,UGA,Least Developed,electricity_access,1972,
+Uganda,UGA,Least Developed,electricity_access,1971,
+Uganda,UGA,Least Developed,electricity_access,1970,
+Uganda,UGA,Least Developed,electricity_access,1969,
+Uganda,UGA,Least Developed,electricity_access,1968,
+Uganda,UGA,Least Developed,electricity_access,1967,
+Uganda,UGA,Least Developed,electricity_access,1966,
+Uganda,UGA,Least Developed,electricity_access,1965,
+Uganda,UGA,Least Developed,electricity_access,1964,
+Uganda,UGA,Least Developed,electricity_access,1963,
+Uganda,UGA,Least Developed,electricity_access,1962,
+Uganda,UGA,Least Developed,electricity_access,1961,
+Uganda,UGA,Least Developed,electricity_access,1960,
 Uganda,UGA,Least Developed,gdp,2025,61985829288.1496
 Uganda,UGA,Least Developed,gdp,2024,53911907079.0485
 Uganda,UGA,Least Developed,gdp,2023,48768955863.3175
@@ -3563,6 +6269,72 @@ Uganda,UGA,Least Developed,gdp_per_capita,1963,61.9553768191835
 Uganda,UGA,Least Developed,gdp_per_capita,1962,55.5048704604887
 Uganda,UGA,Least Developed,gdp_per_capita,1961,56.1759278091596
 Uganda,UGA,Least Developed,gdp_per_capita,1960,55.3784976132181
+Uganda,UGA,Least Developed,life_expectancy,2025,
+Uganda,UGA,Least Developed,life_expectancy,2024,68.487
+Uganda,UGA,Least Developed,life_expectancy,2023,68.252
+Uganda,UGA,Least Developed,life_expectancy,2022,67.675
+Uganda,UGA,Least Developed,life_expectancy,2021,66.45
+Uganda,UGA,Least Developed,life_expectancy,2020,66.41
+Uganda,UGA,Least Developed,life_expectancy,2019,66.354
+Uganda,UGA,Least Developed,life_expectancy,2018,65.775
+Uganda,UGA,Least Developed,life_expectancy,2017,65.174
+Uganda,UGA,Least Developed,life_expectancy,2016,64.494
+Uganda,UGA,Least Developed,life_expectancy,2015,63.831
+Uganda,UGA,Least Developed,life_expectancy,2014,63.057
+Uganda,UGA,Least Developed,life_expectancy,2013,62.353
+Uganda,UGA,Least Developed,life_expectancy,2012,61.579
+Uganda,UGA,Least Developed,life_expectancy,2011,60.791
+Uganda,UGA,Least Developed,life_expectancy,2010,59.959
+Uganda,UGA,Least Developed,life_expectancy,2009,59.157
+Uganda,UGA,Least Developed,life_expectancy,2008,58.253
+Uganda,UGA,Least Developed,life_expectancy,2007,57.248
+Uganda,UGA,Least Developed,life_expectancy,2006,56.118
+Uganda,UGA,Least Developed,life_expectancy,2005,54.926
+Uganda,UGA,Least Developed,life_expectancy,2004,53.699
+Uganda,UGA,Least Developed,life_expectancy,2003,52.414
+Uganda,UGA,Least Developed,life_expectancy,2002,51.443
+Uganda,UGA,Least Developed,life_expectancy,2001,50.576
+Uganda,UGA,Least Developed,life_expectancy,2000,49.64
+Uganda,UGA,Least Developed,life_expectancy,1999,48.977
+Uganda,UGA,Least Developed,life_expectancy,1998,48.263
+Uganda,UGA,Least Developed,life_expectancy,1997,48.026
+Uganda,UGA,Least Developed,life_expectancy,1996,47.759
+Uganda,UGA,Least Developed,life_expectancy,1995,47.706
+Uganda,UGA,Least Developed,life_expectancy,1994,47.675
+Uganda,UGA,Least Developed,life_expectancy,1993,47.681
+Uganda,UGA,Least Developed,life_expectancy,1992,47.671
+Uganda,UGA,Least Developed,life_expectancy,1991,47.549
+Uganda,UGA,Least Developed,life_expectancy,1990,47.561
+Uganda,UGA,Least Developed,life_expectancy,1989,47.488
+Uganda,UGA,Least Developed,life_expectancy,1988,47.476
+Uganda,UGA,Least Developed,life_expectancy,1987,47.36
+Uganda,UGA,Least Developed,life_expectancy,1986,45.651
+Uganda,UGA,Least Developed,life_expectancy,1985,45.496
+Uganda,UGA,Least Developed,life_expectancy,1984,43.706
+Uganda,UGA,Least Developed,life_expectancy,1983,43.489
+Uganda,UGA,Least Developed,life_expectancy,1982,43.309
+Uganda,UGA,Least Developed,life_expectancy,1981,43.456
+Uganda,UGA,Least Developed,life_expectancy,1980,43.453
+Uganda,UGA,Least Developed,life_expectancy,1979,45.385
+Uganda,UGA,Least Developed,life_expectancy,1978,45.596
+Uganda,UGA,Least Developed,life_expectancy,1977,45.84
+Uganda,UGA,Least Developed,life_expectancy,1976,46.169
+Uganda,UGA,Least Developed,life_expectancy,1975,46.517
+Uganda,UGA,Least Developed,life_expectancy,1974,46.861
+Uganda,UGA,Least Developed,life_expectancy,1973,46.992
+Uganda,UGA,Least Developed,life_expectancy,1972,47.162
+Uganda,UGA,Least Developed,life_expectancy,1971,47.147
+Uganda,UGA,Least Developed,life_expectancy,1970,49.621
+Uganda,UGA,Least Developed,life_expectancy,1969,49.505
+Uganda,UGA,Least Developed,life_expectancy,1968,49.285
+Uganda,UGA,Least Developed,life_expectancy,1967,49.006
+Uganda,UGA,Least Developed,life_expectancy,1966,48.463
+Uganda,UGA,Least Developed,life_expectancy,1965,48.303
+Uganda,UGA,Least Developed,life_expectancy,1964,47.846
+Uganda,UGA,Least Developed,life_expectancy,1963,47.378
+Uganda,UGA,Least Developed,life_expectancy,1962,46.821
+Uganda,UGA,Least Developed,life_expectancy,1961,46.271
+Uganda,UGA,Least Developed,life_expectancy,1960,45.633
 Uganda,UGA,Least Developed,population,2025,51384894.0
 Uganda,UGA,Least Developed,population,2024,50015092.0
 Uganda,UGA,Least Developed,population,2023,48656601.0
@@ -3629,6 +6401,72 @@ Uganda,UGA,Least Developed,population,1963,8333663.0
 Uganda,UGA,Least Developed,population,1962,8092231.0
 Uganda,UGA,Least Developed,population,1961,7862217.0
 Uganda,UGA,Least Developed,population,1960,7640973.0
+Uganda,UGA,Least Developed,school_enrollment,2025,
+Uganda,UGA,Least Developed,school_enrollment,2024,
+Uganda,UGA,Least Developed,school_enrollment,2023,
+Uganda,UGA,Least Developed,school_enrollment,2022,
+Uganda,UGA,Least Developed,school_enrollment,2021,
+Uganda,UGA,Least Developed,school_enrollment,2020,
+Uganda,UGA,Least Developed,school_enrollment,2019,
+Uganda,UGA,Least Developed,school_enrollment,2018,
+Uganda,UGA,Least Developed,school_enrollment,2017,
+Uganda,UGA,Least Developed,school_enrollment,2016,
+Uganda,UGA,Least Developed,school_enrollment,2015,
+Uganda,UGA,Least Developed,school_enrollment,2014,
+Uganda,UGA,Least Developed,school_enrollment,2013,
+Uganda,UGA,Least Developed,school_enrollment,2012,
+Uganda,UGA,Least Developed,school_enrollment,2011,
+Uganda,UGA,Least Developed,school_enrollment,2010,
+Uganda,UGA,Least Developed,school_enrollment,2009,
+Uganda,UGA,Least Developed,school_enrollment,2008,
+Uganda,UGA,Least Developed,school_enrollment,2007,24.0911102294922
+Uganda,UGA,Least Developed,school_enrollment,2006,
+Uganda,UGA,Least Developed,school_enrollment,2005,
+Uganda,UGA,Least Developed,school_enrollment,2004,19.1225490570068
+Uganda,UGA,Least Developed,school_enrollment,2003,
+Uganda,UGA,Least Developed,school_enrollment,2002,
+Uganda,UGA,Least Developed,school_enrollment,2001,
+Uganda,UGA,Least Developed,school_enrollment,2000,
+Uganda,UGA,Least Developed,school_enrollment,1999,
+Uganda,UGA,Least Developed,school_enrollment,1998,
+Uganda,UGA,Least Developed,school_enrollment,1997,10.1793003082275
+Uganda,UGA,Least Developed,school_enrollment,1996,
+Uganda,UGA,Least Developed,school_enrollment,1995,10.6459398269653
+Uganda,UGA,Least Developed,school_enrollment,1994,10.2928104400635
+Uganda,UGA,Least Developed,school_enrollment,1993,10.0285797119141
+Uganda,UGA,Least Developed,school_enrollment,1992,10.0910997390747
+Uganda,UGA,Least Developed,school_enrollment,1991,10.3139801025391
+Uganda,UGA,Least Developed,school_enrollment,1990,11.0182104110718
+Uganda,UGA,Least Developed,school_enrollment,1989,
+Uganda,UGA,Least Developed,school_enrollment,1988,11.3819599151611
+Uganda,UGA,Least Developed,school_enrollment,1987,10.7959995269775
+Uganda,UGA,Least Developed,school_enrollment,1986,9.7850399017334
+Uganda,UGA,Least Developed,school_enrollment,1985,8.47751045227051
+Uganda,UGA,Least Developed,school_enrollment,1984,7.92201995849609
+Uganda,UGA,Least Developed,school_enrollment,1983,6.74786996841431
+Uganda,UGA,Least Developed,school_enrollment,1982,7.60493993759155
+Uganda,UGA,Least Developed,school_enrollment,1981,5.11131000518799
+Uganda,UGA,Least Developed,school_enrollment,1980,4.8145899772644
+Uganda,UGA,Least Developed,school_enrollment,1979,4.45361995697021
+Uganda,UGA,Least Developed,school_enrollment,1978,4.35549020767212
+Uganda,UGA,Least Developed,school_enrollment,1977,4.27235984802246
+Uganda,UGA,Least Developed,school_enrollment,1976,4.16145992279053
+Uganda,UGA,Least Developed,school_enrollment,1975,3.52420997619629
+Uganda,UGA,Least Developed,school_enrollment,1974,3.50662994384766
+Uganda,UGA,Least Developed,school_enrollment,1973,3.5278799533844
+Uganda,UGA,Least Developed,school_enrollment,1972,
+Uganda,UGA,Least Developed,school_enrollment,1971,
+Uganda,UGA,Least Developed,school_enrollment,1970,3.47943997383118
+Uganda,UGA,Least Developed,school_enrollment,1969,
+Uganda,UGA,Least Developed,school_enrollment,1968,
+Uganda,UGA,Least Developed,school_enrollment,1967,
+Uganda,UGA,Least Developed,school_enrollment,1966,
+Uganda,UGA,Least Developed,school_enrollment,1965,
+Uganda,UGA,Least Developed,school_enrollment,1964,
+Uganda,UGA,Least Developed,school_enrollment,1963,
+Uganda,UGA,Least Developed,school_enrollment,1962,
+Uganda,UGA,Least Developed,school_enrollment,1961,
+Uganda,UGA,Least Developed,school_enrollment,1960,
 Uganda,UGA,Least Developed,unemployment,2025,2.746
 Uganda,UGA,Least Developed,unemployment,2024,2.74
 Uganda,UGA,Least Developed,unemployment,2023,2.754
@@ -3695,6 +6533,72 @@ Uganda,UGA,Least Developed,unemployment,1963,
 Uganda,UGA,Least Developed,unemployment,1962,
 Uganda,UGA,Least Developed,unemployment,1961,
 Uganda,UGA,Least Developed,unemployment,1960,
+United States,USA,Developed,electricity_access,2025,
+United States,USA,Developed,electricity_access,2024,100.0
+United States,USA,Developed,electricity_access,2023,100.0
+United States,USA,Developed,electricity_access,2022,100.0
+United States,USA,Developed,electricity_access,2021,100.0
+United States,USA,Developed,electricity_access,2020,100.0
+United States,USA,Developed,electricity_access,2019,100.0
+United States,USA,Developed,electricity_access,2018,100.0
+United States,USA,Developed,electricity_access,2017,100.0
+United States,USA,Developed,electricity_access,2016,100.0
+United States,USA,Developed,electricity_access,2015,100.0
+United States,USA,Developed,electricity_access,2014,100.0
+United States,USA,Developed,electricity_access,2013,100.0
+United States,USA,Developed,electricity_access,2012,100.0
+United States,USA,Developed,electricity_access,2011,100.0
+United States,USA,Developed,electricity_access,2010,100.0
+United States,USA,Developed,electricity_access,2009,100.0
+United States,USA,Developed,electricity_access,2008,100.0
+United States,USA,Developed,electricity_access,2007,100.0
+United States,USA,Developed,electricity_access,2006,100.0
+United States,USA,Developed,electricity_access,2005,100.0
+United States,USA,Developed,electricity_access,2004,100.0
+United States,USA,Developed,electricity_access,2003,100.0
+United States,USA,Developed,electricity_access,2002,100.0
+United States,USA,Developed,electricity_access,2001,100.0
+United States,USA,Developed,electricity_access,2000,100.0
+United States,USA,Developed,electricity_access,1999,100.0
+United States,USA,Developed,electricity_access,1998,100.0
+United States,USA,Developed,electricity_access,1997,100.0
+United States,USA,Developed,electricity_access,1996,100.0
+United States,USA,Developed,electricity_access,1995,100.0
+United States,USA,Developed,electricity_access,1994,100.0
+United States,USA,Developed,electricity_access,1993,100.0
+United States,USA,Developed,electricity_access,1992,100.0
+United States,USA,Developed,electricity_access,1991,100.0
+United States,USA,Developed,electricity_access,1990,100.0
+United States,USA,Developed,electricity_access,1989,
+United States,USA,Developed,electricity_access,1988,
+United States,USA,Developed,electricity_access,1987,
+United States,USA,Developed,electricity_access,1986,
+United States,USA,Developed,electricity_access,1985,
+United States,USA,Developed,electricity_access,1984,
+United States,USA,Developed,electricity_access,1983,
+United States,USA,Developed,electricity_access,1982,
+United States,USA,Developed,electricity_access,1981,
+United States,USA,Developed,electricity_access,1980,
+United States,USA,Developed,electricity_access,1979,
+United States,USA,Developed,electricity_access,1978,
+United States,USA,Developed,electricity_access,1977,
+United States,USA,Developed,electricity_access,1976,
+United States,USA,Developed,electricity_access,1975,
+United States,USA,Developed,electricity_access,1974,
+United States,USA,Developed,electricity_access,1973,
+United States,USA,Developed,electricity_access,1972,
+United States,USA,Developed,electricity_access,1971,
+United States,USA,Developed,electricity_access,1970,
+United States,USA,Developed,electricity_access,1969,
+United States,USA,Developed,electricity_access,1968,
+United States,USA,Developed,electricity_access,1967,
+United States,USA,Developed,electricity_access,1966,
+United States,USA,Developed,electricity_access,1965,
+United States,USA,Developed,electricity_access,1964,
+United States,USA,Developed,electricity_access,1963,
+United States,USA,Developed,electricity_access,1962,
+United States,USA,Developed,electricity_access,1961,
+United States,USA,Developed,electricity_access,1960,
 United States,USA,Developed,gdp,2025,30769700000000.0
 United States,USA,Developed,gdp,2024,29298013000000.0
 United States,USA,Developed,gdp,2023,27811517000000.0
@@ -3827,6 +6731,72 @@ United States,USA,Developed,gdp_per_capita,1963,3366.36978960346
 United States,USA,Developed,gdp_per_capita,1962,3236.01311150062
 United States,USA,Developed,gdp_per_capita,1961,3059.16082086127
 United States,USA,Developed,gdp_per_capita,1960,2999.86487154495
+United States,USA,Developed,life_expectancy,2025,
+United States,USA,Developed,life_expectancy,2024,78.890243902439
+United States,USA,Developed,life_expectancy,2023,78.3853658536585
+United States,USA,Developed,life_expectancy,2022,77.4341463414634
+United States,USA,Developed,life_expectancy,2021,76.3292682926829
+United States,USA,Developed,life_expectancy,2020,76.9804878048781
+United States,USA,Developed,life_expectancy,2019,78.7878048780488
+United States,USA,Developed,life_expectancy,2018,78.6390243902439
+United States,USA,Developed,life_expectancy,2017,78.5390243902439
+United States,USA,Developed,life_expectancy,2016,78.5390243902439
+United States,USA,Developed,life_expectancy,2015,78.690243902439
+United States,USA,Developed,life_expectancy,2014,78.8414634146341
+United States,USA,Developed,life_expectancy,2013,78.7414634146342
+United States,USA,Developed,life_expectancy,2012,78.7414634146342
+United States,USA,Developed,life_expectancy,2011,78.6414634146341
+United States,USA,Developed,life_expectancy,2010,78.5414634146342
+United States,USA,Developed,life_expectancy,2009,78.390243902439
+United States,USA,Developed,life_expectancy,2008,78.0390243902439
+United States,USA,Developed,life_expectancy,2007,77.9878048780488
+United States,USA,Developed,life_expectancy,2006,77.6878048780488
+United States,USA,Developed,life_expectancy,2005,77.4878048780488
+United States,USA,Developed,life_expectancy,2004,77.4878048780488
+United States,USA,Developed,life_expectancy,2003,77.0365853658537
+United States,USA,Developed,life_expectancy,2002,76.9365853658537
+United States,USA,Developed,life_expectancy,2001,76.8365853658537
+United States,USA,Developed,life_expectancy,2000,76.6365853658537
+United States,USA,Developed,life_expectancy,1999,76.5829268292683
+United States,USA,Developed,life_expectancy,1998,76.5804878048781
+United States,USA,Developed,life_expectancy,1997,76.4292682926829
+United States,USA,Developed,life_expectancy,1996,76.0268292682927
+United States,USA,Developed,life_expectancy,1995,75.6219512195122
+United States,USA,Developed,life_expectancy,1994,75.619512195122
+United States,USA,Developed,life_expectancy,1993,75.419512195122
+United States,USA,Developed,life_expectancy,1992,75.6170731707317
+United States,USA,Developed,life_expectancy,1991,75.3658536585366
+United States,USA,Developed,life_expectancy,1990,75.2146341463415
+United States,USA,Developed,life_expectancy,1989,75.0170731707317
+United States,USA,Developed,life_expectancy,1988,74.7658536585366
+United States,USA,Developed,life_expectancy,1987,74.7658536585366
+United States,USA,Developed,life_expectancy,1986,74.6146341463415
+United States,USA,Developed,life_expectancy,1985,74.5634146341464
+United States,USA,Developed,life_expectancy,1984,74.5634146341464
+United States,USA,Developed,life_expectancy,1983,74.4634146341463
+United States,USA,Developed,life_expectancy,1982,74.3609756097561
+United States,USA,Developed,life_expectancy,1981,74.009756097561
+United States,USA,Developed,life_expectancy,1980,73.609756097561
+United States,USA,Developed,life_expectancy,1979,73.8048780487805
+United States,USA,Developed,life_expectancy,1978,73.3560975609756
+United States,USA,Developed,life_expectancy,1977,73.2560975609756
+United States,USA,Developed,life_expectancy,1976,72.8560975609756
+United States,USA,Developed,life_expectancy,1975,72.6048780487805
+United States,USA,Developed,life_expectancy,1974,71.9560975609756
+United States,USA,Developed,life_expectancy,1973,71.3560975609756
+United States,USA,Developed,life_expectancy,1972,71.1560975609756
+United States,USA,Developed,life_expectancy,1971,71.1073170731707
+United States,USA,Developed,life_expectancy,1970,70.8073170731707
+United States,USA,Developed,life_expectancy,1969,70.5073170731708
+United States,USA,Developed,life_expectancy,1968,69.9512195121951
+United States,USA,Developed,life_expectancy,1967,70.5609756097561
+United States,USA,Developed,life_expectancy,1966,70.2121951219512
+United States,USA,Developed,life_expectancy,1965,70.2146341463415
+United States,USA,Developed,life_expectancy,1964,70.1658536585366
+United States,USA,Developed,life_expectancy,1963,69.9170731707317
+United States,USA,Developed,life_expectancy,1962,70.119512195122
+United States,USA,Developed,life_expectancy,1961,70.2707317073171
+United States,USA,Developed,life_expectancy,1960,69.7707317073171
 United States,USA,Developed,population,2025,341784857.0
 United States,USA,Developed,population,2024,340003797.0
 United States,USA,Developed,population,2023,336755052.0
@@ -3893,6 +6863,72 @@ United States,USA,Developed,population,1963,189242000.0
 United States,USA,Developed,population,1962,186538000.0
 United States,USA,Developed,population,1961,183691000.0
 United States,USA,Developed,population,1960,180671000.0
+United States,USA,Developed,school_enrollment,2025,
+United States,USA,Developed,school_enrollment,2024,
+United States,USA,Developed,school_enrollment,2023,
+United States,USA,Developed,school_enrollment,2022,97.4734878540039
+United States,USA,Developed,school_enrollment,2021,101.192489624023
+United States,USA,Developed,school_enrollment,2020,100.509819030762
+United States,USA,Developed,school_enrollment,2019,100.063430786133
+United States,USA,Developed,school_enrollment,2018,99.2755813598633
+United States,USA,Developed,school_enrollment,2017,98.9523391723633
+United States,USA,Developed,school_enrollment,2016,98.7699279785156
+United States,USA,Developed,school_enrollment,2015,97.6525497436523
+United States,USA,Developed,school_enrollment,2014,96.9245376586914
+United States,USA,Developed,school_enrollment,2013,96.1864929199219
+United States,USA,Developed,school_enrollment,2012,
+United States,USA,Developed,school_enrollment,2011,
+United States,USA,Developed,school_enrollment,2010,
+United States,USA,Developed,school_enrollment,2009,
+United States,USA,Developed,school_enrollment,2008,
+United States,USA,Developed,school_enrollment,2007,
+United States,USA,Developed,school_enrollment,2006,
+United States,USA,Developed,school_enrollment,2005,95.0524826049805
+United States,USA,Developed,school_enrollment,2004,
+United States,USA,Developed,school_enrollment,2003,
+United States,USA,Developed,school_enrollment,2002,
+United States,USA,Developed,school_enrollment,2001,
+United States,USA,Developed,school_enrollment,2000,
+United States,USA,Developed,school_enrollment,1999,94.3246765136719
+United States,USA,Developed,school_enrollment,1998,94.4218521118164
+United States,USA,Developed,school_enrollment,1997,
+United States,USA,Developed,school_enrollment,1996,94.0091171264648
+United States,USA,Developed,school_enrollment,1995,94.1738662719727
+United States,USA,Developed,school_enrollment,1994,96.447883605957
+United States,USA,Developed,school_enrollment,1993,96.611701965332
+United States,USA,Developed,school_enrollment,1992,
+United States,USA,Developed,school_enrollment,1991,95.643310546875
+United States,USA,Developed,school_enrollment,1990,97.017578125
+United States,USA,Developed,school_enrollment,1989,
+United States,USA,Developed,school_enrollment,1988,
+United States,USA,Developed,school_enrollment,1987,97.0655136108398
+United States,USA,Developed,school_enrollment,1986,96.5641403198242
+United States,USA,Developed,school_enrollment,1985,95.6162261962891
+United States,USA,Developed,school_enrollment,1984,97.0303421020508
+United States,USA,Developed,school_enrollment,1983,96.2882537841797
+United States,USA,Developed,school_enrollment,1982,97.2789306640625
+United States,USA,Developed,school_enrollment,1981,94.2881774902344
+United States,USA,Developed,school_enrollment,1980,94.5759201049805
+United States,USA,Developed,school_enrollment,1979,80.3114318847656
+United States,USA,Developed,school_enrollment,1978,85.6170272827148
+United States,USA,Developed,school_enrollment,1977,84.9338073730469
+United States,USA,Developed,school_enrollment,1976,84.4429779052734
+United States,USA,Developed,school_enrollment,1975,84.0370025634766
+United States,USA,Developed,school_enrollment,1974,84.0231704711914
+United States,USA,Developed,school_enrollment,1973,
+United States,USA,Developed,school_enrollment,1972,84.2062911987305
+United States,USA,Developed,school_enrollment,1971,83.3990478515625
+United States,USA,Developed,school_enrollment,1970,
+United States,USA,Developed,school_enrollment,1969,
+United States,USA,Developed,school_enrollment,1968,
+United States,USA,Developed,school_enrollment,1967,
+United States,USA,Developed,school_enrollment,1966,
+United States,USA,Developed,school_enrollment,1965,
+United States,USA,Developed,school_enrollment,1964,
+United States,USA,Developed,school_enrollment,1963,
+United States,USA,Developed,school_enrollment,1962,
+United States,USA,Developed,school_enrollment,1961,
+United States,USA,Developed,school_enrollment,1960,
 United States,USA,Developed,unemployment,2025,4.198
 United States,USA,Developed,unemployment,2024,4.022
 United States,USA,Developed,unemployment,2023,3.638

@@ -3,196 +3,326 @@ import pandas as pd
 from pathlib import Path
 
 
-@st.cache_data
-def load_data():
-    return pd.read_csv(
-        Path("data/processed/development_data.csv")
-    )
+# ============================================================
+# PAGE CONFIG
+# ============================================================
+
+st.set_page_config(
+    page_title="Automated Insights",
+    page_icon="🧠",
+    layout="wide"
+)
 
 
-df = load_data()
+# ============================================================
+# LOAD DATA
+# ============================================================
+
+DATA_PATH = Path(
+    "data/processed/development_index.csv"
+)
+
+df = pd.read_csv(DATA_PATH)
+
+
+# ============================================================
+# HEADER
+# ============================================================
 
 st.title("🧠 Automated Development Insights")
 
 st.markdown(
     """
-    This page automatically identifies important patterns,
-    differences, and development gaps within the dataset.
+    Automatically generated analytical insights based on
+    development performance, peer-group comparisons, and
+    development dimensions.
     """
 )
 
 st.divider()
 
-latest_year = df["year"].max()
 
-latest = df[df["year"] == latest_year].copy()
+# ============================================================
+# COUNTRY SELECTION
+# ============================================================
 
-
-# --------------------------------------------------
-# GDP PER CAPITA GAP
-# --------------------------------------------------
-
-st.subheader("💰 Economic Development Gap")
-
-gdp_pc = latest[
-    latest["indicator"] == "gdp_per_capita"
-].dropna(subset=["value"])
-
-
-group_gdp_pc = (
-    gdp_pc
-    .groupby("development_group")["value"]
-    .mean()
+selected_country = st.selectbox(
+    "🌍 Select a country",
+    sorted(df["country"].unique())
 )
 
 
-if (
-    "Developed" in group_gdp_pc.index
-    and "Least Developed" in group_gdp_pc.index
-):
-
-    developed_avg = group_gdp_pc["Developed"]
-    ldc_avg = group_gdp_pc["Least Developed"]
-
-    gap = (
-        (developed_avg - ldc_avg)
-        / developed_avg
-    ) * 100
-
-    st.info(
-        f"📌 In {latest_year}, the average GDP per capita "
-        f"of Developed countries was approximately "
-        f"**{gap:.1f}% higher** than the Least Developed group."
-    )
+country = df[
+    df["country"] == selected_country
+].iloc[0]
 
 
-# --------------------------------------------------
-# HIGHEST GDP
-# --------------------------------------------------
-
-st.subheader("🏆 Largest Economies")
-
-gdp = latest[
-    latest["indicator"] == "gdp"
-].dropna(subset=["value"])
+development_group = country["development_group"]
 
 
-if not gdp.empty:
+# ============================================================
+# DEVELOPMENT DIMENSIONS
+# ============================================================
 
-    highest_gdp = (
-        gdp
-        .sort_values("value", ascending=False)
-        .iloc[0]
-    )
+dimensions = {
+    "Economic Development": country["economic_score"],
+    "Social Development": country["social_score"],
+    "Infrastructure": country["infrastructure_score"],
+    "Employment": country["employment_score"]
+}
+
+
+strongest_area = max(
+    dimensions,
+    key=dimensions.get
+)
+
+weakest_area = min(
+    dimensions,
+    key=dimensions.get
+)
+
+strongest_score = dimensions[strongest_area]
+weakest_score = dimensions[weakest_area]
+
+
+# ============================================================
+# PEER ANALYSIS
+# ============================================================
+
+peers = df[
+    df["development_group"] == development_group
+]
+
+
+peer_average = peers[
+    "development_index"
+].mean()
+
+
+country_score = country[
+    "development_index"
+]
+
+
+peer_gap = country_score - peer_average
+
+
+# ============================================================
+# RANK
+# ============================================================
+
+rank = int(
+    country["development_rank"]
+)
+
+total_countries = len(df)
+
+
+# ============================================================
+# INSIGHT 1 — DEVELOPMENT PERFORMANCE
+# ============================================================
+
+st.subheader("📊 Development Performance")
+
+if peer_gap > 0:
 
     st.success(
-        f"🏆 **{highest_gdp['country']}** had the largest "
-        f"GDP among the countries analyzed in {latest_year}, "
-        f"at approximately **${highest_gdp['value']:,.0f}**."
+        f"📈 **{selected_country}** has a development "
+        f"index of **{country_score:.1f}/100**, which is "
+        f"**{peer_gap:.1f} points above** the average "
+        f"of its {development_group} peers."
     )
 
+elif peer_gap < 0:
 
-# --------------------------------------------------
-# POPULATION
-# --------------------------------------------------
-
-st.subheader("👥 Population Insight")
-
-population = latest[
-    latest["indicator"] == "population"
-].dropna(subset=["value"])
-
-
-if not population.empty:
-
-    largest_population = (
-        population
-        .sort_values("value", ascending=False)
-        .iloc[0]
+    st.warning(
+        f"📉 **{selected_country}** has a development "
+        f"index of **{country_score:.1f}/100**, which is "
+        f"**{abs(peer_gap):.1f} points below** the average "
+        f"of its {development_group} peers."
     )
+
+else:
 
     st.info(
-        f"👥 **{largest_population['country']}** had the "
-        f"largest population in the dataset in {latest_year}, "
-        f"with approximately **{largest_population['value']:,.0f} people**."
+        f"⚖️ **{selected_country}** is approximately "
+        f"at the average development level of its peers."
     )
 
 
-# --------------------------------------------------
-# UNEMPLOYMENT
-# --------------------------------------------------
+# ============================================================
+# INSIGHT CARDS
+# ============================================================
 
-st.subheader("💼 Employment Insight")
-
-unemployment = latest[
-    latest["indicator"] == "unemployment"
-].dropna(subset=["value"])
+col1, col2, col3 = st.columns(3)
 
 
-if not unemployment.empty:
+with col1:
 
-    highest_unemployment = (
-        unemployment
-        .sort_values("value", ascending=False)
-        .iloc[0]
+    st.metric(
+        "Development Rank",
+        f"#{rank} / {total_countries}"
     )
 
-    lowest_unemployment = (
-        unemployment
-        .sort_values("value")
-        .iloc[0]
+
+with col2:
+
+    st.metric(
+        "Strongest Dimension",
+        strongest_area,
+        f"{strongest_score:.1f}/100"
     )
 
-    col1, col2 = st.columns(2)
 
-    with col1:
+with col3:
 
-        st.warning(
-            f"🔴 Highest unemployment: "
-            f"**{highest_unemployment['country']}** "
-            f"({highest_unemployment['value']:.2f}%)"
-        )
-
-    with col2:
-
-        st.success(
-            f"🟢 Lowest unemployment: "
-            f"**{lowest_unemployment['country']}** "
-            f"({lowest_unemployment['value']:.2f}%)"
-        )
-
-
-# --------------------------------------------------
-# DEVELOPMENT GROUP INSIGHT
-# --------------------------------------------------
-
-st.subheader("🌐 Development Group Insight")
-
-group_gdp = (
-    latest[
-        latest["indicator"] == "gdp"
-    ]
-    .dropna(subset=["value"])
-    .groupby("development_group")["value"]
-    .mean()
-    .sort_values(ascending=False)
-)
-
-
-if not group_gdp.empty:
-
-    highest_group = group_gdp.index[0]
-
-    st.info(
-        f"📊 Among the three development groups, "
-        f"**{highest_group}** had the highest average GDP "
-        f"in {latest_year}."
+    st.metric(
+        "Weakest Dimension",
+        weakest_area,
+        f"{weakest_score:.1f}/100"
     )
 
+
+# ============================================================
+# STRENGTH
+# ============================================================
 
 st.divider()
 
-st.caption(
-    "Insights are automatically generated from the latest available "
-    "World Bank data in the project dataset."
+st.subheader("🟢 Key Strength")
+
+st.success(
+    f"**{strongest_area}** is the strongest development "
+    f"dimension for **{selected_country}**, with a score "
+    f"of **{strongest_score:.1f}/100**."
+)
+
+
+# ============================================================
+# WEAKNESS
+# ============================================================
+
+st.subheader("🔴 Key Development Gap")
+
+st.error(
+    f"**{weakest_area}** is the weakest development "
+    f"dimension for **{selected_country}**, with a score "
+    f"of **{weakest_score:.1f}/100**."
+)
+
+
+# ============================================================
+# SDG PRIORITY
+# ============================================================
+
+sdg_mapping = {
+
+    "Economic Development":
+        ("SDG 8", "Decent Work & Economic Growth"),
+
+    "Social Development":
+        ("SDG 3 / SDG 4",
+         "Good Health & Quality Education"),
+
+    "Infrastructure":
+        ("SDG 7",
+         "Affordable & Clean Energy"),
+
+    "Employment":
+        ("SDG 8",
+         "Decent Work & Economic Growth")
+}
+
+
+sdg_code, sdg_name = sdg_mapping[
+    weakest_area
+]
+
+
+st.subheader("🎯 Recommended SDG Priority")
+
+st.info(
+    f"Based on the weakest development dimension, "
+    f"**{selected_country}** should prioritize "
+    f"**{sdg_code} — {sdg_name}**."
+)
+
+
+# ============================================================
+# OVERALL AUTOMATED SUMMARY
+# ============================================================
+
+st.divider()
+
+st.subheader("🧠 Automated Summary")
+
+summary = (
+    f"**{selected_country}** belongs to the "
+    f"**{development_group}** group and currently has "
+    f"an overall development score of "
+    f"**{country_score:.1f}/100**. "
+)
+
+if peer_gap < 0:
+
+    summary += (
+        f"Its development performance is "
+        f"**{abs(peer_gap):.1f} points below** "
+        f"its peer-group average. "
+    )
+
+elif peer_gap > 0:
+
+    summary += (
+        f"Its development performance is "
+        f"**{peer_gap:.1f} points above** "
+        f"its peer-group average. "
+    )
+
+else:
+
+    summary += (
+        "Its development performance is close to "
+        "its peer-group average. "
+    )
+
+
+summary += (
+    f"The country's strongest area is "
+    f"**{strongest_area} ({strongest_score:.1f}/100)**, "
+    f"while **{weakest_area} ({weakest_score:.1f}/100)** "
+    f"represents its largest development challenge. "
+    f"The analysis therefore highlights "
+    f"**{sdg_code} — {sdg_name}** as a priority area."
+)
+
+
+st.markdown(summary)
+
+
+# ============================================================
+# DIMENSION TABLE
+# ============================================================
+
+st.divider()
+
+st.subheader("📋 Detailed Dimension Analysis")
+
+
+dimension_df = pd.DataFrame(
+    {
+        "Dimension": list(dimensions.keys()),
+        "Score": [
+            round(value, 2)
+            for value in dimensions.values()
+        ]
+    }
+)
+
+
+st.dataframe(
+    dimension_df,
+    use_container_width=True,
+    hide_index=True
 )

@@ -31,4 +31,7 @@ INDICATORS = {
     "gdp": "NY.GDP.MKTP.CD",
     "gdp_per_capita": "NY.GDP.PCAP.CD",
     "unemployment": "SL.UEM.TOTL.ZS",
+    "life_expectancy": "SP.DYN.LE00.IN",
+    "school_enrollment": "SE.SEC.ENRR",
+    "electricity_access": "EG.ELC.ACCS.ZS"
 }

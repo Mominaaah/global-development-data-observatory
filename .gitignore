@@ -28,3 +28,10 @@ dist/
 
 # Temporary
 *.log
+
+# Data cache / generated files
+data/raw/
+
+# Python cache
+__pycache__/
+**/__pycache__/

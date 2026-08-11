@@ -7,6 +7,7 @@ from src.utils.config import COUNTRIES
 # Folders
 processed_folder = Path("data/processed")
 
+
 # Store all country-to-group mappings
 country_groups = {}
 
@@ -17,10 +18,16 @@ for group, countries in COUNTRIES.items():
 
 all_data = []
 
-# Read every processed CSV except the final master file
+
+# Read every processed CSV except master/derived datasets
 for csv_file in processed_folder.glob("*.csv"):
 
-    if csv_file.name == "development_data.csv":
+    # Skip master and derived datasets
+    if (
+        csv_file.name == "development_data.csv"
+        or csv_file.name.startswith("development_data_")
+    ):
+        print(f"⏭️ Skipping derived dataset: {csv_file.name}")
         continue
 
     print(f"📄 Reading {csv_file.name}")
@@ -43,6 +50,7 @@ for csv_file in processed_folder.glob("*.csv"):
 # Combine all datasets
 master_df = pd.concat(all_data, ignore_index=True)
 
+
 # Reorder columns
 master_df = master_df[
     [
@@ -55,10 +63,12 @@ master_df = master_df[
     ]
 ]
 
+
 # Save final dataset
 output_path = processed_folder / "development_data.csv"
 
 master_df.to_csv(output_path, index=False)
+
 
 print("\n" + "=" * 50)
 print("MASTER DATASET CREATED")
@@ -67,6 +77,7 @@ print(f"Rows: {len(master_df)}")
 print(f"Columns: {len(master_df.columns)}")
 print(f"Saved to: {output_path}")
 print("=" * 50)
+
 
 print("\nPreview:")
 print(master_df.head())

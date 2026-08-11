@@ -1,203 +1,264 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 from pathlib import Path
 
 
-@st.cache_data
-def load_data():
-    return pd.read_csv(
-        Path("data/processed/development_data.csv")
-    )
+st.set_page_config(
+    page_title="SDG Development Lens",
+    page_icon="🇺🇳",
+    layout="wide"
+)
 
 
-df = load_data()
+# ============================================================
+# LOAD DEVELOPMENT INDEX
+# ============================================================
+
+DATA_PATH = Path(
+    "data/processed/development_index.csv"
+)
+
+df = pd.read_csv(DATA_PATH)
+
+
+# ============================================================
+# HEADER
+# ============================================================
 
 st.title("🇺🇳 SDG Development Lens")
 
-st.markdown("""
-### Measuring Development Through an SDG-Aligned Lens
+st.markdown(
+    """
+    Explore development performance across economic, social,
+    infrastructure, and employment dimensions.
 
-This section connects selected World Bank indicators with
-major **UN Sustainable Development Goal (SDG)** themes.
-
-> This is an independent analytical project and is **not an official UN dashboard**.
-""")
+    **Note:** The Development Index is a portfolio analytical
+    measure created for this project. It is not an official
+    United Nations SDG index.
+    """
+)
 
 st.divider()
 
-# --------------------------------------------------
-# SDG DEFINITIONS
-# --------------------------------------------------
 
-sdg_info = {
-    "SDG 3 — Good Health & Well-being": {
-        "indicator": "life_expectancy",
-        "description": "Life expectancy is used as a broad indicator of population health."
-    },
+# ============================================================
+# COUNTRY SELECTOR
+# ============================================================
 
-    "SDG 8 — Decent Work & Economic Growth": {
-        "indicator": "gdp_per_capita",
-        "description": "GDP per capita and unemployment help examine economic opportunity and employment."
-    },
+countries = sorted(df["country"].dropna().unique())
 
-    "SDG 10 — Reduced Inequalities": {
-        "indicator": "gdp_per_capita",
-        "description": "GDP per capita differences help illustrate economic disparities between country groups."
-    },
+selected_country = st.selectbox(
+    "🌍 Select a country",
+    countries
+)
 
-    "SDG 13 — Climate Action": {
-        "indicator": "co2_emissions",
-        "description": "CO₂ emissions per capita provide an environmental comparison across countries."
+
+country = df[
+    df["country"] == selected_country
+].iloc[0]
+
+
+# ============================================================
+# TOP METRICS
+# ============================================================
+
+col1, col2, col3, col4, col5 = st.columns(5)
+
+
+with col1:
+    st.metric(
+        "Overall Development",
+        f"{country['development_index']:.1f}/100"
+    )
+
+
+with col2:
+    st.metric(
+        "Economic",
+        f"{country['economic_score']:.1f}/100"
+    )
+
+
+with col3:
+    st.metric(
+        "Social",
+        f"{country['social_score']:.1f}/100"
+    )
+
+
+with col4:
+    st.metric(
+        "Infrastructure",
+        f"{country['infrastructure_score']:.1f}/100"
+    )
+
+with col5:
+    st.metric(
+        "Employment",
+        f"{country['employment_score']:.1f}/100"
+    )
+
+st.divider()
+
+
+# ============================================================
+# DEVELOPMENT DIMENSIONS
+# ============================================================
+
+st.subheader("📊 Development Dimensions")
+
+
+dimensions = pd.DataFrame(
+    {
+        "Dimension": [
+            "Economic Development",
+            "Social Development",
+            "Infrastructure",
+            "Employment"
+        ],
+        "Score": [
+            country["economic_score"],
+            country["social_score"],
+            country["infrastructure_score"],
+            country["employment_score"]
+        ]
     }
+)
+
+# ============================================================
+# DEVELOPMENT STRENGTHS & GAPS
+# ============================================================
+
+st.subheader("🔎 Development Strengths & Gaps")
+
+dimension_scores = {
+    "Economic Development": country["economic_score"],
+    "Social Development": country["social_score"],
+    "Infrastructure": country["infrastructure_score"],
+    "Employment": country["employment_score"]
 }
 
-
-# --------------------------------------------------
-# SDG SELECTION
-# --------------------------------------------------
-
-selected_sdg = st.selectbox(
-    "🎯 Select an SDG Theme",
-    list(sdg_info.keys())
+strongest_area = max(
+    dimension_scores,
+    key=dimension_scores.get
 )
 
-info = sdg_info[selected_sdg]
+weakest_area = min(
+    dimension_scores,
+    key=dimension_scores.get
+)
 
-indicator = info["indicator"]
+strongest_score = dimension_scores[strongest_area]
+weakest_score = dimension_scores[weakest_area]
 
-st.info(info["description"])
+
+col1, col2 = st.columns(2)
 
 
-# --------------------------------------------------
-# CHECK WHETHER INDICATOR EXISTS
-# --------------------------------------------------
+with col1:
 
-if indicator not in df["indicator"].unique():
-
-    st.warning(
-        f"The indicator `{indicator}` is not yet available in your dataset."
+    st.success(
+        f"🟢 Strongest Area\n\n"
+        f"**{strongest_area}** — "
+        f"{strongest_score:.1f}/100"
     )
 
-    st.write(
-        "Add this indicator to your World Bank API configuration, "
-        "download the data, run the ETL pipeline, and return here."
+
+with col2:
+
+    st.error(
+        f"🔴 Largest Development Gap\n\n"
+        f"**{weakest_area}** — "
+        f"{weakest_score:.1f}/100"
     )
 
-    st.stop()
+# ============================================================
+# SDG PRIORITY
+# ============================================================
+
+sdg_mapping = {
+
+    "Economic Development": (
+        "SDG 8",
+        "Decent Work & Economic Growth"
+    ),
+
+    "Social Development": (
+        "SDG 3 / SDG 4",
+        "Good Health & Quality Education"
+    ),
+
+    "Infrastructure": (
+        "SDG 7",
+        "Affordable & Clean Energy"
+    ),
+
+    "Employment": (
+        "SDG 8",
+        "Decent Work & Economic Growth"
+    )
+}
+
+sdg_code, sdg_name = sdg_mapping[weakest_area]
 
 
-# --------------------------------------------------
-# FILTER DATA
-# --------------------------------------------------
+st.subheader("🎯 Priority SDG Area")
 
-indicator_df = df[
-    df["indicator"] == indicator
-].dropna(subset=["value"])
+st.info(
+    f"**{weakest_area}** is currently the weakest "
+    f"development dimension for **{selected_country}**.\n\n"
+    f"**Related SDG:** {sdg_code} — {sdg_name}"
+)
 
-
-latest_year = indicator_df["year"].max()
-
-latest = indicator_df[
-    indicator_df["year"] == latest_year
-]
-
-
-st.subheader(
-    f"📊 Latest Comparison — {latest_year}"
+st.bar_chart(
+    dimensions.set_index("Dimension")
 )
 
 
-# --------------------------------------------------
-# GROUP COMPARISON
-# --------------------------------------------------
+# ============================================================
+# COUNTRY RANKING
+# ============================================================
 
-group_data = (
-    latest
-    .groupby("development_group", as_index=False)["value"]
-    .mean()
+st.subheader("🏆 Global Development Ranking")
+
+
+ranking = df[
+    [
+        "country",
+        "development_group",
+        "development_index",
+        "development_rank"
+    ]
+].sort_values("development_rank")
+
+
+st.dataframe(
+    ranking,
+    use_container_width=True,
+    hide_index=True
 )
 
 
-fig = px.bar(
-    group_data,
-    x="development_group",
-    y="value",
-    title=f"{indicator.replace('_', ' ').title()} by Development Group",
-    text_auto=".2s"
-)
+# ============================================================
+# SDG CONNECTIONS
+# ============================================================
 
-fig.update_layout(
-    xaxis_title="Development Group",
-    yaxis_title=indicator.replace("_", " ").title()
-)
+st.divider()
 
-st.plotly_chart(
-    fig,
-    use_container_width=True
-)
+st.subheader("🎯 SDG Lens")
 
+st.markdown(
+    """
+    **SDG 3 — Good Health & Well-being**  
+    Represented through life expectancy.
 
-# --------------------------------------------------
-# COUNTRY COMPARISON
-# --------------------------------------------------
+    **SDG 4 — Quality Education**  
+    Represented through school enrollment.
 
-st.subheader("🌍 Country Comparison")
+    **SDG 7 — Affordable & Clean Energy**  
+    Represented through electricity access.
 
-
-fig = px.bar(
-    latest.sort_values("value"),
-    x="value",
-    y="country",
-    color="development_group",
-    orientation="h",
-    title=f"{indicator.replace('_', ' ').title()} Across Countries"
-)
-
-fig.update_layout(
-    xaxis_title=indicator.replace("_", " ").title(),
-    yaxis_title="Country"
-)
-
-st.plotly_chart(
-    fig,
-    use_container_width=True
-)
-
-
-# --------------------------------------------------
-# HISTORICAL TREND
-# --------------------------------------------------
-
-st.subheader("📈 Long-Term Development Trend")
-
-
-trend = (
-    indicator_df
-    .groupby(
-        ["development_group", "year"],
-        as_index=False
-    )["value"]
-    .mean()
-)
-
-
-fig = px.line(
-    trend,
-    x="year",
-    y="value",
-    color="development_group",
-    title=f"{indicator.replace('_', ' ').title()} — Development Groups Over Time",
-    markers=True
-)
-
-fig.update_layout(
-    xaxis_title="Year",
-    yaxis_title="Average Value",
-    hovermode="x unified"
-)
-
-st.plotly_chart(
-    fig,
-    use_container_width=True
+    **SDG 8 — Decent Work & Economic Growth**  
+    Represented through GDP per capita and unemployment.
+    """
 )
