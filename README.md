@@ -88,6 +88,8 @@ The platform currently works with **7 development indicators**:
 
 These indicators provide a multidimensional view of development rather than relying on GDP alone.
 
+---
+
 # Data Pipeline
 
 The project follows an end-to-end data engineering and analytics workflow:
@@ -122,6 +124,7 @@ The project follows an end-to-end data engineering and analytics workflow:
  SDG Analysis
  Automated Insights
 ```
+---
 
 ## ETL Pipeline
 
@@ -139,8 +142,6 @@ The extraction layer supports:
 - Retry logic
 - Raw JSON storage
 
----
-
 ### 2. Transform
 
 The raw API responses are transformed into structured datasets.
@@ -153,8 +154,6 @@ The processing layer:
 - Identifies indicators
 - Associates countries with development groups
 - Creates standardized CSV datasets
-
----
 
 ### 3. Load
 
@@ -279,6 +278,8 @@ Examines development indicators through an SDG-oriented perspective.
 ### Automated Insights
 
 Provides automatically generated analytical observations.
+
+---
 
 # Technology Stack
 
