@@ -24,8 +24,6 @@ Rather than focusing on a single country or metric, the platform provides a comp
 
 The goal is to transform raw development data into meaningful analytical insights that can help users understand economic, demographic, employment, infrastructure, education, and human-development differences.
 
----
-
 ## Project Objectives
 
 The main objectives of this project are to:
@@ -39,8 +37,6 @@ The main objectives of this project are to:
 - Explore indicators relevant to the United Nations Sustainable Development Goals.
 - Generate automated analytical insights.
 - Provide an interactive dashboard for exploration and comparison.
-
----
 
 ## Countries Covered
 
@@ -76,8 +72,6 @@ The project currently analyzes **15 countries** divided into three development g
 | Uganda | UGA |
 | Malawi | MWI |
 
----
-
 ## Indicators
 
 The platform currently works with **7 development indicators**:
@@ -93,8 +87,6 @@ The platform currently works with **7 development indicators**:
 | School Enrollment | Secondary school enrollment |
 
 These indicators provide a multidimensional view of development rather than relying on GDP alone.
-
----
 
 # Data Pipeline
 
@@ -130,8 +122,6 @@ The project follows an end-to-end data engineering and analytics workflow:
  SDG Analysis
  Automated Insights
 ```
-
----
 
 ## ETL Pipeline
 
@@ -290,8 +280,6 @@ Examines development indicators through an SDG-oriented perspective.
 
 Provides automatically generated analytical observations.
 
----
-
 # Technology Stack
 
 | Technology     | Purpose                             |
@@ -366,8 +354,6 @@ git clone https://github.com/Mominaaah/global-development-data-observatory.git
 cd global-development-data-observatory
 ```
 
----
-
 ## 2. Create a virtual environment
 
 ### Windows
@@ -424,15 +410,11 @@ Combine the processed datasets:
 python -m src.etl.combine_data
 ```
 
----
-
 ## Run the Development Index
 
 ```bash
 python -m src.analysis.development_index
 ```
-
----
 
 ## Launch the Dashboard
 
@@ -479,8 +461,6 @@ The project is designed to answer questions such as:
 - Which countries demonstrate stronger overall development performance?
 - What development patterns can be identified from multiple indicators simultaneously?
 
----
-
 # Why This Project Matters
 
 Development cannot be represented by a single metric.
@@ -490,8 +470,6 @@ A country's GDP may be high while social or infrastructure outcomes remain uneve
 This project therefore uses a **multidimensional analytical approach** to provide a broader view of development.
 
 The platform combines economic, demographic, employment, infrastructure, education, and human-development indicators into one analytical environment.
-
----
 
 # Future Improvements
 
@@ -509,8 +487,6 @@ Planned improvements include:
 - [ ] Automated pipeline execution
 - [ ] Additional interactive visualizations
 
----
-
 # Project Status
 
 **Current Status: Active Development**
@@ -518,8 +494,6 @@ Planned improvements include:
 The core data pipeline, analytical layer, development index, and interactive dashboard have been implemented.
 
 The next phase focuses on deployment, reproducibility, and further analytical enhancements.
-
----
 
 # Author
 
